@@ -1,0 +1,22 @@
++ new distance/station
+- removed distance/station
+* changed distance/station
+? other
+
+2021-11-30
+* Wróblin Głogowski -> Głogów Wróblin
+* XXX Gr -> XXX (Gr)
++ Kraków Złocień
++ Grębocin
++ Lubicz
++ Dobrzejewice
++ Obrowo
++ Czernikowo
++ Ograszka
++ Konotopie
++ Lipno
++ Karnkowo
++ Skępe
++ Czermno
++ Koziołek
++ Podwierzbie
