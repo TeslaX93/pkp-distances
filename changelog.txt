@@ -3,6 +3,18 @@
 * changed distance/station
 ? other
 
+2021-12-03
++ Wrocław Kowale
++ Wrocław Popiele
++ Wrocław Swojczyce
++ Wrocław Strachocin
++ Wrocław Wojnów
++ Wrocław Wojnów Wschodni
++ Dobrzykowice Wrocławskie
++ Nadolice Małe
++ Nadolice Wielkie
++ Chrząstawa Mała
+
 2021-11-30
 * Wróblin Głogowski -> Głogów Wróblin
 * XXX Gr -> XXX (Gr)
