@@ -3,6 +3,10 @@
 * changed distance/station
 ? other
 
+2021-12-06
++ Warszawa Targówek
++ Warszawa Wschodnia -> Warszawa Praga
+
 2021-12-03
 + Wrocław Kowale
 + Wrocław Popiele
