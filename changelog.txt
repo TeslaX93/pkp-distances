@@ -3,6 +3,9 @@
 * changed distance/station
 ? other
 
+2021-12-09
+* Radom -> Radom Główny
+
 2021-12-06
 + Warszawa Targówek
 + Warszawa Wschodnia -> Warszawa Praga
