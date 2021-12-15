@@ -3,6 +3,11 @@
 * changed distance/station
 ? other
 
+2021-12-15
++ Olsztyn Redykajny
++ Olsztyn Likusy
++ Olsztyn Jezioro Ukiel
+
 2021-12-10
 + Iwiny
 + Berejów
