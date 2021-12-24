@@ -3,6 +3,9 @@
 * changed distance/station
 ? other
 
+2021-12-24
+* Kamień Śląski -> Otmice
+
 2021-12-15
 + Olsztyn Redykajny
 + Olsztyn Likusy
