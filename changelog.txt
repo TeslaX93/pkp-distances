@@ -3,7 +3,6 @@
 * changed distance/station
 ? other
 
-Last updates:
 
 2021-12-24
 * Kamień Śląski -> Otmice
