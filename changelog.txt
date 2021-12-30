@@ -3,6 +3,8 @@
 * changed distance/station
 ? other
 
+2021-12-30
+* Bodganiec -> Bogdaniec [ort]
 
 2021-12-24
 * Kamień Śląski -> Otmice
