@@ -3,6 +3,9 @@
 * changed distance/station
 ? other
 
+2022-01-15
+* Spytkownice Kępki -> Spytkowice Kępki [ort]
+
 2021-12-30
 * Bodganiec -> Bogdaniec [ort]
 
