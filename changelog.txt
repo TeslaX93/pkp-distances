@@ -3,6 +3,38 @@
 * changed distance/station
 ? other
 
+2022-05-30
++ Czerwieńsk <-> Guben
++ Uherce <-> Ustrzyki Dolne
++ Wrocław Główny - Świdnica Miasto
++ Nietków
++ Laski Odrzańskie
++ Szczawno-Ciemnice
++ Wężyska
++ Wałowice
++ Gubin
++ Gubin (Gr)
++ Guben
++ Załuż
++ Jankowce
++ Uherce Tunel
++ Olszanica
++ Ustianowa
++ Ustrzyki Dolne
++ Wrocław Wojszyce
++ Wrocław Partynice
++ Bielany Wrocławskie
++ Domasław
++ Kobierzyce
++ Wierzbice Wrocławskie
++ Pustków Żurawski
++ Rogów Sobócki
++ Sobótka
++ Szczepanów
++ Marcinowice Świdnickie
++ Pszenno
++ Świdnica Przedmieście
+
 2022-04-03
 * Kraków Business Park -> Zabierzów Rząska
 
