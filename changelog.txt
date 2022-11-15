@@ -3,6 +3,11 @@
 * changed distance/station
 ? other
 
+2022-11-15
++ Mielec <-> Padew
++ Lubawka (Gr)
++ Sosnowiec Główny <-> Sosnowiec Południowy
+
 2022-04-08
 + Cieszyn <-> Goleszów
 + Cieszyn Uniwersytet
