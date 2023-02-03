@@ -1,7 +1,21 @@
-+ new distance/station
++ new station
+<-> new distance
 - removed distance/station
 * changed distance/station
+-> renamed station 
 ? other
+
+2023-02-03
++ Gdańsk Firoga
+
+2022-12-02
++ Chojnów <-> Chocianów
++ Biała Górna
++ Rokitki
++ Chocianów
++ Ustroń Brzegi
++ Wisła Jawornik
+- Wisła Obłaziec
 
 2022-11-15
 + Mielec <-> Padew
@@ -18,7 +32,7 @@
 2022-05-30
 + Czerwieńsk <-> Guben
 + Uherce <-> Ustrzyki Dolne
-+ Wrocław Główny - Świdnica Miasto
++ Wrocław Główny <-> Świdnica Miasto
 + Nietków
 + Laski Odrzańskie
 + Szczawno-Ciemnice
