@@ -5,6 +5,21 @@
 -> renamed station 
 ? other
 
+2023-04-25
+Warszawa Zachodnia Peron 8 -> Warszawa Zachodnia Peron 9
++ Warszawa Zachodnia Peron 9 <-> Warszawa Aleje Jerozolimskie
++ Warszawa Wschodnia <-> Warszawa ZOO
++ Wielowieś <-> Sobów
++ Ocice
++ Żurawica -> Żurawica Osobowa
++ Dorohusk <-> Jagodin
++ Werchrata <-> Rawa Russkaia I
++ Ustrzyki Dolne <-> Chirow Osobowy
++ Krościenko
++ Starżawa
++ Grzęska <-> Gniewczyna
++ Stafanowo -> Stefanowo
+
 2023-03-20
 + Wolbrom Zachodni
 + Sosnowiec Maczki
