@@ -5,11 +5,30 @@
 -> renamed station 
 ? other
 
+2023-06-12
++ Ostrołęka -> Chorzele
++ Grabowo
++ Nowa Wieś Kościelna
++ Zabiele Wielkie
++ Jastrząbka
++ Parciaki
++ Olszewka
++ Raszujka
++ Chorzele
++ Adamowo
++ Rzeszów Centrum
++ Rzeszów Politechnika
++ Boguchwała Dolna
++ Rzeszów Pobitno
++ Rzeszów Staromieście
++ Kolbuszowa Górna
++ Głogów Małopolski Niwa
+
 2023-05-01
-Ruskie Piaski -> Krzak
+* Ruskie Piaski -> Krzak
 
 2023-04-25
-Warszawa Zachodnia Peron 8 -> Warszawa Zachodnia Peron 9
+* Warszawa Zachodnia Peron 8 -> Warszawa Zachodnia Peron 9
 + Warszawa Zachodnia Peron 9 <-> Warszawa Aleje Jerozolimskie
 + Warszawa Wschodnia <-> Warszawa ZOO
 + Wielowieś <-> Sobów
