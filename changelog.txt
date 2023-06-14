@@ -5,6 +5,10 @@
 -> renamed station 
 ? other
 
+2023-06-14
+* Szklarska Poręba Jakuszyce -> Polana Jakuszycka
++ Koniecpol Centrum
+
 2023-06-12
 + Ostrołęka -> Chorzele
 + Grabowo
