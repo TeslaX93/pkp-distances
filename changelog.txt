@@ -5,6 +5,25 @@
 -> renamed station 
 ? other
 
+2023-06-15
++ Świdnica Miasto <-> Jedlina-Zdrój
++ Kłodzko Miasto <-> Stronie Śląskie
++ Burkatów
++ Bystrzyca Górna
++ Lubachów
++ Zagórze Śląskie
++ Jugowice
++ Jedlina-Zdrój Centrum
++ Boguszów-Gorce Dzikowiec
++ Krosnowice Kłodzkie
++ Żelazno
++ Ołdrzychowice Kłodzkie 
++ Trzebieszowice
++ Radochów
++ Lądek Zdrój 
++ Lądek Stójków
++ Stronie Śląskie 
+
 2023-06-14
 * Szklarska Poręba Jakuszyce -> Polana Jakuszycka
 + Koniecpol Centrum
