@@ -5,6 +5,83 @@
 -> renamed station 
 ? other
 
+2023-06-27
+? TODO: Gdynia Orłowo vs Gdynia Orłowo SKM
++ Radom Stara Wola
++ Radom Północny
++ Radom Gołębiów
++ Warka Miasto
+* Świder -> Otwock Świder
++ Otwock Śródborów
++ Pogorzel Warszawska
++ Stara Wieś
++ Celestynów
++ Kołbiel
++ Chrosna
++ Zabieżki
+* Łaskarzew Przystanek -> Łaskarzew
+* Chełmek Fabryka -> Chełmek
++ Hajnówka <-> Lewki
++ Chytra
++ Stare Berezowo
++ Morze
++ Orlanka
++ Mikłasze
++ Dragacz
++ Kity
++ Dąbrowa-Łazy
++ Zaręby Kościelne
++ Kietlanka
++ Szulborze Wielkie
++ Dąbrówka Zabłotnia
++ Dębska Wola
++ Włoszczowice
+* Długopole Zdrój -> Długopole-Zdrój
+* Gdynia Orłowo -> Gdynia Orłowo SKM
+* Chorzelin -> Gorzelin
++ Goszczowice
+* Gregorowice -> Gregorowce
+* Zarzecze koło Dęblina -> Zajezierze koło Dęblina
++ Groszowice Wrzosów
+* Hrynkiewicze -> Hryniewicze
+* Kołodziejowo -> Kołodziejewo
+* Pożóg -> Końskowola
++ Krosno Odrzańskie
+* Krzywiń Gryficki -> Krzywin Gryfiński
+* Azory -> Kutno Azory
+* Kwidzyń -> Kwidzyn
+* Kępica -> Kępice
+* Lipniki -> Lipinki
+* Lipniki Łużyckie -> Lipinki Łużyckie
+* Małaszewicze Przystanek -> Małaszewicze
+* Mierzęcin Strzelecki -> Mierzęcin
+* Olszynek -> Olsztynek
+* Pelpin -> Pelplin
++ Rzozów Centrum
++ Skarżysko Zachodnie
++ Tomaszów Mazowiecki <-> Spała
++ Spała 
+* Suchatówki -> Suchatówka
++ Suszka
++ Szydłów Centrum
++ Tomaszówek
++ Wałbrzych Centrum
+* Wierzbice Wrocławskie -> Wierzbice
+* Witkowo Pyrzyckie -> Witkowo
+* Strzebielewo Pyrzyckie -> Strzebielewo
++ Wola Radziszowska Lipki
++ Wygoda
++ Zator Park Rozrywki
++ Łódź Radogoszcz Wschód
++ Łódź Retkinia
++ Łódź Warszawska
+* Żarki Letnisko -> Żarki-Letnisko
++ Gałkówek <-> Słotwiny
++ Żakowice Południowe
++ Żelazno
+* fixed csv correctness
+
+
 2023-06-15
 + Świdnica Miasto <-> Jedlina-Zdrój
 + Kłodzko Miasto <-> Stronie Śląskie
