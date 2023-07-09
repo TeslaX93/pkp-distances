@@ -5,6 +5,9 @@
 -> renamed station 
 ? other
 
+2023-07-09
+* Bydgoszcz Akademia -> Bydgoszcz Politechnika
+
 2023-06-27
 ? TODO: Gdynia Orłowo vs Gdynia Orłowo SKM
 + Radom Stara Wola
