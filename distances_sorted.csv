@@ -1,0 +1,3001 @@
+id;station_a;station_b;distance
+;Adamowo;Wolsztyn;4.665
+;Aleksandrów Kujawski;Otłoczyn;4.245
+;Andrychów Górnica;Bulowice;3.172
+;Andrychów;Andrychów Górnica;3.254
+;Andrzejówka;Milik;2.607
+;Anieliny;Samostrzel;3.534
+;Antonin;Przygodzice;6.739
+;Antoniów;Dęba Opoczyńska;4.134
+;Antoniówka;Rajec Poduchowny;1.994
+;Arcelin;Płońsk;6.228
+;Augustów Port;Blizna;5.387
+;Augustów;Augustów Port;1.837
+;Augustówka;Pilawa;3.893
+;Babi Dół;Borkowo;4.935
+;Babiak;Piotrków Kujawski;23.285
+;Babica Kolonia;Czudec;2.81
+;Babica;Babica Kolonia;2.391
+;Babimost;Zbąszynek;9.228
+;Baborówko;Szamotuły;3.615
+;Baboszewo;Arcelin;4.759
+;Baby;Moszczenica;3.899
+;Baciuty;Trypucie;3.856
+;Bajtkowo;Nowa Wieś Ełcka;7.691
+;Balin;Trzebinia;5.625
+;Balinka;Augustów;13.323
+;Baranówka;Zastów;3.766
+;Barchów;Łochów;3.272
+;Barcice;Rytro;5.655
+;Barcząca;Mienia;4.261
+;Barczewo;Wipsowo;8.686
+;Bardo Przyłęk;Bardo Śląskie;1.894
+;Bardo Śląskie;Ławica;5.961
+;Barłogi;Koło;9.55
+;Bartąg;Olsztyn Dajtki;6.246
+;Bartnica;Głuszyca Górna;4.812
+;Bartodzieje;Lesiów;5.41
+;Barwałd Górny;Barwałd Średni;2.063
+;Barwałd Średni;Klecza Górna;3.268
+;Barzkowice;Pęzino;4.639
+;Baszewice;Płoty;7.711
+;Basznia Dolna;Basznia;3.341
+;Basznia;Horyniec-Zdrój;8.012
+;Batowice Lubańskie;Mikułowa;3.32
+;Bażanowice;Goleszów Górny;2.626
+;Bąkowiec;Garbatka-Letnisko;7.033
+;Bąków;Kluczbork;8.366
+;Bednary;Mysłaków;3.456
+;Bedoń;Łódź Andrzejów;2.203
+;Belęcin Wielkopolski;Stefanowo;4.38
+;Bełchów;Sierakowice Skierniewickie;3.68
+;Bełsznica;Olza;2.86
+;Bełżec Drugi;Bełżec;3.48
+;Bełżec;Lubycza Królewska;7.43
+;Berejów;Tarło;2.874
+;Berezów;Łączna;5.172
+;Besko;Zarszyn;4.69
+;Będów;Radnica;3.446
+;Będziemyśl;Trzciana;5.359
+;Będzin Ksawera;Dąbrowa Górnicza;1.952
+;Będzin Miasto;Będzin Ksawera;2.308
+;Będzin;Będzin Miasto;1.139
+;Będzino;Słowienkowo;3.271
+;Będźmierowice;Czersk;5.265
+;Biadki;Daniszyn;3.426
+;Biadoliny;Bogumiłowice;9.733
+;Biała Górna;Rokitki;5.13
+;Biała Pilska;Stobno;8.978
+;Biała Piska;Drygały;9.127
+;Biała Podlaska;Ogrodniki;7.943
+;Białki Siedleckie;Kosiorki;2.998
+;Białogard;Karlino;8.1
+;Białogard;Czarnowęsy Pomorskie;7.888
+;Białośliwie;Miasteczko Krajeńskie;7.065
+;Białuń;Goleniów;6.195
+;Biały Bór;Słosinko;10.397
+;Biały Dunajec;Poronin;3.61
+;Biały Kościół;Henryków;7.426
+;Biały Zdrój Południowy;Kalisz Pomorski;5.61
+;Białystok Bacieczki;Fasty;4.622
+;Białystok Fabryczny;Kuriany;9.824
+;Białystok Nowe Miasto;Białystok;4.418
+;Białystok Stadion;Białystok Nowe Miasto;1.475
+;Białystok Starosielce;Białystok Bacieczki;3.458
+;Białystok Wiadukt;Białystok;3.735
+;Białystok;Wasilków;7.85
+;Białystok;Białystok Fabryczny;3.709
+;Białystok;Białystok Starosielce;4.555
+;Biecz;Siepietnica;3.537
+;Bieczyno Pomorskie;Trzebiatów;6.471
+;Bielany Wrocławskie;Domasław;3.374
+;Bielawa Centralna;Dzierżoniów Śląski;4.758
+;Bielawa Zachodnia;Bielawa Centralna;1.290
+;Bielin;Witnica Chojeńska;5.124
+;Bieliny Opoczyńskie;Zygmuntów;4.992
+;Bielsk Podlaski;Orzechowicze;5.932
+;Bielsko-Biała Główna;Bielsko-Biała Lipnik;1.587
+;Bielsko-Biała Komorowice;Bielsko-Biała Północ;2.132
+;Bielsko-Biała Leszczyny;Bielsko-Biała Mikuszowice;1.89
+;Bielsko-Biała Lipnik;Bielsko-Biała Leszczyny;2.286
+;Bielsko-Biała Mikuszowice;Wilkowice Bystra;2.82
+;Bielsko-Biała Północ;Bielsko-Biała Główna;1.365
+;Bielsko-Biała Wschód;Bielsko-Biała Główna;1.368
+;Bieniów;Lubanice;5.121
+;Bierawa;Dziergowice;6.385
+;Bierkowice;Gorzuchów Kłodzki;2.878
+;Biernatowo;Siedlisko Czarnkowskie;4.797
+;Bierutów;Solniki Wielkie;4.715
+;Bierzwnik;Rębusz;5.464
+;Biesal;Unieszewo;7.32
+;Biesowice;Kępka;2.677
+;Biłgoraj;Stalowa Wola Południe;47.653
+;Biniew;Bronów;6.38
+;Bińcze;Domisław;7.017
+;Biskupice koło Kluczborka;Byczyna Kluczborska;4.7
+;Biskupice Oławskie;Borucice;3.057
+;Biskupice Wielkopolskie;Promno;3.138
+;Biskupice;Trawniki;4.462
+;Biskupiec Pomorski;Jamielnik;8.877
+;Biskupnica;Bińcze;5.56
+;Blachownia;Herby Stare;6.889
+;Blizna;Szczepki;7.565
+;Bliżyn;Brzask;3.729
+;Błaszki;Sędzice;8.658
+;Błażkowa;Lubawka;4.732
+;Błądzim;Lipienica;3.275
+;Błonie;Witanów;2.434
+;Błotnica Strzelecka;Strzelce Opolskie;7.813
+;Błotnica;Perkowo;2.614
+;Bobowa;Bobowa-Miasto;1.796
+;Bobowa-Miasto;Jankowa;1.418
+;Bobrowniki;Bełchów;3.954
+;Bobrowo Pomorskie;Złocieniec;3.958
+;Bobrówka;Zagrody;3.276
+;Bobry;Widzów Teklinów;5.769
+;Bochnia;Rzezawa;6.082
+;Boczów;Rzepin;9.709
+;Bogaczewo;Pasłęk;4.256
+;Bogaczów;Nowogród Bobrzański;3.944
+;Bogdaniec;Łupowo;3.238
+;Bogdanowo;Oborniki Wielkopolskie Miasto;1.734
+;Bogoniowice Ciężkowice;Pławna;5.89
+;Boguchwała Dolna;Boguchwała;1.364
+;Boguchwała;Wisłoczanka;4.03
+;Bogumiłowice;Tarnów Mościce;3.966
+;Boguszewo;Linowo;2.465
+;Boguszów-Gorce Dzikowiec;Unisław Śląski;1.86
+;Boguszów-Gorce Wschód;Boguszów-Gorce Dzikowiec;2.931
+;Boguszów-Gorce Wschód;Boguszów-Gorce;1.643
+;Boguszów-Gorce Zachód;Witków Śląski;4.665
+;Boguszów-Gorce;Boguszów-Gorce Zachód;2.839
+;Bojanowo;Kaczkowo;6.541
+;Bojary;Baciuty;3.134
+;Boksycka;Ostrowiec Świętokrzyski;4.256
+;Bolechowo;Owińska;3.206
+;Bolesławice Świdnickie;Jaworzyna Śląska;4.549
+;Bolesławiec;Zebrzydowa;13.025
+;Boleszewo;Nowy Jarosław;4.39
+;Boleszkowice;Mieszkowice;5.432
+;Boreczek;Warkocz;5.876
+;Borki-Kosy;Dziewule;4.442
+;Borkowice;Kluczbork;6.577
+;Borkowo;Żukowo;2.404
+;Boronów;Strzebiń;5.713
+;Borowa Oleśnicka;Oleśnica;8.027
+;Borowiki;Czeremcha;10.216
+;Borowina;Krzywda;5.652
+;Borsukówka;Knyszyn;7.167
+;Borszewice;Zduńska Wola;6.179
+;Borucice;Rogalice;3.544
+;Boszkowo;Starkowo;2.612
+;Boża Wola;Seroki;4.216
+;Bożacin;Wolenice;4.566
+;Bożepole Wielkie;Godętowo;6.855
+;Brachlewo;Ryjewo;4.718
+;Bratków;Tomaszówek;0.735
+;Bratoszewice;Głowno;4.547
+;Brochocin Trzebnicki;Trzebnica;4.04
+;Brody Iłżeckie;Staw Kunowski;3.845
+;Brody Warszawskie;Studzianki Nowe;2.607
+;Brokęcino;Lotyń;4.9
+;Bronów;Taczanów;5.045
+;Brusy;Lubnia;6.01
+;Brwinów;Milanówek;3.948
+;Brzask;Skarżysko Milica;3.589
+;Brzeg Dolny;Łososiowice;5.256
+;Brzeg Głogowski;Czerna;2.637
+;Brzeg;Lipki;8.629
+;Brzeg;Olszanka;7.207
+;Brzesko Okocim;Sterkowiec;4.878
+;Brzeszcze Jawiszowice;Jawiszowice Jaźnik;2.829
+;Brzeszcze;Brzeszcze Jawiszowice;3.448
+;Brzezie;Lubanie;6.28
+;Brzezinka Średzka;Czerna Mała;2.583
+;Brzeziny;Dębska Wola;9.211
+;Brzeźnica Bychawska;Berejów;2.208
+;Brzeźnica;Półwieś;3.915
+;Brzeźno Człuchowskie;Człuchów;7.621
+;Brzoza Bydgoska;Trzciniec;8.004
+;Brzoza Toruńska;Toruń Czerniewice;1.756
+;Brzozowica;Misie;5.614
+;Brzozowiec Gorzowski;Deszczno;4.787
+;Brzustów;Antoniów;5.129
+;Buchałów;Letnica;5.36
+;Budachów;Pliszka;7.255
+;Budki Nowe;Kramsk;6.084
+;Budy Głogowskie;Głogów Małopolski;3.626
+;Budziszowice;Jasienica Dolna;2.939
+;Budzyń;Ostrówki koło Chodzieży;5.168
+;Bujaki;Waplewo;5.573
+;Buk;Wojnowice Wielkopolskie;4.448
+;Bukowa;Ludynia;4.161
+;Bukowice Trzebnickie;Krośnice;8.252
+;Bukowiec Międzyrzecki;Międzyrzecz;10.797
+;Bukowina Sycowska;Międzybórz Sycowski;5.312
+;Bukowno Przymiarki;Sławków;3.923
+;Bukowno;Jaworzno Szczakowa;12.223
+;Bukowno;Bukowno Przymiarki;3.8
+;Bukowo Człuchowskie;Lipka Krajeńska;11.331
+;Bukowo;Borkowice;5.615
+;Bulowice;Zamek Bulowicki;2.062
+;Burkat;Turza Wielka;5.075
+;Burkatów;Bystrzyca Górna;2.021
+;Bursztynowo;Jabłonowo Pomorskie;7.344
+;Byczyna Kluczborska;Kostów;7.135
+;Bydgoszcz Bielawy;Bydgoszcz Wschód;2.095
+;Bydgoszcz Błonie;Bydgoszcz Główna;4.309
+;Bydgoszcz Brdyujście;Bydgoszcz Politechnika;1.833
+;Bydgoszcz Fordon;Ostromecko;5.508
+;Bydgoszcz Główna;Bydgoszcz Leśna;3.715
+;Bydgoszcz Główna;Bydgoszcz Zachód;3.01
+;Bydgoszcz Główna;Rynkowo Wiadukt;2.24
+;Bydgoszcz Leśna;Bydgoszcz Bielawy;1.948
+;Bydgoszcz Łęgnowo;Bydgoszcz Wschód;3.601
+;Bydgoszcz Osowa Góra;Pawłówek;3.884
+;Bydgoszcz Politechnika;Bydgoszcz Fordon;1.508
+;Bydgoszcz Wschód;Bydgoszcz Brdyujście;1.874
+;Bydgoszcz Zachód;Bydgoszcz Osowa Góra;2.911
+;Bystra Podhalańska;Jordanów;4.715
+;Bystrzyca Górna;Lubachów;1.785
+;Bystrzyca Kłodzka Przedmieście;Długopole-Zdrój;5.555
+;Bystrzyca Kłodzka;Bystrzyca Kłodzka Przedmieście;1.452
+;Bystrzyca koło Lublina;Ciecierzyn;3.893
+;Bytnica;Budachów;5.123
+;Bytom Bobrek;Bytom;2.687
+;Bytom Karb;Bytom Północny;2.984
+;Bytom Odrzański;Nowa Sól;11.967
+;Bytom Północny;Radzionków Rojca;2.551
+;Bytom;Bytom Karb;2.691
+;Bytonia;Kaliska;4.656
+;Cegłów;Mrozy;4.901
+;Cekcyn;Wierzchucin Stary;4.753
+;Celestynów;Kołbiel;3.502
+;Chabówka;Rabka-Zdrój;1.939
+;Chabówka;Rokiciny Podhalańskie;3.275
+;Chałupki (Gr);Bohumin;3.136
+;Chałupki;Chałupki (Gr);1.296
+;Chałupki;Bohumin Vrbice;4.835
+;Chałupy;Kuźnica (Hel);5.581
+;Charnowo Słupskie;Ustka;6.782
+;Charsznica;Gajówka;4.685
+;Chechło;Dobroń;3.478
+;Chełm Miasto;Chełm;2.478
+;Chełm Śląski;Imielin;3.413
+;Chełm;Dorohusk;21.089
+;Chełm;Karolinówka;7.003
+;Chełmek Wołowski;Rudna Miasto;8.892
+;Chełmek;Gorzów Chrzanowski;3.014
+;Chełmża;Wrocławki;7.783
+;Chludowo;Wargowo;2.677
+;Chmielniki Bydgoskie;Brzoza Bydgoska;3.431
+;Chmielów Zagumnie;Cygany;1.515
+;Chocicza;Solec Wielkopolski;4.898
+;Chociszew;Ozorków Nowe Miasto;3.897
+;Chociszewo Rogoziniec;Lutol Suchy;4.263
+;Chociwel;Lisowo;5.049
+;Chocznia Górna;Inwałd;3.78
+;Chocznia;Chocznia Górna;1.995
+;Chodzież;Milcz;6.917
+;Chojna;Lisie Pole;6.932
+;Chojnice;Brzeźno Człuchowskie;7.125
+;Chojnice;Moszczenica Pomorska;7.969
+;Chojnice;Racławki;6.831
+;Chojnice;Powałki;7.65
+;Chojnik;Gromnik;2.705
+;Chojnów;Biała Górna;2.871
+;Chojnów;Osetnica;6.414
+;Chorzelów Południowy;Chorzelów;1.608
+;Chorzelów;Tuszów Narodowy;3.445
+;Chorzów Batory;Katowice Załęże;3.638
+;Chorzów Batory;Chorzów Miasto;3.084
+;Chorzów Miasto;Chorzów Stary;3.226
+;Chorzów Stary;Bytom;5.155
+;Choszczno;Ziemomyśl;6.954
+;Chotomów;Janówek;7.365
+;Chotyłów;Dobrynka;5.818
+;Chronów;Wolanów;4.798
+;Chrosna;Zabieżki;2.68
+;Chrośnica;Zbąszyń;7.44
+;Chróstnik;Lubin;4.689
+;Chróścice;Dobrzeń Wielki;4.018
+;Chróścina Nyska;Skoroszyce;2.612
+;Chróścina Opolska;Dąbrowa Niemodlińska;5.355
+;Chrusty Nowe;Rokiciny;3.165
+;Chruszczobród;Wiesiółka;2.217
+;Chrzanów Śródmieście;Chrzanów;1.68
+;Chrzanów;Libiąż;5.891
+;Chrząstawa Mała;Jelcz Miłoszyce;4.02
+;Chrząstowice Olkuskie;Jaroszowiec Olkuski;5.365
+;Chrząstowice;Suchy Bór Opolski;2.722
+;Chrzęsne;Mokra Wieś;2.066
+;Chwalibogowo;Września;5.487
+;Chybie Mnich;Zabrzeg Czarnolesie;6.784
+;Chybie;Drogomyśl;3.951
+;Chybie;Strumień;5.727
+;Chynów;Krężel;3.532
+;Chytra;Stare Berezowo;4.282
+;Ciasna;Sieraków Śląski;5.392
+;Ciechanowice;Janowice Wielkie;5.72
+;Ciechanów Przemysłowy;Ciechanów;2.785
+;Ciechanów;Czeruchy;8.262
+;Ciecholub;Biesowice;2.41
+;Ciecierzyn;Rudnik;3.984
+;Cieksyn;Nasielsk;8.383
+;Cienin Kościelny;Cienin;2.885
+;Cienin;Słupca;8.303
+;Cieplewo;Pruszcz Gdański;2.683
+;Cierpice Kąkol;Przyłubie;10.496
+;Cierpigórz;Niemojki;8.068
+;Cieszków;Zduny;1.956
+;Cieszyn (Gr);Cesky Tesin;0.947
+;Cieszyn Marklowice;Cieszyn;4.922
+;Cieszyn Uniwersytet;Bażanowice;5.054
+;Cieszyn;Cieszyn (Gr);1.559
+;Cieszyn;Cieszyn Uniwersytet;0.857
+;Cieszyno Łobeskie;Chociwel;11.465
+;Cięcina Dolna;Cięcina;1.646
+;Cięcina;Węgierska Górka;1.709
+;Cikowice;Bochnia;3.794
+;Cisie;Dębe Wielkie;2.504
+;Cisiec;Milówka;3.239
+;Cmolas;Zarębki;2.505
+;Cybowo;Prostynia;3.139
+;Cygany;Jadachy;3.425
+;Czachówek Górny;Czachówek Południowy;1.091
+;Czachówek Południowy;Sułkowice;3.811
+;Czachówek Wschodni;Góra Kalwaria;7.038
+;Czaplinek;Żelisławie Pomorskie;7.191
+;Czarlin;Tczew;5.832
+;Czarna Białostocka;Machnacz;3.94
+;Czarna Tarnowska;Grabiny;6.319
+;Czarna Woda;Łąg;3.772
+;Czarnca;Żelisławice;6.681
+;Czarne Małe;Czaplinek;5.804
+;Czarne;Żółtnica;8.493
+;Czarniecka Góra;Stąporków;4.063
+;Czarnobór;Szczecinek;4.447
+;Czarnowęsy Pomorskie;Rąbino;8.536
+;Czarny Blok;Wólka Ratowiecka;4.002
+;Czaszyn;Morochów;5.68
+;Czechowice-Dziedzice Południowe;Bielsko-Biała Komorowice;3.467
+;Czechowice-Dziedzice Przystanek;Czechowice-Dziedzice Południowe;2
+;Czechowice-Dziedzice;Czechowice-Dziedzice Przystanek;2.546
+;Czechowizna;Mońki;6.521
+;Czekanów;Ociąż;5.286
+;Czeluścin;Kobylin;4.293
+;Czempiń;Iłowiec;5.821
+;Czepino;Daleszewo;2.635
+;Czeremcha;Dobrowoda;5.957
+;Czeremcha;Kleszczele;5.658
+;Czermno;Koziołek;4.987
+;Czerna Mała;Księginice;3.057
+;Czerna;Bytom Odrzański;5.266
+;Czernica Wrocławska;Jelcz Miłoszyce;4.818
+;Czerniejewo;Żydowo;3.239
+;Czerniewice;Gołaszewo Kujawskie;4.107
+;Czernikowo;Ograszka;6.381
+;Czersk Świecki;Kwiatki;4.349
+;Czersk;Gutowiec;7.71
+;Czeruchy;Krośnice Mazowieckie;3.698
+;Czerwieńsk;Sulechów;17.456
+;Czerwieńsk;Nietków;4.866
+;Czerwieńsk;Nietkowice;6.62
+;Czerwionka Dębieńsko;Leszczyny;3.902
+;Czerwionka;Czerwionka Dębieńsko;1.781
+;Czerwonak Osiedle;Czerwonak;1.322
+;Czerwonak;Poznań Karolin;3.319
+;Czerwonka;Górowo;8.153
+;Czeska Wieś;Lipowa Śląska;3.313
+;Czesławice;Sadurki;12.845
+;Częstochowa Aniołów;Częstochowa;3.929
+;Częstochowa Gnaszyn;Blachownia;4.814
+;Częstochowa Raków;Częstochowa;3.655
+;Częstochowa Raków;Częstochowa Stradom;5.09
+;Częstochowa Stradom;Częstochowa Gnaszyn;5.74
+;Częstochowa Stradom;Opoczno Południe;128.164
+;Częstochowa;Częstochowa Stradom;2.598
+;Człuchów;Biskupnica;11.184
+;Czudec;Zaborów Błonia;2.674
+;Czuprynowo;Kuźnica Białostocka;4.489
+;Czyżew;Kity;6.229
+;Czyżowice;Bełsznica;4.334
+;Ćmielów;Jakubowice;13.63
+;Dalanówek;Wkra;7.415
+;Dalekie;Zygmuntowo Mazowieckie;5.434
+;Daleszewo;Szczecin Podjuchy;7.426
+;Dalęcino;Przeradz;5.432
+;Damnica;Jezierzyce Słupskie;9.6
+;Daniszyn;Łąkociny;3.954
+;Dankowice;Kaniów;2.441
+;Daszewo;Wrzosowo;4.773
+;Dąbie koło Dębicy;Tuszyma;1.868
+;Dąbkowizna;Radzymin;6.153
+;Dąbroszyn;Kamień Mały;5.352
+;Dąbrowa Białostocka;Kamienna Nowa;9.261
+;Dąbrowa Chełmińska;Gzin;3.902
+;Dąbrowa Górnicza Gołonóg;Dąbrowa Górnicza Pogoria;1.328
+;Dąbrowa Górnicza Pogoria;Dąbrowa Górnicza Ząbkowice;2.502
+;Dąbrowa Górnicza Południowa;Dąbrowa Górnicza Ząbkowice;7.537
+;Dąbrowa Górnicza Sikorka;Chruszczobród;2.645
+;Dąbrowa Górnicza Strzemieszyce;Sosnowiec Kazimierz;4.387
+;Dąbrowa Górnicza Wschodnia;Dąbrowa Górnicza Strzemieszyce;3.28
+;Dąbrowa Górnicza Ząbkowice;Dąbrowa Górnicza Sikorka;3.694
+;Dąbrowa Górnicza;Dąbrowa Górnicza Gołonóg;3.399
+;Dąbrowa Niemodlińska;Przecza;7.473
+;Dąbrowa Oleśnicka;Dobroszyce;4.444
+;Dąbrowa-Łazy;Szepietowo;6.583
+;Dąbrowice Skierniewickie;Maków;4.017
+;Dąbrowy;Czersk Świecki;4.22
+;Dąbrówka Malborska;Gronajny;2.825
+;Dąbrówka Wielkopolska;Chociszewo Rogoziniec;3.903
+;Dąbrówka Zabłotnia;Ruda Wielka;0.763
+;Deszczno;Gorzów Wielkopolski Karnin;2.574
+;Dęba Opoczyńska;Radzice;10.197
+;Dęba Rozalin;Nowa Dęba;1.486
+;Dębe Wielkie;Nowe Dębe Wielkie;1.344
+;Dębica Wschodnia;Lubzina;5.87
+;Dębica;Pustynia;4.852
+;Dębica;Dębica Wschodnia;3.296
+;Dęblin;Zajezierze koło Dęblina;5.601
+;Dęblin;Skoki-Borowa;4.628
+;Dębska Kuźnia;Chrząstowice;2.857
+;Dębska Wola;Włoszczowice;5.56
+;Długi Kąt;Nowiny;5.599
+;Długie;Nowosielce;3.265
+;Długołęka;Borowa Oleśnicka;5.911
+;Długopole-Zdrój;Domaszków;3.413
+;Dobczyn;Klembów;3.28
+;Dobiegniew;Bierzwnik;8.713
+;Dobieszyn;Kruszyna;6.548
+;Dobino Wałeckie;Wałcz;6.209
+;Doboszowice;Kamieniec Ząbkowicki;5.097
+;Dobrocin;Morąg;6.558
+;Dobroń;Kolumna;3.694
+;Dobroszyce;Grabowno Wielkie;8.803
+;Dobrowoda;Policzna;3.64
+;Dobrynka;Małaszewicze;6.861
+;Dobryszyce koło Radomska;Radomsko;5.681
+;Dobrzechów;Markuszowa;2.663
+;Dobrzejewice;Obrowo;5.442
+;Dobrzeń Wielki;Opole Borki;3.569
+;Dobrzykowice Wrocławskie;Nadolice Małe;2.96
+;Dobrzyniewo Duże;Borsukówka;6.158
+;Dobrzyń;Bujaki;3.891
+;Dolice;Morzyca;4.392
+;Dolna Odra;Gryfino;4.958
+;Dolnik;Skórka;5.842
+;Domaniewice Centrum;Domaniewice;2.246
+;Domaniewice;Grudze;6.473
+;Domanin;Ostrzeszów;10.987
+;Domasław;Kobierzyce;4.419
+;Domaszków;Roztoki Bystrzyckie;2.949
+;Domaszowice;Gręboszów;6.198
+;Dominów;Jaszczów;5.03
+;Domisław;Czarne;6.692
+;Dopiewo;Otusz;5.907
+;Dorohusk (Gr);Jagodin;5
+;Dorohusk;Dorohusk (Gr);2.031
+;Dragacz;Grudziądz;3.521
+;Drawiny;Podlesiec;7.023
+;Drawski Młyn;Krzyż;5.723
+;Drawsko Pomorskie;Jankowo Pomorskie;3.434
+;Drogomyśl;Pruchna;5.084
+;Drużyna Poznańska;Mosina;3.941
+;Drygały;Pogorzel Wielka;4.594
+;Drzeńsko;Kowalów;3.174
+;Drzewce;Torzym;9.17
+;Drzewica;Bieliny Opoczyńskie;3.132
+;Drzonowo;Biały Bór;9.218
+;Drzymałowo;Rakoniewice;2.986
+;Dubielno;Grupa;4.897
+;Dulowa;Wola Filipowska;4.323
+;Dunowo;Nosówko;4.199
+;Duszniki-Zdrój;Kulin Kłodzki;5.308
+;Dwikozy;Sandomierz;10.79
+;Dwory;Oświęcim;6.922
+;Dygowo;Stramnica;5.253
+;Dytmarów;Prudnik;7.06
+;Dziadówki;Miechów;5.149
+;Działdowo;Burkat;4.899
+;Działdowo;Zakrzów-Sarnowo;11.228
+;Dziembówko;Piła Kalina;3.704
+;Dziemiany Kaszubskie;Kalisz Kaszubski;3.86
+;Dziergowice;Kuźnia Raciborska;4.799
+;Dzierżanów Wielkopolski;Krotoszyn;6.338
+;Dzierżążno;Borkowo;6.343
+;Dzierżoniów Śląski;Mościsko Dzierżoniowskie;6.737
+;Dzietrzniki;Pątnów Wieluński;4.861
+;Dziewięcierz;Werchrata;6.85
+;Dziewule;Radomyśl;2.632
+;Dzięczyn;Karzec;3.466
+;Dziwno;Sadlinki;6.152
+;Elbląg;Komorowo Żuławskie;10.252
+;Ełk Szyba Wschód;Ełk;2.758
+;Ełk Szyba Zachód;Ełk;2.705
+;Fałkowo;Pierzyska;3.945
+;Fasty;Dobrzyniewo Duże;2.477
+;Firlus;Kornatowo;3.367
+;Fiszewo;Gronowo Elbląskie;3.3
+;Fosowskie;Staniszcze Małe;3.086
+;Fronołów;Siemiatycze;3.45
+;Frysztak;Przybówka;4.25
+;Gajówka;Jeżówka;4.837
+;Gałęzinowo;Charnowo Słupskie;1.6
+;Gałkówek;Żakowice Południowe;4.246
+;Gałkówek;Justynów;3.276
+;Gamerki Wielkie;Wołowno;4.306
+;Garbatka-Letnisko;Żytkowice;5.222
+;Garbce;Korzeńsko;3.634
+;Garczegorze;Lędziechowo;7.541
+;Garczyn;Kościerzyna;6.723
+;Gardeja;Dziwno;3.881
+;Garki;Odolanów;4.172
+;Garwolin;Ruda Talubska;6.149
+;Gawrony;Witonia;6.326
+;Gąbin;Górzyca Reska;6.36
+;Gądki;Poznań Krzesiny;6.281
+;Gądków Wielki;Jerzmanice Lubuskie;9.452
+;Gągławki;Bartąg;3.667
+;Gąsawy Plebańskie;Szydłowiec;3.874
+;Gąsocin;Gołotczyzna;5.716
+;Gdakowo;Mikołajki Pomorskie;3.807
+;Gdańsk Brętowo;Gdańsk Niedźwiednik;1.452
+;Gdańsk Firoga;Gdańsk Matarnia;1.435
+;Gdańsk Główny;Gdańsk Stocznia;0.994
+;Gdańsk Jasień;Gdańsk Brętowo;2.092
+;Gdańsk Kiełpinek;Gdańsk Jasień;1.487
+;Gdańsk Lipce;Gdańsk Orunia;2.444
+;Gdańsk Matarnia;Gdańsk Kiełpinek;2.805
+;Gdańsk Niedźwiednik;Gdańsk Strzyża;1.637
+;Gdańsk Oliwa;Gdańsk Żabianka-AWFiS;1.244
+;Gdańsk Orunia;Gdańsk Główny;3.585
+;Gdańsk Osowa;Gdynia Karwiny;6.983
+;Gdańsk Politechnika;Gdańsk Wrzeszcz;1.675
+;Gdańsk Port Lotniczy;Gdańsk Rębiechowo;0.684
+;Gdańsk Port Lotniczy;Gdańsk Firoga;1.471
+;Gdańsk Przymorze-Uniwersytet;Gdańsk Oliwa;1.058
+;Gdańsk Rębiechowo;Gdańsk Osowa;5.067
+;Gdańsk Stocznia;Gdańsk Politechnika;1.431
+;Gdańsk Strzyża;Gdańsk Wrzeszcz;2.193
+;Gdańsk Śródmieście;Gdańsk Główny;1.093
+;Gdańsk Wrzeszcz;Gdańsk Zaspa;1.257
+;Gdańsk Zaspa;Gdańsk Przymorze-Uniwersytet;1.536
+;Gdańsk Żabianka-AWFiS;Sopot Wyścigi;1.253
+;Gdynia Chylonia;Gdynia Cisowa;1.074
+;Gdynia Cisowa;Rumia Janowo;3.016
+;Gdynia Główna;Gdynia Stocznia-Uniwersytet Morski;0.842
+;Gdynia Grabówek;Gdynia Leszczynki;1.369
+;Gdynia Karwiny;Gdynia Stadion;6.162
+;Gdynia Leszczynki;Gdynia Chylonia;1.16
+;Gdynia Orłowo SKM;Gdynia Redłowo;1.847
+;Gdynia Redłowo;Gdynia Wzgórze Św.Maksymiliana;1.813
+;Gdynia Stadion;Gdynia Główna;2.957
+;Gdynia Stocznia-Uniwersytet Morski;Gdynia Grabówek;1.809
+;Gdynia Wzgórze Św.Maksymiliana;Gdynia Główna;1.622
+;Geniusze;Sokółka;5.427
+;Gębarzewo;Gniezno;6.443
+;Gierałtów Wykroty;Węgliniec;9.669
+;Gierałtów;Gierałtów Wykroty;3.052
+;Gierwaty;Ostrołęka;7.662
+;Gilów;Bliżyn;2.231
+;Giżycko;Siedliska;9.759
+;Gliniczek;Tarnowiec;2.843
+;Gliniszcze;Racewo;3.744
+;Glinnik Wieś;Glinnik;1.448
+;Glinnik;Swędów;3.757
+;Gliwice Kuźnica;Pyskowice;3.332
+;Gliwice Łabędy;Gliwice Kuźnica;1.977
+;Gliwice Łabędy;Rzeczyce Śląskie;4.415
+;Gliwice;Zabrze;8.174
+;Gliwice;Zabrze Makoszowy;8.442
+;Gliwice;Bytom Bobrek;15.546
+;Gliwice;Przyszowice;11.997
+;Gliwice;Gliwice Łabędy;5.885
+;Głębokie Międzyrzeckie;Popowo Skwierzyńskie;5.877
+;Głogów Huta;Głogów Wróblin;2.815
+;Głogów Małopolski Niwa;Rogoźnica koło Rzeszowa;2.185
+;Głogów Małopolski;Głogów Małopolski Niwa;1.248
+;Głogów Wróblin;Brzeg Głogowski;2.565
+;Głogów;Głogówko;8.958
+;Głogów;Głogów Huta;6.33
+;Głogówek;Racławice Śląskie;9.142
+;Głogówko;Stare Drzewce;8.226
+;Głowaczewo;Karcino;3.677
+;Głowno;Kamień Łowicki;4.9
+;Głuchołazy (Gr);Mikulovice;2.553
+;Głuchołazy;Głuchołazy (Gr);5.650
+;Głuchołazy;Pokrzywna (Gr);11.220
+;Głuchołazy;Głuchołazy Miasto;1.609
+;Głuchowo;Chełmża;4.223
+;Głuchów;Kosina;3.078
+;Głuszyca Górna;Głuszyca;2.241
+;Głuszyca;Jedlina-Zdrój;2.773
+;Głuszyno Pomorskie;Strzyżyno Słupskie;2.99
+;Gniewczyna;Przeworsk;4.495
+;Gniewkowo;Suchatówka;5.827
+;Gniezno;Jankowo Dolne;8.006
+;Goczałkowice Zdrój;Czechowice-Dziedzice;3.338
+;Goczałkowice;Goczałkowice Zdrój;1.334
+;Goczałków;Rogoźnica;1.662
+;Godętowo;Lębork Mosty;5.932
+;Godki;Jonkowo;6.838
+;Godków;Chojna;7.15
+;Gogolewo;Ulikowo;4.775
+;Gogolin;Górażdże;4.254
+;Goleniów;Rurka;8.012
+;Goleszów Górny;Goleszów;1.637
+;Goleszów;Skoczów Bładnice;3.612
+;Golęczewo;Chludowo;2.84
+;Golina;Jarocin;7.596
+;Gołańcz;Laskownica;5.28
+;Gołaszewo Kujawskie;Warząchewka;4.394
+;Gołąb;Puławy Azoty;4.159
+;Gołotczyzna;Ciechanów Przemysłowy;9.89
+;Gołubie Kaszubskie;Krzeszna;4.295
+;Gomunice;Dobryszyce koło Radomska;5.758
+;Goniądz;Osowiec;4.882
+;Gorlice Glinik;Gorlice;1.161
+;Gorlice Zagórzany;Libusza;4.018
+;Gorlice Zagórzany;Gorlice Glinik;3.003
+;Gorzanów;Bystrzyca Kłodzka;6.576
+;Gorzelin;Chróstnik;3.047
+;Gorzędów;Kamieńsk;3.344
+;Gorzkowice;Gorzędów;4.942
+;Gorzów Chrzanowski;Oświęcim;4.743
+;Gorzów Wielkopolski Karnin;Gorzów Wielkopolski Zieleniec;1.8
+;Gorzów Wielkopolski Wieprzyce;Gorzów Wielkopolski;3.502
+;Gorzów Wielkopolski Wschodni;Santok;11.756
+;Gorzów Wielkopolski Zamoście;Gorzów Wielkopolski;0.872
+;Gorzów Wielkopolski Zieleniec;Gorzów Wielkopolski Zamoście;3.006
+;Gorzów Wielkopolski;Gorzów Wielkopolski Wschodni;1.431
+;Gorzuchowo Chełmińskie;Wałdowo Szlacheckie;4.845
+;Gorzuchów Kłodzki;Ścinawka Średnia;6.457
+;Gorzupia;Biadki;4.722
+;Gostynin;Rogożew;5.763
+;Goszcza;Łuczyce;2.68
+;Goszczowice;Sowin;2.206
+;Gościcino Wejherowskie;Luzino;5.958
+;Gościszewo;Malbork;8.159
+;Gośniewice;Warka;3.578
+;Goświnowice;Wójcice;2.952
+;Goworowo;Gierwaty;8.424
+;Gozdowo;Susk;6.208
+;Górażdże;Przywory Opolskie;5.77
+;Górka Duchowna;Stare Bojanowo;4.661
+;Górki Noteckie;Sarbiewo;4.825
+;Górki Pomorskie;Stawno;3.516
+;Górki Szczukowskie;Piekoszów;5.681
+;Górki Śląskie;Szymocice;3.106
+;Górna Grupa;Dragacz;2.367
+;Górowo;Sątopy-Samulewo;13.934
+;Górzyca Reska;Gryfice;6.78
+;Górzyca;Ługi Górzyckie;1.902
+;Górzyniec;Szklarska Poręba Dolna;5.519
+;Grabiny;Dębica;5.465
+;Grabniak;Wygoda;3.23
+;Grabowno Wielkie;Twardogóra;6.238
+;Grabowno Wielkie;Bukowice Trzebnickie;6.916
+;Grabowo;Nowa Wieś Kościelna;8.619
+;Grabów nad Pilicą;Strzyżyna;5.431
+;Grabów Szlachecki;Leopoldów;6.938
+;Grajewo;Prostki;5.531
+;Gralewo;Żabiny;4.458
+;Grambow;Loecknitz;9.890
+;Granowiec;Garki;3.19
+;Granowo Nowotomyskie;Kotowo;3.201
+;Grąblewo;Grodzisk Wielkopolski;3.196
+;Gregorowce;Podbiele;3.875
+;Grębocice;Krzepów;6.773
+;Grębocin;Lubicz;4.277
+;Gręboszów;Namysłów;5.996
+;Grębów;Sobów;7.389
+;Grodków Śląski;Stary Grodków;5.239
+;Grodzisk Mazowiecki;Jaktorów;5.486
+;Grodzisk Wielkopolski;Ruchocice;7.383
+;Grodzisko Dolne;Tryńcza;4.169
+;Grodziszcze Mazowieckie;Sosnowe;4.955
+;Grom;Szczytno;10.756
+;Gromnik;Bogoniowice Ciężkowice;4.431
+;Gronajny;Malbork;5.463
+;Gronowo Elbląskie;Elbląg;4.407
+;Groszowice Wrzosów;Antoniówka;1.756
+;Grotniki;Chociszew;5.69
+;Gródek;Zabiele;3.554
+;Grudze;Łowicz Przedmieście;6.122
+;Grudziądz Mniszek;Grudziądz Przedmieście;5
+;Grudziądz Przedmieście;Grudziądz;1.53
+;Grudziądz;Gardeja;19.987
+;Grudziądz;Nicwałd;8.737
+;Grupa;Górna Grupa;3.218
+;Grybów;Ptaszkowa;10.718
+;Gryfice;Baszewice;5.985
+;Gryfino;Czepino;3.711
+;Gryfów Śląski;Ubocze;2.551
+;Grylewo;Kobylec;4.874
+;Gryźliny;Stawiguda;5.587
+;Grzegorzewo;Mostówka;3.954
+;Grzędzice;Miedwiecko;3.302
+;Grzęska;Gniewczyna;6.925
+;Grzęska;Przeworsk;3.87
+;Grzmiąca;Wielanowo;7.684
+;Grzybno;Nawra;2.576
+;Grzywna;Chełmża;3.68
+;Gubin (Gr);Guben;1.64
+;Gubin;Gubin (Gr);1.13
+;Gułtowy;Kostrzyn Wielkopolski;6.897
+;Gutowiec;Rytel Wieś;6.075
+;Gutowo Wielkopolskie;Września;6.922
+;Gwda Mała;Drzonowo;8.97
+;Gzin;Unisław Pomorski;3.855
+;Hajnówka;Chytra;4.798
+;Halinów;Cisie;3.149
+;Hartowiec;Montowo;5.208
+;Henryków;Ziębice;6.309
+;Herby Nowe;Boronów;9.761
+;Herby Nowe;Kuleje;10.288
+;Herby Stare;Lisów;7.133
+;Herby Stare;Herby Nowe;2.418
+;Hołówki Duże;Lewickie;6.849
+;Hordzieżka;Okrzeja;2.998
+;Horyniec-Zdrój;Dziewięcierz;6.941
+;Hryniewicze;Białystok Stadion;2.932
+;Hucisko;Pewel Wielka;3.298
+;Hurko;Medyka Towarowa;1.541
+;Huta Komorowska;Majdan Królewski;1.797
+;Iława Główna;Iława Miasto;2.869
+;Iława Główna;Rudzienice Suskie;9.056
+;Iława Miasto;Ząbrowo;8.051
+;Iłowa Żagańska;Okrąglica;7.253
+;Iłowiec;Drużyna Poznańska;3.383
+;Iłowo;Narzym;3.846
+;Imbramowice;Żarów;6.764
+;Imielin;Mysłowice Kosztowy;3.541
+;Inowrocław Rąbinek;Inowrocław;6.555
+;Inowrocław;Więcławice;5.876
+;Inowrocław;Jaksice;6.715
+;Inwałd;Andrychów;2.717
+;Iwin;Grzmiąca;8.001
+;Iwiny;Smardzów Wrocławski;2.766
+;Izbica;Tarzymiechy;6.017
+;Jabłonowo Pomorskie;Ostrowite koło Jabłonowa;8.629
+;Jabłonowo Pomorskie;Konojady;7.471
+;Jabłoń Kościelna;Racibory;4.649
+;Jackowice;Zosinów;6.32
+;Jackowo Dworskie;Świercze;4.604
+;Jacków;Kłomnice;5.443
+;Jadachy;Tarnowska Wola;4.51
+;Jadwiżyn;Wyrzysk Osiek;5.35
+;Jagodzin;Stary Węgliniec;5.711
+;Jaksice;Złotniki Kujawskie;6.22
+;Jaktorów;Międzyborów;5.363
+;Jakubowice;Dwikozy;15.446
+;Jakuszyce (Gr);Harrachov;1.219
+;Jamielnik;Iława Główna;7.747
+;Janikowo;Inowrocław;11.111
+;Janinów;Dzietrzniki;7.18
+;Jankowa Żagańska;Konin Żagański;2.504
+;Jankowa;Wilczyska;3.218
+;Jankowce;Uherce Tunel;3.192
+;Jankowo Dolne;Trzemeszno;7.65
+;Jankowo Pomorskie;Wiewiecko;8.662
+;Janków Przygodzki;Ostrów Wielkopolski;4.509
+;Janowice Wielkie;Trzcińsko;3.523
+;Janówek;Nowy Dwór Mazowiecki;3.178
+;Jarocin;Mieszków;7.398
+;Jarocin;Radlin Wielkopolski;7.165
+;Jarosław;Munina;3.974
+;Jarosty;Piotrków Trybunalski;5.697
+;Jaroszowiec Olkuski;Olkusz;9.277
+;Jarszewo;Górki Pomorskie;3.771
+;Jarzębia Łąka;Grzegorzewo;3.3
+;Jasienica Dolna;Mańkowice;2.683
+;Jasienica Mazowiecka;Tłuszcz;2.964
+;Jasień Brzeski;Brzesko Okocim;4.037
+;Jasiona;Gogolin;5.633
+;Jasionna Łowicka;Bednary;4.857
+;Jasło Fabryczne;Jasło;5.042
+;Jasło Niegłowice;Jasło;1.992
+;Jasło;Gliniczek;5.344
+;Jastarnia Wczasy;Jastarnia;1.649
+;Jastarnia;Jurata;2.893
+;Jastrowie;Okonek;13.239
+;Jastrząb;Gąsawy Plebańskie;3.516
+;Jastrząbka;Parciaki;8.972
+;Jastrzębna;Balinka;3.581
+;Jastrzębsko;Chrośnica;4.931
+;Jaszczów;Biskupice;5.426
+;Jaśkowice Legnickie;Legnica;10.163
+;Jaśkowice;Brzeźnica;3.401
+;Jaślany;Padew;4.482
+;Jawiszowice Jaźnik;Dankowice;2.81
+;Jawor;Stary Jawor;5.707
+;Jaworzno Ciężkowice;Balin;5.214
+;Jaworzno koło Wielunia;Janinów;5.867
+;Jaworzno Szczakowa;Sosnowiec Maczki;2.31
+;Jaworzno Szczakowa;Jaworzno Ciężkowice;5.067
+;Jaworzyna Śląska;Stanowice;5.33
+;Jaworzyna Śląska;Świebodzice;9.406
+;Jazy;Dygowo;4.377
+;Jedlicze Męcinka;Jedlicze;2.339
+;Jedlicze;Krosno Turaszówka;3.822
+;Jedlina Górna;Wałbrzych Główny;3.354
+;Jedlina-Zdrój Centrum;Jedlina-Zdrój;2.921
+;Jedlina-Zdrój;Jedlina Górna;2.6
+;Jedlnia Kościelna;Jedlnia-Letnisko;6.293
+;Jedlnia-Letnisko;Groszowice Wrzosów;1.801
+;Jeglia;Hartowiec;2.602
+;Jelcz Miłoszyce;Jelcz-Laskowice;2.929
+;Jelcz-Laskowice;Kopalina;4.579
+;Jelenia Góra Cieplice;Jelenia Góra Orle;2.132
+;Jelenia Góra Orle;Jelenia Góra Sobieszów;1.625
+;Jelenia Góra Przemysłowa;Jelenia Góra Cieplice;2.652
+;Jelenia Góra Sobieszów;Piechowice Dolne;2.321
+;Jelenia Góra Zabobrze;Jelenia Góra Zachodnia;3.256
+;Jelenia Góra Zabobrze;Rybnica;9.208
+;Jelenia Góra Zachodnia;Jelenia Góra Przemysłowa;1.751
+;Jelenia Góra;Jelenia Góra Zabobrze;1.33
+;Jelenino;Silnowo;10.012
+;Jeleń;Bratków;6.007
+;Jeleśnia;Pewel Mała;3.607
+;Jelna;Leżajsk;6.431
+;Jełowa;Kały;4.688
+;Jeruty;Świętajno;5.102
+;Jerzmanice Lubuskie;Rzepin;6.138
+;Jerzmanki;Zgorzelec;4.05
+;Jesionka;Radziwiłłów Mazowiecki;3.444
+;Jezierzany;Miłkowice;3.825
+;Jezierzyce Słupskie;Słupsk;8.919
+;Jeziorki Wałeckie;Krępa Krajeńska;3.406
+;Jeżewo;Dubielno;4.535
+;Jeżówka;Wolbrom;4.981
+;Jędrzejów;Potok;6.598
+;Jędrzychowice;Zgorzelec Miasto;2.134
+;Jonkowo;Olsztyn Gutkowo;7.163
+;Jordanów;Skawa;4.03
+;Józefów Roztoczański;Długi Kąt;6.317
+;Józefów;Otwock Świder;1.939
+;Jugowice;Jedlina-Zdrój Centrum;5.332
+;Julianka;Lusławice;6.074
+;Jurata;Hel;10.752
+;Justynów;Bedoń;2.871
+;Juszczyn;Kojszówka;2.982
+;Kaczkowo;Rydzyna;3.788
+;Kaczorowo;Baboszewo;7.626
+;Kaczory;Piła Główna;10.381
+;Kaczyce;Pogwizdów;3.523
+;Kalembina;Wiśniowa;2.342
+;Kalety;Koszęcin;7.379
+;Kaliska Kujawskie;Wiktorowo;6.003
+;Kaliska;Kamienna Karczma;4.57
+;Kalisz Kaszubski;Lipuska Huta;3.251
+;Kalisz Pomorski;Cybowo;5.384
+;Kalisz Szczypiorno;Kalisz;3.51
+;Kalisz Winiary;Opatówek;6.388
+;Kalisz;Kalisz Winiary;7.434
+;Kaliszki;Biała Piska;4.154
+;Kalwaria Zebrzydowska Lanckorona;Kalwaria Zebrzydowska;1.51
+;Kalwaria Zebrzydowska Lanckorona;Stronie;6.74
+;Kalwaria Zebrzydowska;Barwałd Górny;4.377
+;Kałęczyn;Gąsocin;3.947
+;Kały;Laskowice Oleskie;3.673
+;Kamieniec Ząbkowicki;Suszka;5.416
+;Kamieniec Ząbkowicki;Ząbkowice Śląskie;9.86
+;Kamienna Góra;Błażkowa;5.416
+;Kamienna Karczma;Czarna Woda;4.61
+;Kamienna Nowa;Ostrowie Biebrzańskie;4.303
+;Kamień Łowicki;Domaniewice Centrum;3.719
+;Kamień Mały;Witnica;8.602
+;Kamień Pomorski;Jarszewo;4.647
+;Kamieńczyce;Szczepanowice;3.21
+;Kamieńsk;Gomunice;2.69
+;Kamionka Wielka;Nowy Sącz Jamnica;3.302
+;Kamionki Jezioro;Rychnowo Wielkie;2.678
+;Kanie;Zalesie Krasieńskie;4.347
+;Kaniów;Czechowice-Dziedzice;3.671
+;Karcino;Bieczyno Pomorskie;3.32
+;Karlino;Daszewo;3.669
+;Karłowice;Popielów;7.424
+;Karnkowo;Skępe;5.227
+;Karolinówka;Ruda-Huta;5.848
+;Kartuzy;Dzierżążno;4.836
+;Karwice;Wiekowo;11.094
+;Karzec;Krobia;4.691
+;Katowice Brynów;Katowice Ligota;2.31
+;Katowice Ligota;Katowice Piotrowice;1.673
+;Katowice Piotrowice;Katowice Podlesie;3.73
+;Katowice Piotrowice;Mikołów Jamna;4.201
+;Katowice Podlesie;Tychy;5.487
+;Katowice Szopienice Południowe;Sosnowiec Główny;3.366
+;Katowice Załęże;Katowice;2.147
+;Katowice Zawodzie;Katowice Szopienice Południowe;2.743
+;Katowice;Katowice Zawodzie;2.725
+;Katowice;Katowice Brynów;3.405
+;Kawcze;Przytocko;6.178
+;Kawnice;Spławie;4.182
+;Kąkolewo;Pawłowice;6.724
+;Kątne;Jackowo Dworskie;2.866
+;Kąty Wrocławskie;Mietków;9.353
+;Kędzierzyn-Koźle Azoty;Bierawa;2.328
+;Kędzierzyn-Koźle Przystanek;Kędzierzyn-Koźle Zachodnie;1.78
+;Kędzierzyn-Koźle Zachodnie;Pokrzywnica;3.622
+;Kędzierzyn-Koźle;Kędzierzyn-Koźle Azoty;4.527
+;Kędzierzyn-Koźle;Raszowa;5.747
+;Kędzierzyn-Koźle;Kędzierzyn-Koźle Przystanek;4.208
+;Kępa;Pilchów;4.151
+;Kępice;Korzybie;6.366
+;Kępka;Kępice;2.858
+;Kępno;Domanin;6.205
+;Kęszyce;Jasionna Łowicka;2.313
+;Kętrzyn;Martiany;10.875
+;Kęty Podlesie;Kozy Zagroda;3.912
+;Kęty;Kęty Podlesie;2.119
+;Kiekrz;Rokietnica;4.834
+;Kielce Białogon;Kielce Słowik;3.498
+;Kielce Herbskie;Kielce Ślichowice;1.469
+;Kielce Piaski;Kielce;1.656
+;Kielce Słowik;Sitkówka Nowiny;1.962
+;Kielce Ślichowice;Górki Szczukowskie;4.613
+;Kielce;Kielce Herbskie;2.255
+;Kielce;Kielce Białogon;4.198
+;Kiełpino Kartuskie;Babi Dół;4.243
+;Kietlanka;Szulborze Wielkie;3.773
+;Kije;Busko-Zdrój;19.313
+;Kity;Dąbrowa-Łazy;2.723
+;Klecza Dolna;Wadowice;3.121
+;Klecza Górna;Klecza Dolna;3.144
+;Klembów;Jasienica Mazowiecka;3.808
+;Klemensów;Szczebrzeszyn;5.873
+;Klementowice;Łopatki;4.867
+;Klepacze;Białystok Wiadukt;1.348
+;Kleszczele;Suchowolce;7.349
+;Klewki;Marcinkowo;8.491
+;Klępnica;Worowo;3.668
+;Klimontów;Kozłów;5.855
+;Kliniska;Szczecin Załom;4.598
+;Kluczbork;Smardy;4.586
+;Kluczbork;Krzywizna;6.339
+;Kłaj;Stanisławice;4.034
+;Kłodawa;Barłogi;8.487
+;Kłodawa;Babiak;24.06
+;Kłodzko Główne;Kłodzko Miasto;1.735
+;Kłodzko Główne;Bierkowice;4.732
+;Kłodzko Książek;Kłodzko Zagórze;2.085
+;Kłodzko Miasto;Krosnowice Kłodzkie;4.953
+;Kłodzko Miasto;Kłodzko Książek;3.06
+;Kłodzko Miasto;Krosnowice Zdrój;5.146
+;Kłodzko Zagórze;Stary Wielisław;2.854
+;Kłokowa;Łowczówek Pleśna;3.267
+;Kłomnice;Rzerzęczyce;2.405
+;Knurów;Leszczyny;11.063
+;Knyszyn;Zastocze;3.948
+;Kobierzyce;Wierzbice;2.236
+;Kobiór;Piasek;6.111
+;Kobylany;Terespol;5.256
+;Kobylec;Wągrowiec;5.818
+;Kobylin;Kuklinów;6.597
+;Kobylnica Słupska;Słupsk;3.73
+;Kobylnica;Biskupice Wielkopolskie;6.665
+;Kobyłka Ossów;Kobyłka;1.86
+;Kobyłka;Wołomin;2.382
+;Kochanowice;Lubliniec;6.394
+;Kochanówka Pustków;Pustków;3.912
+;Kochcice-Glinica;Ciasna;5.239
+;Kojszówka;Osielec;3.132
+;Kokotów;Węgrzce Wielkie;2.675
+;Kolbuszowa Górna;Widełka;5.462
+;Kolbuszowa;Kolbuszowa Górna;3.078
+;Kolin;Strzebielewo;2.057
+;Kolonia;Spychowo;6.233
+;Kolonowskie;Fosowskie;2.179
+;Kolumna;Łask;5.985
+;Koluszki;Chrusty Nowe;5.817
+;Koluszki;Słotwiny;3.213
+;Koluszki;Żakowice;2.694
+;Kołbiel;Chrosna;1.416
+;Koło;Budki Nowe;6.093
+;Kołobrzeg Stadion;Stary Borek;6.664
+;Kołobrzeg;Kołobrzeg Stadion;1.174
+;Kołodziejewo;Janikowo;6.853
+;Komańcza Letnisko;Komańcza;1.048
+;Komańcza;Osławica;7.776
+;Komorowo Żuławskie;Bogaczewo;8.226
+;Komorów Podmurynia;Cmolas;7.28
+;Komprachcice;Szydłów Centrum;7.899
+;Koniecpol Centrum;Koniecpol Magdasz;1.388
+;Koniecpol Magdasz;Podlesie;3.654
+;Koniecpol;Koniecpol Centrum;1.988
+;Konin Zachód;Kawnice;5.079
+;Konin Żagański;Iłowa Żagańska;4.833
+;Konin;Konin Zachód;2.061
+;Konojady;Najmowo;8.04
+;Konopki;Stupsk Mazowiecki;3.291
+;Konotopie;Lipno;5.672
+;Kończyce Radomskie;Radom Potkanów;4.069
+;Kończyce;Kaczyce;2.42
+;Końskie;Wąsosz Konecki;6.504
+;Końskowola;Klementowice;6.212
+;Kopalina;Minkowice Oławskie;3.777
+;Kornatowo;Gorzuchowo Chełmińskie;6.748
+;Kornelin;Nowa Sucha;4.056
+;Kornica;Końskie;3.202
+;Korsze;Tołkiny;9.756
+;Korwinów;Częstochowa Raków;5.758
+;Korzenica;Nowa Grobla;5.652
+;Korzeńsko;Rawicz;7.482
+;Korzybie;Wrząca Pomorska;6.29
+;Kosina;Rogóżno koło Łańcuta;2.911
+;Kosiorki;Borki-Kosy;2.547
+;Kostomłoty;Kielce Piaski;3.956
+;Kostów;Łęka Opatowska;7.034
+;Kostrzyn (Gr);Kustrin-Kietz;2.066
+;Kostrzyn Wielkopolski;Paczkowo;4.513
+;Kostrzyn;Kostrzyn (Gr);1.891
+;Kostrzyn;Dąbroszyn;5.391
+;Kostrzyn;Namyślin;11.245
+;Koszalin;Dunowo;9.509
+;Koszalin;Mścice;8.41
+;Koszewnica;Kotuń;5.813
+;Koszęcin;Rusinowice;5.915
+;Kościan;Oborzyska Stare;5.678
+;Kościernica;Białogard;5.403
+;Kościerzyna;Skorzewo;5.219
+;Kotlin;Witaszyce;6.602
+;Kotomierz;Pruszcz Pomorski;7.537
+;Kotowo;Ptaszkowo;2.874
+;Kotórz Mały;Osowiec Przystanek;2.59
+;Kotulin;Błotnica Strzelecka;2.869
+;Kotuń;Sabinka;7.404
+;Kowalewo Pomorskie;Zieleń;7.126
+;Kowalów;Radów;4.042
+;Kozia Góra;Gamerki Wielkie;5.359
+;Koziebrody;Raciąż;9.386
+;Koziołek;Podwierzbie;5.43
+;Kozłowo;Nidzica;9.371
+;Kozłów;Włoszczowa Północ;51.721
+;Kozłów;Koniecpol;44.390
+;Kozłów;Tunel;5.68
+;Kozy Zagroda;Kozy;2.09
+;Kozy;Krzemionki;2.197
+;Koźla Kożuchowska;Bogaczów;4.854
+;Koźlice;Rynarcice;2.395
+;Koźmin Wielkopolski;Obra Stara;6.287
+;Kórnik;Gądki;4.27
+;Krajenka;Dolnik;5.426
+;Kraków Batowice;Kraków Główny;6.165
+;Kraków Batowice;Kraków Lubocza;6.378
+;Kraków Bieżanów Drożdżownia;Wieliczka Bogucice;1.673
+;Kraków Bieżanów;Kraków Złocień;1.529
+;Kraków Bieżanów;Kraków Bieżanów Drożdżownia;1.223
+;Kraków Bonarka;Kraków Łagiewniki;1.115
+;Kraków Bronowice;Kraków Łobzów;1.801
+;Kraków Główny;Kraków Grzegórzki;1.244
+;Kraków Grzegórzki;Kraków Zabłocie;1.175
+;Kraków Lotnisko;Kraków Olszanica;1.851
+;Kraków Lubocza;Kraków Nowa Huta;3.982
+;Kraków Łagiewniki;Kraków Sanktuarium;1.102
+;Kraków Łobzów;Kraków Główny;2.974
+;Kraków Młynówka;Kraków Bronowice;2.437
+;Kraków Mydlniki Wapiennik;Kraków Mydlniki;1.35
+;Kraków Mydlniki;Kraków Bronowice;2.425
+;Kraków Nowa Huta;Podłęże;12.133
+;Kraków Olszanica;Kraków Zakliki;1.816
+;Kraków Opatkowice;Kraków Sidzina;1.831
+;Kraków Płaszów;Kraków Prokocim;1.967
+;Kraków Płaszów;Kraków Podgórze P2;1.431
+;Kraków Podgórze P2;Kraków Bonarka;1.698
+;Kraków Podgórze;Kraków Bonarka;1.728
+;Kraków Prokocim;Kraków Bieżanów;2.342
+;Kraków Sanktuarium;Kraków Swoszowice;1.746
+;Kraków Sidzina;Skawina Jagielnia;2.48
+;Kraków Sidzina;Skawina;3.982
+;Kraków Swoszowice;Kraków Opatkowice;2.569
+;Kraków Zabłocie;Kraków Płaszów;1.98
+;Kraków Zabłocie;Kraków Podgórze;1.001
+;Kraków Zakliki;Kraków Młynówka;0.699
+;Kraków Złocień;Kokotów;1.306
+;Kramsk;Konin;16.662
+;Krasiejów;Ozimek;2.898
+;Krasnystaw Fabryczny;Krasnystaw Miasto;5.147
+;Krasnystaw Miasto;Wólka Orłowska;6.816
+;Kraśnik;Sulów;4.651
+;Krępa Krajeńska;Biały Zdrój Południowy;7.727
+;Krężel;Michalczew;3.11
+;Krężnica Jara;Majdan;2.968
+;Krobia;Włostowo;3.792
+;Krojanty;Chojnice;7.001
+;Krosno Miasto;Targowiska;5.226
+;Krosno Odrzańskie;Wężyska;10.223
+;Krosno Polanka;Krosno;2.027
+;Krosno Turaszówka;Krosno Polanka;1.898
+;Krosno;Krosno Miasto;2.223
+;Krosnowa;Przyłęk Duży;2.523
+;Krosnowice Kłodzkie;Żelazno;3.284
+;Krosnowice Zdrój;Gorzanów;4.398
+;Krostkowo;Białośliwie;5.915
+;Krościenko (Gr);Starżawa;6.53
+;Krościenko;Krościenko (Gr);3.327
+;Krośnice Mazowieckie;Konopki;3.839
+;Krośnice;Wierzchowice;3.996
+;Krotoszyn;Bożacin;3.654
+;Krotoszyn;Gorzupia;6.165
+;Królewo Malborskie;Stare Pole;5.037
+;Krusze;Tłuszcz;4.486
+;Kruszyna;Wola Bierwiecka;3.027
+;Krynka Łukowska;Łuków;7.77
+;Krzak;Złojec;3.923
+;Krzcięcice;Sędziszów;6.689
+;Krzemienica;Łańcut;2.9
+;Krzemionki;Bielsko-Biała Wschód;4.801
+;Krzepice;Jaworzno koło Wielunia;5.957
+;Krzepów;Głogów;4.792
+;Krzeszna;Wieżyca;2.538
+;Krzeszowice;Rudawa;6.537
+;Krzewie;Turzynów;9.484
+;Krzycko Wielkie;Włoszakowice;6.358
+;Krzymosze;Mordy;4.434
+;Krzywda;Hordzieżka;5.398
+;Krzywin Gryfiński;Widuchowa;4.01
+;Krzywizna;Biskupice koło Kluczborka;5.084
+;Krzyż;Wieleń;11.508
+;Krzyż;Drawiny;6.397
+;Krzyżanowice;Tworków;3.667
+;Krzyżowa;Świdnica Miasto;6.844
+;Książki;Jabłonowo Pomorskie;9.599
+;Książno;Chwalibogowo;4.637
+;Księginice;Brzeg Dolny;4.224
+;Kubice;Wyszków Śląski;3.797
+;Kuklinów;Dzierżanów Wielkopolski;2.567
+;Kuleje;Panki;8.331
+;Kulice Tczewskie;Pelplin;5.513
+;Kulin Kłodzki;Lewin Kłodzki;8.651
+;Kundzin;Czuprynowo;4.566
+;Kunowice (Gr);Frankfurt am Oder;5.943
+;Kunowice;Słubice;2.989
+;Kunów;Boksycka;2.876
+;Kupienino;Świebodzin;5.26
+;Kuriany;Zajezierce;2.789
+;Kurów Suski;Hucisko;3.198
+;Kusięta Nowe;Częstochowa Raków;8.883
+;Kutno Azory;Raciborów Kutnowski;5.562
+;Kutno;Nowe Kutnowskie;8.705
+;Kutno;Kutno Azory;3.32
+;Kutno;Ostrowy;13.655
+;Kuźnia Raciborska;Nędza;4.889
+;Kuźnica (Hel);Jastarnia Wczasy;5.984
+;Kuźnica Białostocka;Grodno;26.289
+;Kwiatki;Osie;5.501
+;Kwidzyn;Brachlewo;8.491
+;Kwieciszowice;Rębiszów;5.164
+;Lachowice Centrum;Kurów Suski;3.404
+;Lachowice;Lachowice Centrum;2.721
+;Laliki;Zwardoń;3.25
+;Lasek;Nowy Targ;4.497
+;Laski Lubuskie;Górzyca;6.143
+;Laski Odrzańskie;Szczawno-Ciemnice;4.999
+;Laski Tucholskie;Śliwiczki;2.556
+;Laski;Gródek;5.534
+;Laskowice Oleskie;Tuły;1.986
+;Laskowice Pomorskie;Dąbrowy;3.679
+;Laskowice Pomorskie;Warlubie;16.013
+;Laskowice Pomorskie;Jeżewo;2.98
+;Laskownica;Grylewo;3.557
+;Lasocice;Leszno;6.928
+;Lasów;Jędrzychowice;6.076
+;Lądek Stójków;Stronie Śląskie;3.277
+;Lądek-Zdrój;Lądek Stójków;2.322
+;Lednogóra;Fałkowo;4.268
+;Legionowo Piaski;Michałów-Reginów;1.69
+;Legionowo Przystanek;Chotomów;1.929
+;Legionowo;Legionowo Przystanek;2.288
+;Legionowo;Legionowo Piaski;1.444
+;Legnica Piekary;Legnica;3.411
+;Legnica;Jezierzany;5.637
+;Legnica;Rzeszotary;5.734
+;Legnica;Miłkowice;9.459
+;Leńcze;Przytkowice;4.139
+;Leokadia;Sobolew;4.202
+;Leopoldów;Ryki;10.983
+;Lesięcin;Runowo Pomorskie;4.405
+;Lesiów;Radom Stara Wola;4.554
+;Lesko Łukawica;Jankowce;3.138
+;Leszczydół;Dalekie;4.345
+;Leszczyny;Rybnik Paruszowiec;5.903
+;Leszno Górne;Małomice;15.077
+;Leszno Grzybowo;Kąkolewo;5.126
+;Leszno;Wilkowice;5.084
+;Leszno;Lipno Nowe;8.254
+;Leszno;Leszno Grzybowo;6.748
+;Leśnice;Pogorzelice;2.164
+;Leśniczówka;Wilkołaz Wieś;4.997
+;Letnica;Koźla Kożuchowska;2.281
+;Lewickie;Hryniewicze;5.019
+;Lewin Brzeski;Łosiów;5.671
+;Lewin Kłodzki;Kudowa-Zdrój;3.871
+;Lewki;Bielsk Podlaski;3.829
+;Leżajsk;Wierzawice;4.272
+;Lębork Mosty;Lębork;3.305
+;Lębork Nowy Świat;Nowa Wieś Lęborska;1.693
+;Lębork;Leśnice;5.905
+;Lębork;Lębork Nowy Świat;2.566
+;Lędziechowo;Wrzeście;3.947
+;Libiąż;Chełmek;6.262
+;Libusza;Biecz;3.229
+;Ligota Toszecka;Kotulin;2.412
+;Ligowiec;Kobylnica;3.09
+;Linkowo;Nowy Młyn;4.953
+;Linowo;Bursztynowo;2.621
+;Lipa;Kępa;5.041
+;Lipce Reymontowskie;Krosnowa;5.472
+;Lipienica;Świekatowo;3.429
+;Lipinki Łużyckie;Tuplice Dębinka;7.133
+;Lipinki;Biskupiec Pomorski;5.595
+;Lipińskie Małe;Ełk Szyba Wschód;7.395
+;Lipka Krajeńska;Zakrzewo Złotowskie;11.867
+;Lipki;Oława;6.437
+;Lipno Nowe;Górka Duchowna;3.833
+;Lipno;Karnkowo;6.022
+;Lipowa Śląska;Grodków Śląski;5.917
+;Lipowa Tucholska;Szlachta;1.771
+;Lipowe Pole;Skarżysko-Kamienna;4.762
+;Lipuska Huta;Lipusz;3.423
+;Lipusz;Łubiana;6.908
+;Lisewo;Tczew;2.505
+;Lisie Pole;Krzywin Gryfiński;7.357
+;Lisowo;Trąbki;5.719
+;Lisów;Kochanowice;4.038
+;Lizawice;Zębice Wrocławskie;5.339
+;Lotyń;Turowo Pomorskie;6.482
+;Lubachów;Zagórze Śląskie;3.912
+;Lubaczów;Basznia Dolna;6.854
+;Lubajny;Stare Jabłonki;4.782
+;Lubania-Lipiny;Serock;3.144
+;Lubanice;Żary;7.575
+;Lubanie;Nieszawa Waganiec;7.966
+;Lubań Śląski;Gierałtów;9.08
+;Lubań Śląski;Zaręba;6.247
+;Lubartów Lipowa;Lubartów;2.121
+;Lubartów Słowackiego;Lubartów Lipowa;1.248
+;Lubartów;Wandzin;5.479
+;Lubaszowa;Siedliska koło Tuchowa;1.396
+;Lubawka (Gr);Kralovec;1.76
+;Lubawka;Lubawka (Gr);2.646
+;Lubawka;Kralovec;4.406
+;Lubicz;Dobrzejewice;6.194
+;Lubiewo;Międzyzdroje;2.895
+;Lubin Stadion;Koźlice;5.485
+;Lubin;Lubin Stadion;1.404
+;Lublin Airport;Świdnik Miasto;2.276
+;Lublin Główny;Lublin Północny;2.447
+;Lublin Główny;Lublin Zemborzyce;8.732
+;Lublin Ponikwoda;Lublin Zadębie;0.946
+;Lublin Północny;Świdnik Miasto;8.642
+;Lublin Zachodni;Lublin Główny;4.636
+;Lublin Zadębie;Lublin Północny;2.233
+;Lublin Zemborzyce;Krężnica Jara;3.327
+;Lubliniec;Kochcice-Glinica;5.107
+;Lubliniec;Paczyna;36.529
+;Lubliniec;Pludry;8.992
+;Lubnia;Raduń;4.602
+;Luboń koło Poznania;Poznań Dębiec;2.825
+;Luboń koło Poznania;Wiry;3.969
+;Lubycza Królewska;Hrebenne;5.901
+;Lubzina;Ropczyce;3.883
+;Luciążanka;Wilkoszewice;3.1
+;Lucynów;Rybienko;3.313
+;Ludwikowice Kłodzkie;Świerki Dolne;3.852
+;Ludynia Dwór;Włoszczowa;7.168
+;Ludynia;Ludynia Dwór;3.868
+;Lusławice;Turów;5.717
+;Lutol Suchy;Panowice;2.286
+;Luzino;Strzebielino Morskie;4.845
+;Ładzin;Mokrzyca Wielka;4.153
+;Łambinowice;Budziszowice;2.839
+;Łankiejmy;Korsze;6.341
+;Łańcut;Głuchów;3.744
+;Łapy Osse;Łapy;3.46
+;Łapy;Uhowo;2.23
+;Łask;Borszewice;5.332
+;Łaskarzew;Leokadia;3.756
+;Ławica;Kłodzko Główne;3.081
+;Łaziska Górne Brada;Orzesze;3.867
+;Łaziska Górne;Łaziska Górne Brada;1.877
+;Łaziska Średnie;Orzesze Miasto;7.407
+;Łaznów;Wolbórka;4.748
+;Łazy;Zawiercie;6.427
+;Łąck;Płock Radziwie;6.844
+;Łączna;Zagnańsk;11.026
+;Łąg;Czersk;7.105
+;Łąkociny;Ostrów Wielkopolski Gorzyce;4.335
+;Łążek;Laski Tucholskie;2.958
+;Łęczyca;Gawrony;7.843
+;Łęgajny;Barczewo;6.1
+;Łęgowo Sulechowskie;Babimost;11.147
+;Łęka Opatowska;Słupia;5.284
+;Łętownia;Nowa Sarzyna Kolonia;6.923
+;Łobez;Lesięcin;7.605
+;Łochów;Ostrówek Węgrowski;5.142
+;Łodygowice Górne;Łodygowice;1.659
+;Łodygowice;Pietrzykowice Żywieckie;2.861
+;Łomnica-Zdrój;Wierchomla Wielka;3.957
+;Łopatki;Nałęczów;4.553
+;Łopuchowo Osiedle;Łopuchowo;1.199
+;Łopuchowo;Przebędowo;5.901
+;Łosiów;Brzeg;9.406
+;Łososiowice;Wołów;4.792
+;Łowczów;Tuchów;4.85
+;Łowczówek Pleśna;Łowczów;5.437
+;Łowicz Główny;Bobrowniki;6.58
+;Łowicz Główny;Niedźwiada Łowicka;6.289
+;Łowicz Przedmieście;Łowicz Główny;2.024
+;Łoźnica;Białuń;8.567
+;Łódź Andrzejów Szosa;Łódź Widzew;5.504
+;Łódź Andrzejów;Łódź Widzew;5.58
+;Łódź Arturówek;Łódź Radogoszcz Wschód;1.576
+;Łódź Chojny;Łódź Olechów Wiadukt;4.263
+;Łódź Chojny;Łódź Pabianicka;3.132
+;Łódź Dąbrowa;Łódź Chojny;2.673
+;Łódź Kaliska;Łódź Retkinia;3.076
+;Łódź Kaliska;Łódź Żabieniec;4.463
+;Łódź Lublinek;Pabianice;7.35
+;Łódź Marysin;Łódź Warszawska;1.379
+;Łódź Niciarniana;Łódź Fabryczna;2.661
+;Łódź Olechów Wiadukt;Łódź Olechów Zachód;0.975
+;Łódź Olechów Wschód;Łódź Andrzejów Szosa;2.113
+;Łódź Olechów Zachód;Łódź Olechów Wschód;2.619
+;Łódź Pabianicka;Łódź Kaliska;3.794
+;Łódź Radogoszcz Wschód;Zgierz;3.342
+;Łódź Radogoszcz Zachód;Zgierz;3.34
+;Łódź Retkinia;Łódź Lublinek;3.971
+;Łódź Stoki;Łódź Marysin;3.35
+;Łódź Warszawska;Łódź Arturówek;1.321
+;Łódź Widzew;Łódź Dąbrowa;4.944
+;Łódź Widzew;Łódź Niciarniana;2.515
+;Łódź Widzew;Łódź Stoki;2.74
+;Łódź Żabieniec;Łódź Radogoszcz Zachód;3.077
+;Łubiana;Garczyn;3.077
+;Łubowo;Czarne Małe;5.505
+;Łuczyce;Baranówka;2.61
+;Ługi Górzyckie;Kostrzyn;8.446
+;Łuków Łapiguz;Sarnów;10.166
+;Łuków Śląski;Sumina Wieś;2.382
+;Łuków Zapowiednik;Matysy;5.586
+;Łuków;Łuków Zapowiednik;2.052
+;Łuków;Radzyń Podlaski;22.997
+;Łuków;Łuków Łapiguz;3.928
+;Łupków (Gr);Medzilaborce Mesto;12.994
+;Łupków;Łupków (Gr);1.568
+;Łupowo;Gorzów Wielkopolski Wieprzyce;4.403
+;Łysomice;Ostaszewo Toruńskie;2.286
+;Machnacz;Rozedranka;4.407
+;Majdan Królewski Podlasek;Komorów Podmurynia;1.55
+;Majdan Królewski;Majdan Królewski Podlasek;2.198
+;Majdan Stuleński;Stulno;2.098
+;Majdan;Niedrzwica;5.154
+;Majewo;Morzeszczyn;3.936
+;Maków Podhalański;Juszczyn;2.73
+;Maków;Płyćwia;4.759
+;Maksymilianowo;Kotomierz;9.959
+;Malbork Kałdowo;Stogi Malborskie;4.119
+;Malbork;Malbork Kałdowo;1.786
+;Malczyce;Szczedrzykowice;9.517
+;Małaszewicze;Kobylany;2.449
+;Małdyty;Dobrocin;7.267
+;Małe Gacno;Zarośle;6.079
+;Małkinia;Zaręby Kościelne;8.28
+;Małogoszcz;Bukowa;5.232
+;Małomice;Żagań;11.217
+;Małowice Wołowskie;Ścinawa;4.167
+;Mańkowice;Kubice;2.99
+;Marcinkowo;Pasym;10
+;Marcinków;Wąchock;2.936
+;Marcinowice Świdnickie;Pszenno;5.01
+;Marciszów;Ciechanowice;2.678
+;Markuszowa;Kalembina;1.696
+;Martiany;Sterławki Wielkie;4.106
+;Marzenin;Czerniejewo;4.251
+;Masłońskie Natalin;Poraj;3.837
+;Matysy;Szaniawy;3.594
+;Maziły;Bełżec Drugi;7.208
+;Mąkoszyce;Tarnowiec Brzeski;3.22
+;Medyka (Gr);Mostiska II;5.549
+;Medyka Rozrządowa;Medyka;2.789
+;Medyka Towarowa;Medyka Rozrządowa;2.176
+;Medyka;Medyka (Gr);1.160
+;Medzilaborce Mesto;Medzilaborce;1.549
+;Mełno;Boguszewo;3.941
+;Męcikał;Żabno koło Chojnic;3.497
+;Męcka Wola;Sieradz Męka;4.967
+;Miały;Drawski Młyn;7.887
+;Miasteczko Krajeńskie;Kaczory;9.837
+;Miasteczko Śląskie;Kalety;7.746
+;Miastko;Kawcze;10.022
+;Miąsowa;Jędrzejów;12.175
+;Michalczew;Gośniewice;3.313
+;Michalin;Józefów;1.601
+;Michałów-Reginów;Wieliszew;1.086
+;Miechów;Kamieńczyce;3.381
+;Miedwiecko;Reptowo;4.404
+;Mielec Południowy;Wojsław;1.87
+;Mielec;Chorzelów Południowy;4.383
+;Mienia;Cegłów;3.38
+;Mieroszów (Gr);Mezimesti;1.938
+;Mieroszów;Mieroszów (Gr);4.530
+;Mierzęcin;Dobiegniew;6.224
+;Mieszaki;Zawidz;6.7
+;Mieszkowice;Bielin;4.752
+;Mieszków;Chocicza;8.346
+;Mietków;Imbramowice;6.13
+;Międzyborów;Żyrardów;2.744
+;Międzybórz Sycowski;Pawłów Wielkopolski;3.004
+;Międzylesie (Gr);Lichkov;2.243
+;Międzylesie;Międzylesie (Gr);6.114
+;Międzyrzec Podlaski;Sitno;5.64
+;Międzyrzecz;Głębokie Międzyrzeckie;6.139
+;Międzyzdroje;Warnowo;5.883
+;Miękinia;Przedmoście Święte;5.185
+;Mika;Życzyn;3.126
+;Mikłasze;Lewki;7.128
+;Mikołajki Pomorskie;Mleczewo;9.106
+;Mikołów Jamna;Mikołów;2.889
+;Mikołów;Łaziska Górne;4.136
+;Mikułowa;Jerzmanki;5.533
+;Milanówek;Grodzisk Mazowiecki;3.543
+;Milcz;Dziembówko;4.742
+;Milcza;Besko;4.257
+;Milejów;Rozprza;6.15
+;Milicz;Cieszków;12.763
+;Milik;Muszyna;4.645
+;Milówka Zabawa;Rajcza;2.96
+;Milówka;Milówka Zabawa;2.575
+;Miłkowice;Chojnów;8.991
+;Miłkowice;Rokitki;14.32
+;Miłobądz;Pszczółki;3.995
+;Miłocin Lubelski;Motycz Leśny;5.441
+;Miłogoszcz;Tymień;4.26
+;Miłosław;Książno;4.416
+;Minkowice Oławskie;Biskupice Oławskie;4.766
+;Minkowice;Podzamcze;1.872
+;Mińsk Mazowiecki Anielina;Barcząca;3.066
+;Mińsk Mazowiecki;Mińsk Mazowiecki Anielina;2.482
+;Misie;Międzyrzec Podlaski;6.98
+;Mleczewo;Dąbrówka Malborska;7.132
+;Mława Miasto;Mława;2.63
+;Mława;Iłowo;6.077
+;Młodów;Piwniczna-Zdrój;3.897
+;Młyńsko;Gryfów Śląski;6.068
+;Modlin;Pomiechówek;4.447
+;Modła;Wierzbowa Śląska;4.467
+;Mogilno;Kołodziejewo;8.609
+;Mokra Wieś;Szewnica;5.18
+;Mokra;Skierniewice;4.117
+;Mokre Małopolskie;Wysoczany;2.81
+;Mokre;Zamość;2.477
+;Mokronos Górny;Smolec;2.055
+;Mokrz;Miały;10.654
+;Mokrzyca Wielka;Wolin;3.816
+;Montowo;Zajączkowo Lubawskie;5.777
+;Mońki;Goniądz;8.478
+;Morąg Kolonia;Żabi Róg;1.993
+;Morąg;Morąg Kolonia;6.327
+;Mordy Miasto;Cierpigórz;5.717
+;Mordy;Mordy Miasto;1.811
+;Morochów;Mokre Małopolskie;2.703
+;Morze;Orlanka;4.553
+;Morzeszczyn;Kulice Tczewskie;4.766
+;Morzyca;Kolin;3.68
+;Mosina;Puszczykówko;3.652
+;Moskale;Nisko Osiedle;1.115
+;Mostki;Toporów;9.74
+;Mostówka;Lucynów;4.021
+;Mosty;Port Lotniczy Szczecin Goleniów;4.216
+;Moszczenica Małopolska;Gorlice Zagórzany;5.528
+;Moszczenica Pomorska;Wierzchowo Człuchowskie;3.787
+;Moszczenica;Jarosty;4.702
+;Mościsko Dzierżoniowskie;Krzyżowa;4.4
+;Motycz Leśny;Motycz;4.12
+;Motycz;Stasin Polny;3.609
+;Mrozów;Miękinia;3.699
+;Mrozy;Grodziszcze Mazowieckie;5.12
+;Mrzezino;Żelistrzewo;2.436
+;Mszalnica;Kamionka Wielka;4.087
+;Mścice;Mielno Koszalińskie;5.025
+;Mścice;Będzino;5.739
+;Munina;Ostrów koło Radymna;6.127
+;Munina;Surochów;5.277
+;Murowana Goślina;Zielone Wzgórza;1.198
+;Muszyna (Gr);Plavec;6.792
+;Muszyna Zdrój;Powroźnik;3.798
+;Muszyna;Muszyna (Gr);7.536
+;Muszyna;Muszyna Zdrój;1.558
+;Mysłaków;Łowicz Główny;4.866
+;Mysłowice Brzezinka;Mysłowice Brzęczkowice;1.791
+;Mysłowice Brzęczkowice;Mysłowice;2.848
+;Mysłowice Kosztowy;Mysłowice Brzezinka;2.824
+;Mysłowice;Katowice Szopienice Południowe;4.557
+;Mysłowice;Jaworzno Szczakowa;12.413
+;Myszków Mrzygłód;Myszków Światowit;2.928
+;Myszków Nowa Wieś;Żarki-Letnisko;3.437
+;Myszków Światowit;Myszków;2.426
+;Myszków;Myszków Nowa Wieś;3.491
+;Myśliczyn;Nysa;6.467
+;Nadolice Małe;Nadolice Wielkie;2.244
+;Nadolice Wielkie;Chrząstawa Mała;2.17
+;Najmowo;Brodnica;7.793
+;Nakło nad Notecią;Anieliny;8.253
+;Nakło Śląskie;Tarnowskie Góry;3.739
+;Nałęczów;Czesławice;3.705
+;Namysłów;Wilków Namysłowski;4.624
+;Namyślin;Boleszkowice;7.501
+;Narzym;Działdowo;7.915
+;Nasielsk;Kątne;3.805
+;Naterki;Olsztyn Dajtki;4.901
+;Nawra;Głuchowo;3.976
+;Nekla;Gułtowy;5.977
+;Nędza Wieś;Nędza;1.714
+;Nędza;Racibórz Markowice;5.106
+;Nicwałd;Mełno;5.177
+;Nidzica;Dobrzyń;9.212
+;Niedoradz;Zielona Góra Nowy Kisielin;6.208
+;Niedrzwica Kościelna;Leśniczówka;3.505
+;Niedrzwica;Niedrzwica Kościelna;4.582
+;Niedźwiada Łowicka;Jackowice;6.442
+;Niedźwiedź Wielkopolski;Antonin;3.508
+;Niedźwiedź;Goszcza;3.108
+;Niegocin;Giżycko;3.524
+;Nielep;Świdwin;8.948
+;Niemce;Bystrzyca koło Lublina;1.837
+;Niemojki;Patków;3.389
+;Nieporęt;Dąbkowizna;3.737
+;Nieszawa Waganiec;Turzno Kujawskie;6.971
+;Nietkowice;Będów;3.203
+;Nietków;Laski Odrzańskie;2.84
+;Niewodnica;Klepacze;3.226
+;Nisko Osiedle;Nisko;1.62
+;Nisko Podwolina;Rudnik Stróża;5.224
+;Nisko Racławice;Nisko Podwolina;1.502
+;Nisko;Nisko Racławice;1.474
+;Niziny;Walawa;1.954
+;Nosówko;Kościernica;5.222
+;Nowa Dęba;Huta Komorowska;4.109
+;Nowa Grobla;Oleszyce;8.411
+;Nowa Iwiczna;Piaseczno;3.18
+;Nowa Ruda Przedmieście;Nowa Ruda Zdrojowisko;3.343
+;Nowa Ruda Zdrojowisko;Ludwikowice Kłodzkie;2.148
+;Nowa Ruda;Nowa Ruda Przedmieście;2.172
+;Nowa Sarzyna Kolonia;Nowa Sarzyna;1.381
+;Nowa Sarzyna;Jelna;2.209
+;Nowa Sól;Niedoradz;7.965
+;Nowa Sucha;Kęszyce;2.376
+;Nowa Wieś Cierpkie;Zielonka Pasłęcka;3.694
+;Nowa Wieś Ełcka;Ełk Szyba Zachód;4.732
+;Nowa Wieś Kościelna;Zabiele Wielkie;5.15
+;Nowa Wieś Legnicka;Legnica Piekary;2.852
+;Nowa Wieś Lęborska;Garczegorze;3.902
+;Nowa Wieś Wielka;Chmielniki Bydgoskie;5.003
+;Nowawieś Mochy;Nowy Solec;2.33
+;Nowe Dębe Wielkie;Wrzosów;3.139
+;Nowe Drezdenko;Stare Bielice;5.98
+;Nowe Kutnowskie;Krzewie;4.172
+;Nowe Skalmierzyce;Kalisz Szczypiorno;3
+;Nowiny Wielkie;Bogdaniec;5.561
+;Nowiny;Susiec;7.295
+;Nowogard;Wyszomierz;5.981
+;Nowogród Bobrzański;Nowogród Osiedle;2.278
+;Nowogród Osiedle;Bieniów;10.776
+;Nowosielce;Sanok Dąbrówka;5.702
+;Nowy Bieruń;Chełm Śląski;4.289
+;Nowy Dwór Mazowiecki;Modlin;3.665
+;Nowy Jarosław;Sińczyca;2.64
+;Nowy Las;Nowy Świętów;3.628
+;Nowy Łupków;Łupków;2.582
+;Nowy Młyn;Kętrzyn;3.957
+;Nowy Nurzec;Borowiki;3.409
+;Nowy Sącz Biegonice;Stary Sącz;3.39
+;Nowy Sącz Jamnica;Nowy Sącz;4.243
+;Nowy Sącz;Nowy Sącz Biegonice;3.845
+;Nowy Solec;Wroniawy;3.837
+;Nowy Świętów;Głuchołazy;5.952
+;Nowy Targ;Szaflary;3.935
+;Nowy Tomyśl;Jastrzębsko;4.923
+;Nowy Widzim;Wolsztyn;4.107
+;Nowy Zagórz;Załuż;4.451
+;Nowy Zagórz;Zagórz;1.13
+;Nurzec;Nowy Nurzec;6.512
+;Nysa Wschodnia;Nysa;2.353
+;Nysa;Nowy Świętów;11.847
+;Nysa;Goświnowice;8.858
+;Oborniki Śląskie;Osola;4.827
+;Oborniki Wielkopolskie Miasto;Oborniki Wielkopolskie;1.457
+;Oborniki Wielkopolskie;Rożnowo;3.752
+;Oborzyska Stare;Czempiń;4.561
+;Obra Stara;Golina;2.137
+;Obrowo;Czernikowo;5.655
+;Ociąż;Nowe Skalmierzyce;5.142
+;Ocice;Chmielów Zagumnie;0.560
+;Odolanów;Tarchały Wielkie;2.795
+;Ognica;Tarnowo Pomorskie;6.134
+;Ograszka;Konotopie;6.534
+;Ogrodniki;Perkowice;2.798
+;Okmiany;Tomaszów Bolesławiecki;7.181
+;Okonek;Brokęcino;5.296
+;Okrąglica;Ruszów;4.049
+;Okrzeja;Grabów Szlachecki;4.318
+;Okuninka Białe;Włodawa;2.764
+;Olesno Śląskie;Stare Olesno;5.034
+;Oleszyce;Lubaczów;6.44
+;Oleśnica Rataje;Dąbrowa Oleśnicka;1.667
+;Oleśnica;Oleśnica Rataje;2.73
+;Olkusz;Bukowno;8.517
+;Olszanica;Ustianowa;8.149
+;Olszanka;Czeska Wieś;4.29
+;Olszewka;Raszujka;4.7
+;Olsztyn Dajtki;Olsztyn Zachodni;2.39
+;Olsztyn Główny;Łęgajny;8.879
+;Olsztyn Główny;Klewki;8.2
+;Olsztyn Gutkowo;Olsztyn Redykajny;2.623
+;Olsztyn Jezioro Ukiel;Olsztyn Zachodni;1.496
+;Olsztyn Likusy;Olsztyn Jezioro Ukiel;0.667
+;Olsztyn Redykajny;Olsztyn Likusy;1.083
+;Olsztyn Śródmieście;Olsztyn Główny;1.058
+;Olsztyn Zachodni;Olsztyn Śródmieście;1.125
+;Olsztynek;Gryźliny;5.179
+;Olszyna Lubańska;Lubań Śląski;8.07
+;Olszyny;Jeruty;3.116
+;Olza;Rudyszwałd;3.325
+;Oława;Lizawice;7.353
+;Ołdrzychowice Kłodzkie;Trzebieszowice;3.257
+;Opalenica;Porażyn;7.773
+;Opatówek;Radliczyce;8.833
+;Opoczno Południe;Grodzisk Mazowiecki;92.137
+;Opoczno;Sitowa;5.53
+;Opole Borki;Opole Czarnowąsy;3.46
+;Opole Chmielowice;Komprachcice;3.675
+;Opole Czarnowąsy;Opole Wschodnie;5.303
+;Opole Główne;Opole Zachodnie;2.009
+;Opole Główne;Opole Gosławice;5.512
+;Opole Gosławice;Kotórz Mały;6.922
+;Opole Groszowice;Opole Główne;3.553
+;Opole Grotowice;Opole Groszowice;3.299
+;Opole Wschodnie;Opole Główne;5.193
+;Opole Zachodnie;Chróścina Opolska;5.699
+;Opole Zachodnie;Opole Chmielowice;2.961
+;Orlanka;Mikłasze;2.212
+;Orzechowicze;Rajsk;2.157
+;Orzechowo;Miłosław;9.108
+;Orzesze Jaśkowice;Czerwionka;4.405
+;Orzesze Miasto;Orzesze Jaśkowice;1.949
+;Orzesze;Orzesze Jaśkowice;3.058
+;Orzeszkowo;Hajnówka;7.488
+;Orzeszków;Małowice Wołowskie;2.668
+;Osetnica;Okmiany;5.139
+;Osie;Tleń;6.015
+;Osielec;Bystra Podhalańska;3.143
+;Osina;Mosty;6.229
+;Osławica;Nowy Łupków;3.411
+;Osola;Skokowa;5.629
+;Osowiec Przystanek;Jełowa;4.666
+;Osowiec;Podlasek;13.147
+;Ostaszewo Toruńskie;Grzywna;5.555
+;Ostrołęka;Grabowo;6.246
+;Ostromecko;Dąbrowa Chełmińska;5.703
+;Ostrowie Biebrzańskie;Jastrzębna;4.411
+;Ostrowiec Świętokrzyski;Ćmielów;11.969
+;Ostrowite koło Jabłonowa;Lipinki;4.884
+;Ostrowy;Rutkowice;7.476
+;Ostróda;Lubajny;5.074
+;Ostrów koło Radymna;Radymno;3.735
+;Ostrów Wielkopolski Gorzyce;Ostrów Wielkopolski;6.044
+;Ostrów Wielkopolski;Czekanów;7.05
+;Ostrów Wielkopolski;Biniew;10.138
+;Ostrówek Węgrowski;Topór;5.061
+;Ostrówki koło Chodzieży;Chodzież;7.102
+;Ostrzeszów;Niedźwiedź Wielkopolski;8.945
+;Oświęcim;Nowy Bieruń;4.242
+;Oświęcim;Brzeszcze;6.212
+;Otłoczyn;Brzoza Toruńska;5.546
+;Otmice;Tarnów Opolski;4.062
+;Otmuchów Jezioro;Paczków;7.177
+;Otmuchów;Otmuchów Jezioro;3.126
+;Otoczna;Gutowo Wielkopolskie;3.194
+;Otusz;Buk;4.729
+;Otwock Śródborów;Pogorzel Warszawska;3.2
+;Otwock Świder;Otwock;1.639
+;Otwock;Otwock Śródborów;2.482
+;Owińska;Czerwonak Osiedle;3.69
+;Ozimek;Dębska Kuźnia;7.218
+;Ozorków Nowe Miasto;Ozorków;1.531
+;Ozorków;Sierpów;6.011
+;Ożarów Mazowiecki;Płochocin;6.594
+;Pabianice;Chechło;3.202
+;Pacholęta;Dolna Odra;4.702
+;Paczkowo;Swarzędz;5.828
+;Paczków;Doboszowice;6.016
+;Paczyna;Toszek;5.153
+;Pakosławice;Myśliczyn;2.942
+;Palędzie;Dopiewo;5.223
+;Pałecznica;Lubartów Słowackiego;4.418
+;Pamiątkowo;Baborówko;5.171
+;Panki;Krzepice;9.068
+;Panowice;Bukowiec Międzyrzecki;3.453
+;Papowo Toruńskie;Turzno;4.775
+;Parciaki;Olszewka;7.486
+;Parczew Kolejowa;Parczew;1.165
+;Parczew;Laski;2.905
+;Parkowo;Rogoźno Wielkopolskie;6.627
+;Parlin;Terespol Pomorski;7.172
+;Parłówko;Wysoka Kamieńska;6.204
+;Parzniew;Brwinów;3.426
+;Pasieki;Goworowo;7.946
+;Pasikurowice;Siedlec Trzebnicki;2.88
+;Pasłęk;Nowa Wieś Cierpkie;8.625
+;Pasym;Grom;7.499
+;Patków;Platerów;6.592
+;Pawłowice;Poniec;7.598
+;Pawłów Wielkopolski;Sośnie Ostrowskie;5.627
+;Pawłówek;Zielonczyn;3.232
+;Pawonków;Zawadzkie;7.892
+;Pątnów Wieluński;Wieluń;8.588
+;Pelplin;Subkowy;7.536
+;Pełkinie;Jarosław;6.407
+;Perkowice;Chotyłów;5.292
+;Perkowo;Nowawieś Mochy;3.921
+;Petrykozy;Ruda Białaczowska;3.957
+;Pewel Mała;Żywiec Sporysz;4.3
+;Pewel Wielka Centrum;Jeleśnia;2.767
+;Pewel Wielka;Pewel Wielka Centrum;2.385
+;Pęckowo;Wronki;8.722
+;Pęgów;Oborniki Śląskie;6.768
+;Pępowo Kartuskie;Rębiechowo;2.756
+;Pępowo;Czeluścin;3.646
+;Pęzino;Ulikowo;5.798
+;Piasecznica;Sochaczew;7.307
+;Piaseczno;Zalesie Górne;4.783
+;Piasek;Pszczyna;4.321
+;Piastoszyn;Żalno;3.427
+;Piastów;Pruszków;3.434
+;Piechowice Dolne;Piechowice;1.734
+;Piechowice;Górzyniec;3.966
+;Piekoszów;Rykoszyn;5
+;Pieńsk;Lasów;2.365
+;Pierściec;Zaborze;4.672
+;Pierwoszów Miłocin;Brochocin Trzebnicki;2.48
+;Pierzchno;Kórnik;4.6
+;Pierzyska;Gniezno;8.723
+;Piesienice;Pinczyn;3.255
+;Pietrzykowice Żywieckie;Żywiec;3.702
+;Pikus;Samborowo;5.853
+;Pilawa;Garwolin;6.42
+;Pilchów;Stalowa Wola Rozwadów;3.301
+;Pilchów;Stalowa Wola Charzewice;1.559
+;Piła Główna;Stara Łubianka;14.089
+;Piła Główna;Szydłowo Krajeńskie;11.782
+;Piła Kalina;Piła Główna;6.736
+;Piła Podlasie;Piła Główna;3.502
+;Piława Górna;Dzierżoniów Śląski;11.824
+;Pinczyn;Zblewo;3.457
+;Pionki Zachodnie;Jedlnia Kościelna;2.998
+;Pionki;Pionki Zachodnie;1.757
+;Piotrków Kujawski;Inowrocław Rąbinek;33.084
+;Piotrków Trybunalski;Milejów;6.147
+;Pisz Wschodni;Stare Guty;6.442
+;Pisz;Pisz Wschodni;2.432
+;Piwniczna;Łomnica-Zdrój;1.665
+;Piwniczna-Zdrój;Piwniczna;2.151
+;Platerów;Sarnaki;4.884
+;Pleszew;Kotlin;6.347
+;Pliszka;Gądków Wielki;6.006
+;Pludry;Pawonków;7.22
+;Pławna;Bobowa;5.243
+;Płochocin;Błonie;6.706
+;Płociczno koło Suwałk;Suwałki;7.991
+;Płock Radziwie;Płock;6.538
+;Płock Trzepowo;Proboszczewice Płockie;7.923
+;Płock;Płock Trzepowo;5.377
+;Płońsk;Dalanówek;7.404
+;Płoty;Żabowo;11.472
+;Płyćwia;Lipce Reymontowskie;4.219
+;Płytnica;Ptusza;8.07
+;Pobiedziska Letnisko;Pobiedziska;2.6
+;Pobiedziska;Lednogóra;5.968
+;Podbiele;Lewki;4.413
+;Podborsko;Białogard;14.113
+;Podbory Skawińskie;Zelczyna;1.98
+;Podbór;Chronów;3.76
+;Podlasek;Ruda;3.676
+;Podlesie;Staropole Częstochowskie;5.427
+;Podlesiec;Mierzęcin;3.279
+;Podłęże;Staniątki;2.876
+;Podolany;Leńcze;2.184
+;Podstolice;Nekla;5.673
+;Podwierzbie;Sierpc;5.508
+;Podzamcze;Dominów;3.923
+;Pogorzel Warszawska;Stara Wieś;1.704
+;Pogorzel Wielka;Bajtkowo;7.847
+;Pogorzelice;Potęgowo;10.65
+;Pogwizdów;Cieszyn Marklowice;2.335
+;Pokrzywna (Gr);Jindrichov ve Slezsku;4.054
+;Pokrzywnica;Twardawa;5.847
+;Polana Jakuszycka;Jakuszyce (Gr);6.02
+;Polanica-Zdrój;Szczytna;5.703
+;Polichna Kraśnicka;Rzeczyca-Kolonia;3.018
+;Policzna;Witowo;6.986
+;Polna;Szalowa;2.245
+;Pomiechówek;Brody Warszawskie;4.64
+;Poniec;Dzięczyn;3.227
+;Popielów;Chróścice;5.522
+;Popowo Skwierzyńskie;Skwierzyna;6.485
+;Poraj;Korwinów;7.792
+;Porażyn;Sątopy;5.941
+;Poronin;Zakopane;5.868
+;Porosiuki;Biała Podlaska;4.793
+;Port Lotniczy Szczecin Goleniów;Goleniów;10.215
+;Potęgowo;Głuszyno Pomorskie;4.536
+;Potok Kraśnicki;Zaklików;6.361
+;Potok;Krzcięcice;6.28
+;Powałki;Męcikał;12.062
+;Powroźnik;Krynica-Zdrój;5.181
+;Poznań Antoninek;Poznań Wschód;4.043
+;Poznań Dębiec;Poznań Główny;3.697
+;Poznań Dębina;Poznań Główny;3.26
+;Poznań Garbary;Poznań Główny;3.079
+;Poznań Główny;Poznań Górczyn;4.499
+;Poznań Główny;Poznań Podolany;6.158
+;Poznań Główny;Poznań Wola;6.531
+;Poznań Górczyn;Poznań Junikowo;3.691
+;Poznań Junikowo;Palędzie;5.432
+;Poznań Karolin;Poznań Wschód;2.479
+;Poznań Krzesiny;Poznań Starołęka;4.379
+;Poznań Podolany;Poznań Strzeszyn;1.739
+;Poznań Starołęka;Poznań Dębina;1.642
+;Poznań Strzeszyn;Złotniki Grzybowe;3.157
+;Poznań Wola;Kiekrz;6.378
+;Poznań Wschód;Poznań Garbary;2.58
+;Poznań Wschód;Ligowiec;4.637
+;Półwieś;Ryczów;3.002
+;Prabuty Góry;Pasieki;5.319
+;Prabuty;Gdakowo;7.258
+;Proboszczewice Płockie;Gozdowo;7.874
+;Promno;Pobiedziska Letnisko;1.665
+;Prostki;Lipińskie Małe;5.075
+;Prostynia;Żółwino;6.042
+;Prostyń;Małkinia;6.266
+;Pruchna;Zebrzydowice;6.567
+;Prudnik;Szybowice;7.202
+;Pruszcz Gdański;Gdańsk Lipce;4.971
+;Pruszcz Pomorski;Parlin;6.347
+;Pruszków;Parzniew;2.74
+;Przebędowo;Murowana Goślina;1.102
+;Przeciszów;Włosienica;3.092
+;Przecza;Lewin Brzeski;4.512
+;Przedmoście Święte;Środa Śląska;4.165
+;Przemyśl Główny;Hurko;6.256
+;Przemyśl Zasanie;Przemyśl Główny;1.606
+;Przeradz;Iwin;3.068
+;Przetycz;Prabuty Góry;4.3
+;Przeworsk;Pełkinie;8.516
+;Przybówka;Wojaszówka;3
+;Przybyłowice;Nowa Wieś Legnicka;5.911
+;Przygodzice;Janków Przygodzki;4.444
+;Przyłęk Duży;Rogów;3.378
+;Przyłubie;Solec Kujawski;7.313
+;Przysieczyn;Roszkowo Wągrowieckie;5.052
+;Przysieka Stara;Kościan;5.5
+;Przysieki;Jasło Niegłowice;4.674
+;Przysucha;Skrzynno;4.631
+;Przyszowice;Knurów;7.166
+;Przyszowice;Zabrze Makoszowy;4.72
+;Przytkowice;Kalwaria Zebrzydowska Lanckorona;3.361
+;Przytocko;Ciecholub;6.2
+;Przywory Opolskie;Opole Grotowice;3.425
+;Pszczółki;Skowarcz;1.618
+;Pszczyna Czarków;Radostowice;2.596
+;Pszczyna;Goczałkowice;3.613
+;Pszczyna;Pszczyna Czarków;5.025
+;Pszenno;Świdnica Przedmieście;3.093
+;Ptaszkowa;Mszalnica;4.773
+;Ptaszkowo;Grąblewo;3.658
+;Ptusza;Jastrowie;4.975
+;Puck;Swarzewo;5.011
+;Pułankowice;Kraśnik;4.729
+;Puławy Azoty;Puławy Chemia;3.695
+;Puławy Chemia;Puławy Miasto;2.386
+;Puławy Miasto;Puławy;2.811
+;Puławy;Końskowola;2.911
+;Pustków Żurawski;Rogów Sobócki;7.375
+;Pustków;Dąbie koło Dębicy;2.87
+;Pustynia;Kochanówka Pustków;4.332
+;Puszczykowo;Luboń koło Poznania;5.678
+;Puszczykówko;Puszczykowo;2.512
+;Pyskowice;Paczyna;4.655
+;Pyzówka;Lasek;3.055
+;Raba Wyżna;Sieniawa;5.367
+;Rabka Zaryte;Mszana Dolna;9.358
+;Rabka-Zdrój;Rabka Zaryte;3.654
+;Racewo;Sidra;6.747
+;Raciąż;Kaczorowo;7.496
+;Raciborów Kutnowski;Strzelce Kujawskie;5.135
+;Racibory;Zdrody Nowe;5.633
+;Racibórz Markowice;Racibórz;4.138
+;Racławice Śląskie;Dytmarów;6.405
+;Racławki;Silno;3.742
+;Radkowice;Wolica;5.607
+;Radliczyce;Skalmierz;6.352
+;Radlin Obszary;Wodzisław Śląski Radlin;2.602
+;Radlin Wielkopolski;Żerków;4.112
+;Radnica;Bytnica;9.706
+;Radochów;Lądek-Zdrój;3.375
+;Radom Główny;Radom Południowy;7.073
+;Radom Gołębiów;Radom Główny;3.469
+;Radom Południowy;Rożki;3.239
+;Radom Potkanów;Radom Główny;6.376
+;Radom Północny;Radom Gołębiów;0.805
+;Radom Stara Wola;Radom Północny;2.207
+;Radomsko;Bobry;5.623
+;Radomyśl;Krynka Łukowska;2.724
+;Radostowice;Suszec;7.149
+;Radów;Laski Lubuskie;3.699
+;Raduń;Dziemiany Kaszubskie;4.868
+;Radymno;Sośnica Jarosławska;4.562
+;Radzice;Drzewica;5.768
+;Radziechowy Wieprz;Cięcina Dolna;3.075
+;Radzionków Rojca;Radzionków;1.814
+;Radzionków;Nakło Śląskie;2.738
+;Radziszów Centrum;Radziszów;2.133
+;Radziszów;Wola Radziszowska Lipki;1.878
+;Radziwiłłów Mazowiecki;Skierniewice Rawka;5.376
+;Radzymin;Krusze;13.463
+;Radzyń Podlaski;Parczew Kolejowa;28.983
+;Rajcza Centrum;Rycerka;1.75
+;Rajcza;Rajcza Centrum;1.765
+;Rajec Poduchowny;Radom Główny;7.675
+;Rajsk;Strabla;8.59
+;Rakoniewice;Rostarzewo;4.112
+;Rakowice;Smolniki;7.328
+;Ramiszów;Pasikurowice;1.946
+;Raszowa;Zdzieszowice;4.628
+;Raszówka;Gorzelin;2.944
+;Raszujka;Chorzele;5.983
+;Rawicz;Bojanowo;12.249
+;Rąbino;Nielep;7.102
+;Reblino;Sycewice;4.788
+;Recław;Troszyn;5.143
+;Recz Pomorski;Sokoliniec;4.901
+;Reda Pieleszewo;Wejherowo Śmiechowo;2.836
+;Reda Rekowo;Mrzezino;4.095
+;Reda;Reda Rekowo;4.758
+;Reda;Reda Pieleszewo;2.668
+;Redaki;Susz;7.314
+;Rejowiec;Zawadówka;8.933
+;Rejowiec;Zagrody Kościół;6.5
+;Reptowo;Szczecin Zdunowo;6.342
+;Rębiechowo;Gdańsk Rębiechowo;2.64
+;Rębiszów;Młyńsko;5.5
+;Rębusz;Słonice;6.491
+;Rogalice;Mąkoszyce;3.721
+;Rogoźnica koło Rzeszowa;Zaczernie;2.525
+;Rogoźnica;Jawor;6.709
+;Rogoźno Wielkopolskie;Tarnowo Rogozińskie;5.533
+;Rogożew;Łąck;4.632
+;Rogów Sobócki;Sobótka;4.151
+;Rogów;Wągry;3.896
+;Rogóżno koło Łańcuta;Grzęska;6.43
+;Rokiciny Podhalańskie;Raba Wyżna;2.346
+;Rokiciny;Łaznów;4.475
+;Rokietnica;Pamiątkowo;6.511
+;Rokita;Łoźnica;8.511
+;Rokitki Tczewskie;Swarożyn;7.373
+;Rokitki;Chocianów;10.357
+;Rokitki;Modła;7.151
+;Rokitnia Stara;Dęblin;5.172
+;Ropczyce Witkowice;Sędziszów Małopolski;4.907
+;Ropczyce;Ropczyce Witkowice;3.267
+;Rosochatka;Lipowa Tucholska;5.416
+;Rostarzewo;Tłoki;4.009
+;Roszkowo Wągrowieckie;Skoki;3.959
+;Roszków Raciborski;Krzyżanowice;3.034
+;Rozedranka;Geniusze;5.575
+;Rozprza;Luciążanka;2.894
+;Roztoki Bystrzyckie;Międzylesie;5.245
+;Rożki;Dąbrówka Zabłotnia;3.526
+;Rożnowo;Parkowo;4.347
+;Różanystok;Dąbrowa Białostocka;3.486
+;Różyny;Cieplewo;2.672
+;Ruchocice;Drzymałowo;3.911
+;Ruciane-Nida Zachód;Ruciane-Nida;3.349
+;Ruciane-Nida;Szeroki Bór;9.727
+;Ruda Białaczowska;Kornica;5.528
+;Ruda Chebzie;Świętochłowice;3.327
+;Ruda Śląska;Ruda Chebzie;2.328
+;Ruda Talubska;Wola Rowska;3.514
+;Ruda Wielka;Wola Lipieniecka;3.157
+;Ruda;Grajewo;8.422
+;Ruda-Huta;Ruda-Opalin;1.586
+;Ruda-Opalin;Uhrusk Przystanek;5.58
+;Rudawa;Zabierzów;5.881
+;Rudna Gwizdanów;Grębocice;9.879
+;Rudna Miasto;Rudna Gwizdanów;3.182
+;Rudna Wielka;Rzeszów Dworzysko;1.943
+;Rudnik nad Sanem;Łętownia;8.275
+;Rudnik Stróża;Rudnik nad Sanem;3.571
+;Rudnik;Lublin Ponikwoda;2.842
+;Rudniki koło Częstochowy;Częstochowa Aniołów;8.116
+;Rudyszwałd;Chałupki;1.841
+;Rudyszwałd;Roszków Raciborski;2.875
+;Rudzienice Suskie;Pikus;5.072
+;Rudziniec Gliwicki;Sławięcice;6.644
+;Rumia Janowo;Rumia;1.587
+;Rumia;Reda;3.687
+;Runowo Pomorskie;Cieszyno Łobeskie;5.703
+;Rurka;Kliniska;3.724
+;Rusinowice;Lubliniec;5.938
+;Ruszów;Jagodzin;5.113
+;Rutkowice;Kaliska Kujawskie;6.153
+;Rutwica;Tuczno Krajeńskie;7.477
+;Rybienko;Wyszków;2.528
+;Rybnica;Stara Kamienica;5.729
+;Rybnik Niedobczyce;Rybnik Niewiadom;2.112
+;Rybnik Niewiadom;Rydułtowy;3.076
+;Rybnik Paruszowiec;Rybnik;2.023
+;Rybnik Piaski;Rybnik;3.194
+;Rybnik Rymer;Radlin Obszary;2.097
+;Rybnik Towarowy;Rybnik Niedobczyce;1.437
+;Rybnik Towarowy;Rybnik Rymer;1.763
+;Rybnik;Rybnik Towarowy;3.681
+;Rybno Pomorskie;Jeglia;2.858
+;Rycerka;Sól;3.063
+;Rychnowo Wielkie;Kowalewo Pomorskie;4.499
+;Ryczów;Spytkowice Kępki;1.648
+;Rydułtowy;Łuków Śląski;3.748
+;Rydzyna;Leszno;10.158
+;Ryjewo;Sztumska Wieś;7.034
+;Ryki;Dęblin;7.429
+;Rykoszyn;Wierna Rzeka;4.718
+;Rynarcice;Rudna Miasto;4.622
+;Rynkowo Wiadukt;Maksymilianowo;7.298
+;Rypin;Brodnica;25.73
+;Rytel Wieś;Rytel;3.358
+;Rytel;Krojanty;5.1
+;Rytro;Młodów;2.505
+;Rzeczyca;Potok Kraśnicki;5.954
+;Rzeczyca-Kolonia;Rzeczyca;4.975
+;Rzeczyce Śląskie;Taciszów;4.248
+;Rzemień;Rzochów;2.764
+;Rzepedź;Komańcza Letnisko;4.205
+;Rzepin;Kunowice;12.155
+;Rzepin;Drzeńsko;4.599
+;Rzerzęczyce;Rudniki koło Częstochowy;7.094
+;Rzeszotary;Raszówka;5.885
+;Rzeszów Baranówka;Rzeszów Zachodni;1.396
+;Rzeszów Centrum;Rzeszów Staroniwa;0.891
+;Rzeszów Dworzysko;Rzeszów Baranówka;2.173
+;Rzeszów Główny;Rzeszów Pobitno;2.191
+;Rzeszów Główny;Rzeszów Centrum;0.638
+;Rzeszów Miłocin;Rzeszów Staromieście;1.475
+;Rzeszów Osiedle;Rzeszów Zwięczyca;2.412
+;Rzeszów Pobitno;Rzeszów Załęże;2.888
+;Rzeszów Politechnika;Rzeszów Osiedle;0.648
+;Rzeszów Staromieście;Rzeszów Zachodni;1.078
+;Rzeszów Starowniwa;Rzeszów Politechnika;1.386
+;Rzeszów Zachodni;Rzeszów Główny;1.794
+;Rzeszów Załęże;Strażów;3.503
+;Rzeszów Zwięczyca;Boguchwała Dolna;1.641
+;Rzezawa;Jasień Brzeski;3.109
+;Rzęśnica;Suliszewo Drawskie;3.974
+;Rzochów;Mielec Południowy;2.15
+;Rzozów Centrum;Rzozów;1.337
+;Rzozów;Radziszów Centrum;0.998
+;Sabinka;Siedlce Zachodnie;4.518
+;Sadlinki;Kwidzyn;8.409
+;Sadowice Wrocławskie;Kąty Wrocławskie;5.579
+;Sadowne Węgrowskie;Prostyń;9.214
+;Sadurki;Miłocin Lubelski;2.739
+;Samborowo;Ostróda;9.45
+;Samostrzel;Jadwiżyn;4.159
+;Sandomierz;Wielowieś;3.719
+;Sanok Dąbrówka;Sanok Miasto;3.229
+;Sanok Miasto;Sanok;1.048
+;Sanok;Nowy Zagórz;5.334
+;Santok;Górki Noteckie;7.551
+;Sarbiewo;Strzelce Krajeńskie Wschód;3.285
+;Sarnaki;Fronołów;5.085
+;Sarnów;Borowina;2.806
+;Sątopy;Nowy Tomyśl;4.951
+;Sątopy-Samulewo;Łankiejmy;8.525
+;Serock;Wudzyn;4.409
+;Seroki;Teresin Niepokalanów;3.408
+;Sędzice;Sieradz;11.179
+;Sędzisław;Marciszów;6.339
+;Sędzisław;Kamienna Góra;5.946
+;Sędziszów Małopolski;Będziemyśl;6.102
+;Sędziszów;Klimontów;5.011
+;Sidra;Różanystok;9.999
+;Siechnice;Zakrzów Kotowice;4.756
+;Siedlce Wschodnie;Białki Siedleckie;1.921
+;Siedlce Zachodnie;Siedlce;2.831
+;Siedlce;Siedlce Wschodnie;2.72
+;Siedlce;Stok Lacki;9.412
+;Siedlec Trzebnicki;Pierwoszów Miłocin;2.793
+;Siedliska koło Tuchowa;Chojnik;3.134
+;Siedliska Tomaszowskie;Hrebenne;5.346
+;Siedliska;Wydminy;8.399
+;Siedlisko Czarnkowskie;Trzcianka;7.154
+;Siemiatycze;Sycze;5.828
+;Sieniawa Żarska;Lipinki Łużyckie;3.99
+;Sieniawa;Pyzówka;4.055
+;Siepietnica;Skołyszyn;3.911
+;Sieradz Męka;Sieradz Warta;3.755
+;Sieradz Warta;Sieradz;1.281
+;Sierakowice Skierniewickie;Mokra;3.418
+;Sieraków Śląski;Sowczyce;8.464
+;Sierakówek;Gostynin;7.829
+;Sierpc;Mieszaki;6.762
+;Sierpc;Rypin;29.638
+;Sierpów;Łęczyca;4.022
+;Silno;Piastoszyn;3.677
+;Silnowo;Łubowo;9.169
+;Sińczyca;Darłowo;5.89
+;Siódmak;Szymany Lotnisko;4.365
+;Sitkówka Nowiny;Radkowice;4.824
+;Sitkówka Nowiny;Brzeziny;4.771
+;Sitno;Szachy;3.117
+;Sitowa;Petrykozy;5.536
+;Skalite Kudlov;Skalite pod Polanou;1.433
+;Skalite pod Polanou;Skalite;2.139
+;Skalite Serafinov;Skalite Kudlov;2.552
+;Skalmierz;Błaszki;3.854
+;Skarżysko Kościelne;Marcinków;6.209
+;Skarżysko Milica;Skarżysko-Kamienna;2.364
+;Skarżysko Zachodnie;Suchedniów Północny;4.187
+;Skarżysko-Kamienna;Skarżysko Zachodnie;2.408
+;Skarżysko-Kamienna;Skarżysko Kościelne;2.680
+;Skawa Środkowa;Chabówka;3.737
+;Skawa;Skawa Środkowa;2.655
+;Skawina Jagielnia;Skawina;1.502
+;Skawina Zachodnia;Podbory Skawińskie;2.3
+;Skawina;Skawina Zachodnia;1.647
+;Skawina;Rzozów Centrum;2.7
+;Skępe;Czermno;5.871
+;Skibno;Koszalin;11.694
+;Skierniewice Rawka;Skierniewice;5.147
+;Skierniewice;Dąbrowice Skierniewickie;5.429
+;Sklęczki;Kutno;3.853
+;Skoczów Bajerki;Pierściec;3.618
+;Skoczów Bładnice;Skoczów;2.65
+;Skoczów;Skoczów Bajerki;1.052
+;Skoki;Sława Wielkopolska;4.724
+;Skoki-Borowa;Gołąb;5.816
+;Skokowa;Żmigród;10.319
+;Skołyszyn;Przysieki;4.227
+;Skoroszyce;Pakosławice;5.666
+;Skorzewo;Gołubie Kaszubskie;6.804
+;Skowarcz;Różyny;3.474
+;Skórka;Piła Podlasie;8.741
+;Skrzynki;Tomaszów Mazowiecki;8.002
+;Skrzynno;Wieniawa;4.737
+;Skwierzyna;Trzebiszewo;7.913
+;Sława Wielkopolska;Łopuchowo Osiedle;3.053
+;Sławięcice;Kędzierzyn-Koźle;8.462
+;Sławki;Somonino;1.911
+;Sławków;Dąbrowa Górnicza Wschodnia;4.68
+;Sławno;Karwice;8.987
+;Sławno;Boleszewo;6.092
+;Słomianka;Opoczno;5.886
+;Słomniki Miasto;Niedźwiedź;3.571
+;Słomniki;Słomniki Miasto;1.67
+;Słonice;Stary Klukom;6.319
+;Słonowice;Widzino;5.562
+;Słosinko;Miastko;7.182
+;Słotwiny;Wykno;8.214
+;Słowienkowo;Miłogoszcz;2.21
+;Słubice;Kunowice (Gr);2.173
+;Słupca;Strzałkowo;4.069
+;Słupia;Kępno;5.341
+;Słupsk Północny;Strzelinko;4.901
+;Słupsk;Reblino;8.409
+;Słupsk;Słupsk Północny;1.924
+;Smardy;Wołczyn;7.46
+;Smardzew;Glinnik Wieś;1.863
+;Smardzów Wrocławski;Żórawina;5.342
+;Smętowo;Majewo;6.154
+;Smogorzów Przysuski;Przysucha;4.402
+;Smolec;Sadowice Wrocławskie;4.326
+;Smolniki;Iława Główna;5.847
+;Smroków;Słomniki;3.219
+;Sobibór;Okuninka Białe;5.293
+;Sobków;Miąsowa;7.613
+;Sobolew;Grabniak;3.943
+;Sobótka Zachodnia;Szczepanów;5.931
+;Sobótka;Sobótka Zachodnia;2.755
+;Sobów;Tarnobrzeg;4.403
+;Sochaczew;Kornelin;4.41
+;Sokole Białostockie;Waliły;9.818
+;Sokoliniec;Ognica;4.73
+;Sokołowo Budzyńskie;Budzyń;6.257
+;Sokółka;Gliniszcze;8.71
+;Sokółka;Kundzin;7.053
+;Sokule;Porosiuki;7.37
+;Solec Kujawski;Bydgoszcz Łęgnowo;10
+;Solec Wielkopolski;Sulęcinek;3.348
+;Solniki Wielkie;Oleśnica;9.102
+;Sołtyków;Gilów;3.14
+;Somonino;Kiełpino Kartuskie;3.523
+;Sopot Kamienny Potok;Gdynia Orłowo SKM;2.208
+;Sopot Wyścigi;Sopot;1.152
+;Sopot;Sopot Kamienny Potok;1.822
+;Sosnowe;Koszewnica;3.368
+;Sosnowiec Dańdówka;Sosnowiec Południowy;3.802
+;Sosnowiec Główny;Sosnowiec Południowy;1.332
+;Sosnowiec Główny;Będzin;4.02
+;Sosnowiec Kazimierz;Sosnowiec Porąbka;2.077
+;Sosnowiec Maczki;Dąbrowa Górnicza Południowa;5.739
+;Sosnowiec Południowy;Katowice Szopienice Południowe;3.343
+;Sosnowiec Porąbka;Sosnowiec Dańdówka;3.245
+;Sośnica Jarosławska;Niziny;2.659
+;Sośnie Ostrowskie;Granowiec;4.553
+;Sowczyce;Olesno Śląskie;6.677
+;Sowin;Łambinowice;3.808
+;Sól Kiczora;Laliki;2.096
+;Sól;Sól Kiczora;3.195
+;Spławie;Cienin Kościelny;5.794
+;Spychowo;Ruciane-Nida Zachód;12.749
+;Spytkowice Kępki;Spytkowice;3.575
+;Spytkowice;Zator;3.625
+;Stalowa Wola Centrum;Stalowa Wola;0.9
+;Stalowa Wola Charzewice;Turbia;4.164
+;Stalowa Wola Południe;Moskale;3.162
+;Stalowa Wola Rozwadów;Stalowa Wola Centrum;2.58
+;Stalowa Wola Rozwadów;Turbia;5.778
+;Stalowa Wola;Stalowa Wola Południe;2.388
+;Staniątki;Szarów;3.571
+;Stanisławice;Cikowice;2.037
+;Staniszcze Małe;Krasiejów;4.899
+;Stanowice;Strzegom;5.122
+;Stara Kamienica;Kwieciszowice;4.618
+;Stara Łubianka;Płytnica;7.7
+;Stara Wieś;Celestynów;3.803
+;Starachowice Michałów;Styków Iłżecki;3.02
+;Starachowice Wschodnie;Starachowice Michałów;4.152
+;Starachowice;Starachowice Wschodnie;1.926
+;Starczów;Kamieniec Ząbkowicki;5.077
+;Stare Berezowo;Morze;2.848
+;Stare Bielice;Krzyż;7.108
+;Stare Bojanowo;Przysieka Stara;4.661
+;Stare Drzewce;Wschowa;8.574
+;Stare Guty;Kaliszki;5.682
+;Stare Jabłonki;Biesal;7.715
+;Stare Juchy;Woszczele;9.75
+;Stare Kurowo;Nowe Drezdenko;10.506
+;Stare Olesno;Bąków;6.585
+;Stare Pole;Fiszewo;5.947
+;Stargard;Grzędzice;4.704
+;Starkowo;Błotnica;1.831
+;Starogard Gdański;Piesienice;8.729
+;Staropole Częstochowskie;Julianka;3.953
+;Stary Borek;Głowaczewo;2.973
+;Stary Grodków;Chróścina Nyska;3.751
+;Stary Jawor;Przybyłowice;5.691
+;Stary Klukom;Choszczno;5.102
+;Stary Sącz;Barcice;3.675
+;Stary Węgliniec;Węgliniec;2.988
+;Stary Wielisław;Polanica-Zdrój;4.535
+;Starżawa;Chirow Osobowy;8.137
+;Stasin Polny;Lublin Zachodni;2.558
+;Staw Kunowski;Kunów;5.525
+;Stawiguda;Gągławki;5.056
+;Stawno;Wysoka Kamieńska;4.709
+;Stąporków;Wólka Plebańska;4.437
+;Stefanowo;Zbąszyń Przedmieście;3.862
+;Steknica;Łeba;5.254
+;Sterkowiec;Biadoliny;4.095
+;Sterławki Małe;Niegocin;6.046
+;Sterławki Wielkie;Sterławki Małe;4.848
+;Stęszew;Strykowo Poznańskie;7.807
+;Stobno;Piła Główna;8.87
+;Stogi Malborskie;Szymankowo;2.955
+;Stok Lacki;Krzymosze;4.056
+;Strabla;Zimnochy;6.546
+;Stramnica;Kołobrzeg;6.136
+;Strażów;Krzemienica;5.3
+;Strączno;Rutwica;5.907
+;Stronie;Stryszów;4.121
+;Stronno;Maksymilianowo;8.186
+;Stróże;Grybów;3.657
+;Stróże;Polna;3.614
+;Strumień;Warszowice;9.156
+;Strykowo Poznańskie;Granowo Nowotomyskie;6.962
+;Stryków;Bratoszewice;5.423
+;Stryszawa;Lachowice;2.079
+;Stryszów;Zembczyce;7.71
+;Strzałkowo;Wólka;3.95
+;Strzebielewo;Witkowo;3.608
+;Strzebielino Morskie;Bożepole Wielkie;4.242
+;Strzebiń;Kalety;5.999
+;Strzegom;Goczałków;4.745
+;Strzelce Krajeńskie Wschód;Stare Kurowo;6.69
+;Strzelce Kujawskie;Sierakówek;6.635
+;Strzelce Opolskie;Szymiszów;6.073
+;Strzelin;Biały Kościół;6.843
+;Strzelinko;Gałęzinowo;1.898
+;Strzyżów nad Wisłokiem;Dobrzechów;4.36
+;Strzyżyna;Dobieszyn;7.062
+;Strzyżyno Słupskie;Damnica;6.664
+;Studzianka;Leszno Górne;7.108
+;Studzianki Nowe;Nasielsk;4.353
+;Stulno;Sobibór;7.65
+;Stupsk Mazowiecki;Wyszyny;5.242
+;Styków Iłżecki;Brody Iłżeckie;3.75
+;Subkowy Centrum;Czarlin;5.245
+;Subkowy;Subkowy Centrum;1.928
+;Sucha Beskidzka Zamek;Maków Podhalański;6.054
+;Sucha Beskidzka;Stryszawa;4.161
+;Sucha Beskidzka;Maków Podhalański;7.613
+;Sucha Żyrardowska;Jesionka;1.926
+;Suchatówka;Toruń Kluczyki;11.528
+;Suchedniów Północny;Suchedniów;2.367
+;Suchedniów;Berezów;2.695
+;Suchowolce;Gregorowce;5.85
+;Suchy Bór Opolski;Opole Główne;7.77
+;Sulechów;Łęgowo Sulechowskie;6.003
+;Sulejówek Miłosna;Halinów;4.097
+;Sulejówek;Sulejówek Miłosna;1.578
+;Sulęcinek;Środa Wielkopolska;9.471
+;Sulino;Barzkowice;3.524
+;Suliszewo Drawskie;Drawsko Pomorskie;4.704
+;Sulów;Szastarka;6.57
+;Sułkowice;Chynów;2.406
+;Sumina Wieś;Sumina;1.884
+;Sumina;Górki Śląskie;1.064
+;Surochów;Bobrówka;7.89
+;Susiec;Maziły;6.563
+;Susk;Sierpc;7.476
+;Susz;Prabuty;9.869
+;Suszec Kopalnia;Suszec Rudziczka;1.521
+;Suszec Rudziczka;Żory;4.152
+;Suszec;Suszec Kopalnia;1.43
+;Suszka;Bardo Przyłęk;5.243
+;Suwałki;Trakiszki;25.188
+;Swarożyn;Szpęgawsk;4.66
+;Swarzewo;Władysławowo;5.721
+;Swarzędz;Poznań Antoninek;3.336
+;Swędów;Stryków;4.005
+;Sycewice;Wrześnica;4.686
+;Sycze;Nurzec;7.304
+;Szachy;Sokule;3.286
+;Szadkowice;Słomianka;3.063
+;Szaflary Wieś;Biały Dunajec;5.505
+;Szaflary;Szaflary Wieś;1.821
+;Szalowa;Wola Łużańska;4.23
+;Szamotuły;Pęckowo;9.347
+;Szaniawy;Brzozowica;4.383
+;Szarów;Kłaj;3.28
+;Szastarka;Polichna Kraśnicka;3.199
+;Szczaniec;Kupienino;5.589
+;Szczawne Kulaszne;Rzepedź;5.388
+;Szczawno-Ciemnice;Krosno Odrzańskie;9.847
+;Szczebrzeszyn;Zwierzyniec;7.695
+;Szczecin Dąbie;Szczecin Zdroje;2.674
+;Szczecin Główny;Szczecin Gumieńce;4.779
+;Szczecin Gumieńce Gra (Gr);Grambow;1.716
+;Szczecin Gumieńce Tan (Gr);Tantow;8.5
+;Szczecin Gumieńce;Szczecin Gumieńce Tan (Gr);10.070
+;Szczecin Gumieńce;Szczecin Gumieńce Gra (Gr);8.415
+;Szczecin Podjuchy;Szczecin Port Centralny;6.357
+;Szczecin Port Centralny;Szczecin Główny;1.368
+;Szczecin Załom;Szczecin Dąbie;6.638
+;Szczecin Zdroje;Szczecin Port Centralny;7.889
+;Szczecin Zdunowo;Szczecin Dąbie;6.434
+;Szczecinek Chyże;Dalęcino;6.778
+;Szczecinek;Szczecinek Chyże;3.77
+;Szczecinek;Gwda Mała;9.429
+;Szczecinek;Jelenino;6.559
+;Szczedrzykowice;Jaśkowice Legnickie;2.727
+;Szczejkowice;Rybnik Piaski;6.442
+;Szczepanowice;Smroków;3.388
+;Szczepanów;Marcinowice Świdnickie;3.655
+;Szczepki;Płociczno koło Suwałk;8.497
+;Szczytna;Duszniki-Zdrój;6.16
+;Szczytno;Olszyny;7.347
+;Szczytno;Siódmak;5.365
+;Szebnie;Jasło Fabryczne;6.081
+;Szepietowo;Szymbory;4.987
+;Szeroki Bór;Pisz;6.589
+;Szewce;Pęgów;3.758
+;Szewnica;Urle;4.821
+;Szklarska Poręba Dolna;Szklarska Poręba Średnia;3.088
+;Szklarska Poręba Górna;Szklarska Poręba Huta;1.612
+;Szklarska Poręba Huta;Polana Jakuszycka;7.02
+;Szklarska Poręba Średnia;Szklarska Poręba Górna;2.549
+;Szlachta;Będźmierowice;5.878
+;Szpęgawsk;Starogard Gdański;6.516
+;Szreniawa;Trzebaw Rosnówko;3.351
+;Sztum;Gościszewo;5.669
+;Sztumska Wieś;Sztum;3.908
+;Szulborze Wielkie;Czyżew;8.88
+;Szybowice;Nowy Las;5.194
+;Szydłowiec;Lipowe Pole;6.167
+;Szydłowo Krajeńskie;Dobino Wałeckie;8.982
+;Szydłów Centrum;Szydłów;0.978
+;Szydłów;Tułowice;4.234
+;Szymankowo;Lisewo;6.976
+;Szymbory;Jabłoń Kościelna;3.462
+;Szymiszów;Otmice;7.519
+;Szymocice;Nędza Wieś;3.191
+;Ścinawa;Chełmek Wołowski;6.857
+;Ścinawka Średnia;Nowa Ruda;7.597
+;Ślesin;Nakło nad Notecią;6.684
+;Śliwice;Szlachta;7.107
+;Śliwiczki;Śliwice;3.003
+;Środa Śląska;Malczyce;8.923
+;Środa Wielkopolska;Pierzchno;9.436
+;Świdnica Miasto;Burkatów;5.895
+;Świdnica Miasto;Bolesławice Świdnickie;5.42
+;Świdnica Przedmieście;Świdnica Miasto;2.5
+;Świdnik Miasto;Świdnik Wschód;1.418
+;Świdnik Wschód;Minkowice;3.538
+;Świdwin;Klępnica;10.895
+;Świebodzice;Wałbrzych Szczawienko;8.389
+;Świebodzin;Wilkowo Świebodzińskie;5.145
+;Świekatowo;Lubania-Lipiny;3.171
+;Świercze;Kałęczyn;4.294
+;Świerki Dolne;Bartnica;2.031
+;Święta Katarzyna;Wrocław Brochów;4.752
+;Świętajno;Kolonia;2.943
+;Świętochłowice;Chorzów Batory;2.247
+;Świlcza;Rudna Wielka;2.892
+;Świnoujście Port;Świnoujście;0.573
+;Świnoujście Przytór;Lubiewo;5.946
+;Świnoujście Warszów;Świnoujście Przytór;3.364
+;Świnoujście;Świnoujście Warszów;1.57
+;Taciszów;Rudziniec Gliwicki;7.408
+;Taczanów;Pleszew;6.225
+;Tarchały Wielkie;Topola-Osiedle;5.045
+;Targowiska;Widacz;2.601
+;Tarło;Pałecznica;2.943
+;Tarnawa Dolna;Czaszyn;4.125
+;Tarnobrzeg;Ocice;4.607
+;Tarnowiec Brzeski;Karłowice;5.034
+;Tarnowiec;Jedlicze Męcinka;4.165
+;Tarnowo Pomorskie;Sulino;3.657
+;Tarnowo Rogozińskie;Sokołowo Budzyńskie;3.865
+;Tarnowska Wola;Dęba Rozalin;2.685
+;Tarnowskie Góry;Miasteczko Śląskie;6.338
+;Tarnów Mościce;Tarnów;3.536
+;Tarnów Opolski;Opole Groszowice;11.184
+;Tarnów;Wola Rzędzińska;8.001
+;Tarnów;Kłokowa;7.319
+;Tarzymiechy;Krzak;6.45
+;Tczew;Rokitki Tczewskie;5.423
+;Tczew;Miłobądz;6.432
+;Teresin Niepokalanów;Piasecznica;5.066
+;Terespol (Gr);Brest-Centralnyi;3.61
+;Terespol Pomorski;Laskowice Pomorskie;11.689
+;Terespol;Terespol (Gr);2.377
+;Tereszpol Biłgorajski;Biłgoraj;11.505
+;Tleń;Łążek;4.666
+;Tłoki;Adamowo;1.867
+;Tłuszcz;Jarzębia Łąka;3.452
+;Tłuszcz;Chrzęsne;3.287
+;Tołkiny;Linkowo;3.003
+;Tomaszów Bolesławiecki;Bolesławiec;8.323
+;Tomaszów Mazowiecki Białobrzegi;Brzustów;7.18
+;Tomaszów Mazowiecki;Spała;8.562
+;Tomaszów Mazowiecki;Tomaszów Mazowiecki Białobrzegi;3.585
+;Tomaszów Mazowiecki;Opoczno Południe;45.051
+;Tomaszów Mazowiecki;Jeleń;5.698
+;Tomaszówek;Szadkowice;4.712
+;Topola-Osiedle;Ostrów Wielkopolski;5.282
+;Toporów;Drzewce;6.691
+;Topór;Sadowne Węgrowskie;3.806
+;Toruń Czerniewice;Toruń Główny;5.809
+;Toruń Główny;Toruń Miasto;1.717
+;Toruń Kluczyki;Toruń Główny;2.781
+;Toruń Kluczyki;Cierpice Kąkol;9.149
+;Toruń Miasto;Toruń Wschodni;1.951
+;Toruń Wschodni;Grębocin;4.928
+;Toruń Wschodni;Papowo Toruńskie;6.056
+;Toruń Wschodni;Łysomice;7.651
+;Torzym;Boczów;7.712
+;Toszek;Ligota Toszecka;3.917
+;Trakiszki (Gr);Mockava;14.443
+;Trakiszki;Trakiszki (Gr);3.432
+;Trawniki;Wólka Kańska;5.24
+;Trąbki;Gogolewo;4.822
+;Troszyn;Parłówko;2.083
+;Tryńcza;Gniewczyna;4.629
+;Trypucie;Niewodnica;1.889
+;Trzciana;Świlcza;4.097
+;Trzcianka;Biała Pilska;4.683
+;Trzciniec;Bydgoszcz Błonie;3.698
+;Trzcińsko;Wojanów;3.65
+;Trzebaw Rosnówko;Stęszew;4.53
+;Trzebiatów;Gąbin;5.719
+;Trzebieszowice;Radochów;3.128
+;Trzebinia;Dulowa;5.073
+;Trzebinia;Chrzanów Śródmieście;3.663
+;Trzebiszewo;Brzozowiec Gorzowski;4.286
+;Trzemeszno;Wydartowo;7.605
+;Tubia;Stalowa Wola Rozwadów;5.778
+;Tuchola;Cekcyn;11.893
+;Tuchorza;Belęcin Wielkopolski;4.814
+;Tuchów;Lubaszowa;3.718
+;Tuczki;Rybno Pomorskie;4.295
+;Tuczno Krajeńskie;Jeziorki Wałeckie;4.609
+;Tułowice;Goszczowice;3.415
+;Tuły;Bukowo;2.499
+;Tumlin;Kostomłoty;5.862
+;Tunel;Charsznica;7.793
+;Tunel;Dziadówki;4.416
+;Tuplice Dębinka;Tuplice;5.077
+;Tuplice;Zasieki;13.75
+;Turbia;Zbydniów;4.15
+;Turowo Pomorskie;Szczecinek;5.959
+;Turów;Kusięta Nowe;4.538
+;Turza Wielka;Gralewo;3.837
+;Turzno Kujawskie;Aleksandrów Kujawski;7.542
+;Turzno;Kamionki Jezioro;4.374
+;Turzynów;Kłodawa;9.356
+;Tuszów Narodowy;Jaślany;3.041
+;Tuszyma;Rzemień;3.454
+;Twarda Góra;Smętowo;7.664
+;Twardawa;Głogówek;8.978
+;Twardogóra;Bukowina Sycowska;8.702
+;Tworków;Racibórz;9.08
+;Tychowo;Podborsko;6.501
+;Tychy Aleja Bielska;Tychy Grota Roweckiego;0.429
+;Tychy Grota Roweckiego;Tychy Lodowisko;1.268
+;Tychy Zachodnie;Tychy Aleja Bielska;0.505
+;Tychy Żwaków;Kobiór;5.366
+;Tychy;Tychy Zachodnie;2.348
+;Tychy;Tychy Żwaków;3.15
+;Tychy;Łaziska Średnie;7.711
+;Tymień;Ustronie Morskie;6.278
+;Ubocze;Olszyna Lubańska;3.757
+;Uherce Tunel;Uherce;2.177
+;Uherce;Olszanica;3.279
+;Uhowo;Bojary;3.852
+;Uhrusk Przystanek;Uhrusk;2.657
+;Uhrusk;Majdan Stuleński;4.326
+;Ulikowo;Stargard;7.427
+;Unieszewo;Naterki;5.422
+;Unisław Pomorski;Grzybno;4.26
+;Unisław Śląski;Mieroszów;5.369
+;Urle;Barchów;2.052
+;Ustanówek;Czachówek Wschodni;4.438
+;Ustanówek;Czachówek Górny;3.448
+;Ustianowa;Ustrzyki Dolne;7.976
+;Ustka;Ustka Uroczysko;1.176
+;Ustronie Morskie;Kołobrzeg;12.264
+;Ustroń Brzegi;Ustroń Polana;1.638
+;Ustroń Zdrój;Ustroń Brzegi;1.241
+;Ustroń Zdrój;Ustroń;1.272
+;Ustroń;Goleszów;5.383
+;Ustrzyki Dolne;Krościenko;8.092
+;Wadowice Osiedle Podhalanin;Chocznia;2.747
+;Wadowice;Wadowice Osiedle Podhalanin;1.748
+;Walawa;Żurawica Rozrządowa;3.559
+;Wałbrzych Centrum;Wałbrzych Fabryczny;3.116
+;Wałbrzych Fabryczny;Wałbrzych Główny;4.346
+;Wałbrzych Główny;Boguszów-Gorce Wschód;4.929
+;Wałbrzych Miasto;Wałbrzych Centrum;1.644
+;Wałbrzych Szczawienko;Wałbrzych Miasto;3.876
+;Wałcz Raduń;Strączno;7.625
+;Wałcz;Wałcz Raduń;2.126
+;Wałdowo Szlacheckie;Grudziądz Mniszek;5.512
+;Wałki;Czarna Tarnowska;8.016
+;Wałowice;Gubin;5.084
+;Wandzin;Niemce;4.118
+;Waplewo;Olsztynek;9.915
+;Wargowo;Bogdanowo;5.173
+;Warka Miasto;Grabów nad Pilicą;4.498
+;Warka;Warka Miasto;1.565
+;Warkocz;Strzelin;4.989
+;Warlubie;Twarda Góra;11.021
+;Warnowo;Ładzin;3.042
+;Warszawa Aleje Jerozolimskie;Warszawa Rakowiec;1.865
+;Warszawa Aleje Jerozolimskie;Warszawa Zachodnia Peron 9;2.996
+;Warszawa Anin;Warszawa Międzylesie;1.201
+;Warszawa Centralna;Warszawa Wschodnia;4.254
+;Warszawa Choszczówka;Legionowo;5.49
+;Warszawa Dawidy;Warszawa Jeziorki;2.05
+;Warszawa Falenica;Michalin;1.809
+;Warszawa Gdańska;Warszawa ZOO;1.666
+;Warszawa Główna;Warszawa Zachodnia;1.676
+;Warszawa Gocławek;Warszawa Wawer;1.793
+;Warszawa Gołąbki;Ożarów Mazowiecki;4.665
+;Warszawa Jeziorki;Nowa Iwiczna;2.105
+;Warszawa Koło;Warszawa Powązki;1.545
+;Warszawa Miedzeszyn;Warszawa Falenica;1.386
+;Warszawa Międzylesie;Warszawa Radość;2.421
+;Warszawa Młynów;Warszawa Koło;0.883
+;Warszawa Mokry Ług;Zielonka Bankowa;2.062
+;Warszawa Ochota;Warszawa Zachodnia;2.176
+;Warszawa Okęcie;Warszawa Dawidy;4.112
+;Warszawa Olszynka Grochowska;Warszawa Gocławek;2.442
+;Warszawa Płudy;Warszawa Choszczówka;2.825
+;Warszawa Powązki;Warszawa Gdańska;1.606
+;Warszawa Powiśle;Warszawa Śródmieście;1.49
+;Warszawa Praga;Warszawa Toruńska;1.9
+;Warszawa Radość;Warszawa Miedzeszyn;1.645
+;Warszawa Rakowiec;Warszawa Żwirki i Wigury;1.041
+;Warszawa Rembertów;Warszawa Mokry Ług;5.566
+;Warszawa Rembertów;Warszawa Wesoła;4.632
+;Warszawa Służewiec;Warszawa Okęcie;1.634
+;Warszawa Służewiec;Warszawa Lotnisko Chopina;1.987
+;Warszawa Stadion;Warszawa Powiśle;1.406
+;Warszawa Śródmieście;Warszawa Ochota;1.207
+;Warszawa Targówek;Warszawa Praga;2.701
+;Warszawa Toruńska;Warszawa Żerań;2.536
+;Warszawa Ursus Niedźwiadek;Piastów;2.112
+;Warszawa Ursus Północny;Warszawa Gołąbki;1.726
+;Warszawa Ursus;Warszawa Ursus Niedźwiadek;1.18
+;Warszawa Wawer;Warszawa Anin;1.359
+;Warszawa Wesoła;Warszawa Wola Grzybowska;1.798
+;Warszawa Wileńska Marki;Warszawa Zacisze Wilno;2.192
+;Warszawa Wileńska;Warszawa Wileńska Marki;1.710
+;Warszawa Włochy;Warszawa Ursus;2.35
+;Warszawa Włochy;Warszawa Ursus Północny;2.189
+;Warszawa Wola Grzybowska;Sulejówek;1.806
+;Warszawa Wola;Warszawa Młynów;0.95
+;Warszawa Wschodnia;Warszawa Stadion;1.058
+;Warszawa Wschodnia;Warszawa ZOO;6.091
+;Warszawa Wschodnia;Warszawa Targówek;3.178
+;Warszawa Wschodnia;Warszawa Rembertów;7.499
+;Warszawa Wschodnia;Warszawa Olszynka Grochowska;4.08
+;Warszawa Zachodnia Peron 9;Warszawa Wola;0.95
+;Warszawa Zachodnia;Warszawa Centralna;3.082
+;Warszawa Zachodnia;Warszawa Włochy;3.722
+;Warszawa Zachodnia;Warszawa Aleje Jerozolimskie;2.986
+;Warszawa Zacisze Wilno;Ząbki;2.793
+;Warszawa ZOO;Warszawa Praga;2.086
+;Warszawa Żerań;Warszawa Płudy;2.339
+;Warszawa Żwirki i Wigury;Warszawa Służewiec;1.681
+;Warszowice;Żory;6.966
+;Warząchewka;Włocławek;7.752
+;Wasilków;Czarny Blok;6.123
+;Wąbrzeźno;Książki;9.303
+;Wąchock;Starachowice;4.437
+;Wągrowiec;Przysieczyn;7.537
+;Wągry;Koluszki;5.575
+;Wąsosz Konecki;Czarniecka Góra;2.942
+;Wejherowo Śmiechowo;Wejherowo-Nanice;1.62
+;Wejherowo;Gościcino Wejherowskie;4.613
+;Wejherowo-Nanice;Wejherowo;1.335
+;Werbkowice;Hrubieszów Miasto;12.629
+;Werchrata (Gr);Rawa Russkaia I;8.600
+;Werchrata;Werchrata (Gr);2.972
+;Werchrata;Siedliska Tomaszowskie;6.339
+;Węgierska Górka;Cisiec;2.596
+;Węgliniec;Pieńsk;13.98
+;Węgorzyno;Runowo Pomorskie;3.858
+;Węgry;Boreczek;5.297
+;Węgrzce Wielkie;Podłęże;4.434
+;Wężyska;Wałowice;11.434
+;Widacz;Wróblik Szlachecki;3.17
+;Widełka;Budy Głogowskie;4.92
+;Widuchowa;Pacholęta;5.88
+;Widzino;Kobylnica Słupska;2.206
+;Widzów Teklinów;Jacków;2.233
+;Wiekowo;Skibno;8.296
+;Wielanowo;Tychowo;8.174
+;Wieleń;Biernatowo;12.407
+;Wieliczka Bogucice;Wieliczka Park;1.47
+;Wieliczka Park;Wieliczka Rynek-Kopalnia;0.644
+;Wieliszew;Nieporęt;4.272
+;Wielkie Drogi;Jaśkowice;2.604
+;Wielowieś;Grębów;7.194
+;Wielowieś;Sobów;3.617
+;Wieluń Dąbrowa;Wieruszów Miasto;27.923
+;Wieluń;Wieluń Dąbrowa;2.892
+;Wieniawa;Podbór;6.043
+;Wierchomla Wielka;Zubrzyk;2.189
+;Wierna Rzeka;Małogoszcz;3.571
+;Wieruszów Miasto;Kępno;11.651
+;Wierzawice;Grodzisko Dolne;8.509
+;Wierzbica Górna;Domaszowice;7.063
+;Wierzbice;Pustków Żurawski;3.204
+;Wierzbowa Śląska;Studzianka;5.615
+;Wierzchosławice;Gniewkowo;3.658
+;Wierzchowice;Milicz;5.079
+;Wierzchowo Człuchowskie;Bukowo Człuchowskie;7.099
+;Wierzchucin Stary;Wierzchucin;2.484
+;Wierzchucin;Zielonka Pomorska;3.301
+;Wierzchucin;Błądzim;8.024
+;Wiesiółka;Łazy;3.686
+;Wiewiecko;Węgorzyno;6.398
+;Wieżyca;Sławki;4.706
+;Więcławice;Wierzchosławice;4.691
+;Wiktorowo;Czerniewice;5.265
+;Wilczyska;Stróże;3.588
+;Wilkołaz Wieś;Wilkołaz;2.623
+;Wilkołaz;Pułankowice;3.491
+;Wilkoszewice;Gorzkowice;4.185
+;Wilkowice Bystra;Łodygowice Górne;3.961
+;Wilkowice;Krzycko Wielkie;6.451
+;Wilkowo Świebodzińskie;Mostki;5.333
+;Wilków Namysłowski;Bierutów;8.784
+;Wipsowo;Czerwonka;6.86
+;Wiry;Szreniawa;4.86
+;Wisła Dziechcinka;Wisła Uzdrowisko;1.631
+;Wisła Głębce;Wisła Kopydło;1.75
+;Wisła Jawornik;Ustroń Polana;3.449
+;Wisła Kopydło;Wisła Dziechcinka;1.719
+;Wisła Uzdrowisko;Wisła Jawornik;1.499
+;Wisłoczanka;Babica;2.12
+;Wiśniowa;Frysztak;5.524
+;Witanów;Boża Wola;3.2
+;Witaszyce;Jarocin;6.583
+;Witkowo;Stargard;6.7
+;Witków Śląski;Sędzisław;5.826
+;Witnica Chojeńska;Godków;3.878
+;Witnica;Nowiny Wielkie;7.242
+;Witonia;Kutno;10.489
+;Witowo;Orzeszkowo;5.876
+;Wkra;Cieksyn;6.415
+;Władysławowo Port;Chałupy;6.578
+;Władysławowo;Władysławowo Port;1.514
+;Włocławek Zazamcze;Brzezie;5.895
+;Włocławek;Włocławek Zazamcze;2.24
+;Włosienica;Dwory;4.165
+;Włostowo;Pępowo;6.289
+;Włoszakowice;Boszkowo;4.075
+;Włoszczowa Północ;Opoczno Południe;62.248
+;Włoszczowa;Czarnca;5.3
+;Włoszczowice;Kije;5.198
+;Wodzisław Śląski Radlin;Wodzisław Śląski;1.366
+;Wodzisław Śląski;Czyżowice;5.492
+;Wojanów;Jelenia Góra;5.055
+;Wojaszówka;Szebnie;4.12
+;Wojnowice Wielkopolskie;Opalenica;4.791
+;Wojsław;Mielec;3.747
+;Wola Bierwiecka;Bartodzieje;2.295
+;Wola Filipowska;Krzeszowice;3.985
+;Wola Lipieniecka;Jastrząb;4.423
+;Wola Łużańska;Moszczenica Małopolska;4.614
+;Wola Radziszowska Lipki;Wola Radziszowska;1.368
+;Wola Radziszowska;Podolany;1.999
+;Wola Rowska;Łaskarzew;2.711
+;Wola Rzędzińska;Wałki;5.421
+;Wolanów;Kończyce Radomskie;3.328
+;Wolbórka;Baby;6.545
+;Wolbrom Zachodni;Zarzecze;4.354
+;Wolbrom;Wolbrom Zachodni;1.379
+;Wolenice;Koźmin Wielkopolski;6.438
+;Wolica;Sobków;4.116
+;Wolin;Recław;2.125
+;Wolsztyn;Tuchorza;7.492
+;Wołczyn;Wierzbica Górna;5.04
+;Wołomin Słoneczna;Zagościniec;2.135
+;Wołomin;Wołomin Słoneczna;0.968
+;Wołowno;Godki;5.436
+;Wołów;Orzeszków;11.516
+;Worowo;Łobez;7.037
+;Woszczele;Ełk;8.876
+;Wójcice;Otmuchów;4.919
+;Wólka Kańska;Kanie;2.728
+;Wólka Niedzieliska;Klemensów;3.829
+;Wólka Orłowska;Izbica;5.382
+;Wólka Plebańska;Sołtyków;4.86
+;Wólka Ratowiecka;Czarna Białostocka;3.898
+;Wólka;Otoczna;4.394
+;Wrocław Brochów;Wrocław Główny;5.315
+;Wrocław Brochów;Siechnice;5.798
+;Wrocław Główny;Wrocław Wojszyce;6.842
+;Wrocław Główny;Wrocław Mikołajów;3.97
+;Wrocław Główny;Iwiny;6.266
+;Wrocław Główny;Wrocław Grabiszyn;4.596
+;Wrocław Główny;Wrocław Muchobór;4.956
+;Wrocław Grabiszyn;Wrocław Zachodni;1.797
+;Wrocław Kowale;Wrocław Popiele;1.714
+;Wrocław Kuźniki;Wrocław Stadion;1.445
+;Wrocław Leśnica;Mrozów;7.157
+;Wrocław Mikołajów;Wrocław Szczepin;1.583
+;Wrocław Mikołajów;Wrocław Popowice;1.266
+;Wrocław Muchobór;Wrocław Nowy Dwór;1.856
+;Wrocław Muchobór;Wrocław Kuźniki;2.228
+;Wrocław Nadodrze;Wrocław Sołtysowice;3.927
+;Wrocław Nowy Dwór;Wrocław Żerniki;2.683
+;Wrocław Osobowice;Wrocław Świniary;4.002
+;Wrocław Partynice;Bielany Wrocławskie;3.379
+;Wrocław Pawłowice;Ramiszów;2.947
+;Wrocław Popiele;Wrocław Swojczyce;0.918
+;Wrocław Popowice;Wrocław Różanka;1.186
+;Wrocław Pracze;Brzezinka Średzka;7.415
+;Wrocław Psie Pole;Długołęka;6.114
+;Wrocław Psie Pole;Wrocław Zakrzów;1.127
+;Wrocław Różanka;Wrocław Osobowice;3.321
+;Wrocław Sołtysowice;Wrocław Kowale;1.921
+;Wrocław Sołtysowice;Wrocław Psie Pole;2.867
+;Wrocław Stadion;Wrocław Pracze;4.413
+;Wrocław Strachocin;Wrocław Wojnów;1.059
+;Wrocław Swojczyce;Wrocław Strachocin;1.972
+;Wrocław Szczepin;Wrocław Nadodrze;1.385
+;Wrocław Świniary;Szewce;2.13
+;Wrocław Wojnów Wschodni;Dobrzykowice Wrocławskie;1.44
+;Wrocław Wojnów;Wrocław Wojnów Wschodni;0.983
+;Wrocław Wojszyce;Wrocław Partynice;2.579
+;Wrocław Zachodni;Mokronos Górny;3.204
+;Wrocław Zakrzów;Wrocław Pawłowice;1.523
+;Wrocław Żerniki;Wrocław Leśnica;4.082
+;Wrocławki;Firlus;3.41
+;Wroniawy;Nowy Widzim;2.869
+;Wronki;Mokrz;8.355
+;Wróblik Szlachecki;Milcza;2.001
+;Wrząca Pomorska;Słonowice;4.598
+;Wrzeście;Steknica;7.475
+;Września;Podstolice;7.4
+;Września;Marzenin;6.42
+;Wrześnica;Sławno;9.174
+;Wrzosowo;Jazy;3.587
+;Wrzosów;Mińsk Mazowiecki;4.795
+;Wschowa;Lasocice;11.955
+;Wudzyn;Stronno;4.239
+;Wydartowo;Mogilno;6.422
+;Wydminy;Stare Juchy;10.956
+;Wygoda;Mika;2.143
+;Wykno;Zaosie;3.767
+;Wyrzysk Osiek;Krostkowo;5.8
+;Wysoczany;Szczawne Kulaszne;4.25
+;Wysoka Kamieńska;Rokita;6.929
+;Wyszków Śląski;Nysa Wschodnia;2.003
+;Wyszków;Leszczydół;5.229
+;Wyszomierz;Osina;3.868
+;Wyszyny;Mława Miasto;5.366
+;Zabiele Wielkie;Jastrząbka;8.927
+;Zabiele;Brzeźnica Bychawska;2.204
+;Zabierzów Rząska;Kraków Mydlniki Wapiennik;2.194
+;Zabierzów;Zabierzów Rząska;2.245
+;Zabieżki;Augustówka;4.096
+;Zaborów Błonia;Zaborów;2.056
+;Zaborów;Strzyżów nad Wisłokiem;6.023
+;Zaborze;Chybie Mnich;2.059
+;Zabrze Makoszowy;Katowice Ligota;16.677
+;Zabrze Makoszowy;Katowice Załęże;16.857
+;Zabrze;Ruda Śląska;4.858
+;Zabrzeg Czarnolesie;Zabrzeg;2.35
+;Zabrzeg Czarnolesie;Chybie;6.981
+;Zabrzeg;Czechowice-Dziedzice;4.777
+;Zaczernie;Rzeszów Miłocin;2.268
+;Zagajnik;Węgliniec;5.721
+;Zagnańsk;Tumlin;4.901
+;Zagościniec;Dobczyn;2.668
+;Zagórz;Załuż;4.238
+;Zagórz;Tarnawa Dolna;3.912
+;Zagórze Śląskie;Jugowice;2.582
+;Zagrody Kościół;Żulin;2.289
+;Zagrody;Korzenica;2.392
+;Zajączkowo Lubawskie;Rakowice;6.301
+;Zajezierce;Żednia;7.758
+;Zajezierze koło Dęblina;Bąkowiec;7.907
+;Zaklików Miasto;Lipa;9.052
+;Zaklików;Zaklików Miasto;2.389
+;Zakrzewo Złotowskie;Złotów;8.856
+;Zakrzów Kotowice;Czernica Wrocławska;2.498
+;Zakrzów-Sarnowo;Kozłowo;3.785
+;Zalesie Górne;Ustanówek;3.544
+;Zalesie Krasieńskie;Rejowiec;5.24
+;Załuż;Lesko Łukawica;4.037
+;Zamek Bulowicki;Kęty;2.976
+;Zamość Starówka;Zamość Wschód;1.526
+;Zamość Wschód;Werbkowice;36.68
+;Zamość;Zamość Starówka;1.867
+;Zaosie;Skrzynki;3.972
+;Zaręba;Batowice Lubańskie;4.493
+;Zarębki;Kolbuszowa;3.27
+;Zaręby Kościelne;Kietlanka;2.946
+;Zarośle;Rosochatka;4.585
+;Zarszyn;Długie;2.252
+;Zarzecze;Chrząstowice Olkuskie;2.35
+;Zasieki (Gr);Forst Lausitz;1.72
+;Zasieki;Zasieki (Gr);0.48
+;Zastocze;Czechowizna;4.966
+;Zastów;Kraków Batowice;5.329
+;Zator Park Rozrywki;Przeciszów;2.818
+;Zator;Zator Park Rozrywki;1.59
+;Zawada;Mokre;6.559
+;Zawada;Wólka Niedzieliska;2.713
+;Zawadówka;Chełm Miasto;7.722
+;Zawadzkie;Kolonowskie;7.79
+;Zawidz Kościelny;Koziebrody;6.892
+;Zawidz;Zawidz Kościelny;2.331
+;Zawiercie Borowe Pole;Myszków Mrzygłód;3.93
+;Zawiercie;Zawiercie Borowe Pole;3.927
+;Zawiercie;Włoszczowa Północ;69.66
+;Zawiercie;Czarnca;67.366
+;Ząbki;Zielonka;4.094
+;Ząbkowice Śląskie;Piława Górna;9.911
+;Ząbrowo;Redaki;5.218
+;Zbąszynek;Szczaniec;10.867
+;Zbąszynek;Dąbrówka Wielkopolska;5.194
+;Zbąszyń Przedmieście;Zbąszyń;2.241
+;Zbąszyń;Zbąszynek;6.293
+;Zblewo;Bytonia;2.857
+;Zbydniów;Tubia;4.15
+;Zbydniów;Grębów;7.077
+;Zdrody Nowe;Łapy Osse;4.468
+;Zduny;Krotoszyn;7.353
+;Zduńska Wola;Męcka Wola;7.072
+;Zdzieszowice;Jasiona;5.372
+;Zebrzydowa;Zagajnik;6.707
+;Zebrzydowice;Kończyce;2.692
+;Zelczyna;Wielkie Drogi;2.54
+;Zembczyce;Sucha Beskidzka Zamek;3.797
+;Zembrzyce;Sucha Beskidzka;5.414
+;Zębice Wrocławskie;Święta Katarzyna;3.769
+;Zgierz Jaracza;Zgierz Północ;2.78
+;Zgierz Kontrewers;Grotniki;3.71
+;Zgierz Północ;Zgierz Kontrewers;3.152
+;Zgierz;Zgierz Jaracza;1.884
+;Zgierz;Smardzew;4.062
+;Zgorzelec (Gr);Goerlitz;0.411
+;Zgorzelec Miasto;Zgorzelec;1.977
+;Zgorzelec;Zgorzelec (Gr);1.019
+;Zieleń;Wąbrzeźno;6.438
+;Zielona Góra Główna;Zielona Góra Przylep;7.192
+;Zielona Góra Główna;Buchałów;11.137
+;Zielona Góra Nowy Kisielin;Zielona Góra Stary Kisielin;3.657
+;Zielona Góra Przylep;Czerwieńsk;5.495
+;Zielona Góra Stary Kisielin;Zielona Góra Główna;5.353
+;Zielonczyn;Ślesin;7.108
+;Zielone Wzgórza;Bolechowo;3.634
+;Zielonka Bankowa;Zielonka;2.574
+;Zielonka Pasłęcka;Małdyty;7.308
+;Zielonka Pomorska;Małe Gacno;3.64
+;Zielonka;Kobyłka Ossów;2.586
+;Ziemomyśl;Dolice;7.174
+;Ziębice;Starczów;9.244
+;Zimnochy;Hołówki Duże;2.111
+;Złocieniec;Rzęśnica;4.548
+;Złojec;Zawada;7.057
+;Złotkowo;Golęczewo;2.657
+;Złotniki Grzybowe;Złotniki;1.368
+;Złotniki Kujawskie;Nowa Wieś Wielka;8.211
+;Złotniki Kutnowskie;Sklęczki;6.184
+;Złotniki;Złotkowo;1.725
+;Złotów;Krajenka;8.895
+;Zosinów;Żychlin;7.406
+;Zubrzyk;Żegiestów;4.991
+;Zwardoń (Gr);Skalite Serafinov;0.667
+;Zwardoń;Zwardoń (Gr);0.431
+;Zwierzyniec;Tereszpol Biłgorajski;11.264
+;Zwierzyniec;Józefów Roztoczański;11.906
+;Zygmuntowo Mazowieckie;Przetycz;5.009
+;Zygmuntów;Smogorzów Przysuski;2.885
+;Żabi Róg;Kozia Góra;6.158
+;Żabiny;Tuczki;2.265
+;Żabno koło Chojnic;Brusy;3.389
+;Żabowo;Nowogard;7.499
+;Żagań;Żary;12.838
+;Żakowice Południowe;Słotwiny;3.742
+;Żakowice;Gałkówek;4.306
+;Żalno;Tuchola;7.347
+;Żarki-Letnisko;Masłońskie Natalin;3.301
+;Żarów;Jaworzyna Śląska;5.523
+;Żary Kunice;Jankowa Żagańska;3.678
+;Żary;Sieniawa Żarska;5.28
+;Żary;Żary Kunice;4.777
+;Żednia;Sokole Białostockie;2.779
+;Żegiestów;Żegiestów-Zdrój;2.166
+;Żegiestów-Zdrój;Andrzejówka;3.31
+;Żelazno;Ołdrzychowice Kłodzkie;3.257
+;Żelisławice;Koniecpol;11.762
+;Żelisławie Pomorskie;Bobrowo Pomorskie;4.405
+;Żelistrzewo;Puck;4.697
+;Żerków;Orzechowo;6.785
+;Żmigród;Garbce;4.795
+;Żory;Szczejkowice;4.193
+;Żółtnica;Czarnobór;3.045
+;Żółwino;Recz Pomorski;9.238
+;Żórawina;Węgry;6.451
+;Żukowo Wschodnie;Pępowo Kartuskie;2.745
+;Żukowo;Żukowo Wschodnie;0.901
+;Żulin;Krasnystaw Fabryczny;4.411
+;Żurawica Osobowa;Przemyśl Zasanie;5.095
+;Żurawica Rozrządowa;Żurawica Osobowa;1.742
+;Żychlin;Złotniki Kutnowskie;8.76
+;Życzyn;Rokitnia Stara;4.896
+;Żydowo;Gębarzewo;3.393
+;Żyrardów;Sucha Żyrardowska;6.892
+;Żytkowice;Pionki;6.738
+;Żywiec Sporysz;Żywiec;3.233
+;Żywiec;Radziechowy Wieprz;3.956

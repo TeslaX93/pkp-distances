@@ -5,6 +5,14 @@
 -> renamed station 
 ? other
 
+2023-08-29
++ Mielec Południowy
++ Chorzelów Południowy
++ Rzeszów Dworzysko
++ Rzeszów Baranówka
++ Warszowice
++ Kraków Grzegórzki
+
 2023-07-09
 * Bydgoszcz Akademia -> Bydgoszcz Politechnika
 

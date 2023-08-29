@@ -1,4 +1,4 @@
-﻿id;station_a;station_b;distance
+id;station_a;station_b;distance
 ;Zasieki;Zasieki (Gr);0.48
 ;Zasieki (Gr);Forst Lausitz;1.72
 ;Zgorzelec;Zgorzelec (Gr);1.019
@@ -165,7 +165,8 @@
 ;Zabrzeg Czarnolesie;Chybie;6.981
 ;Chybie;Drogomyśl;3.951
 ;Chybie;Strumień;5.727
-;Strumień;Żory;15.822
+;Strumień;Warszowice;9.156
+;Warszowice;Żory;6.966
 ;Drogomyśl;Pruchna;5.084
 ;Pruchna;Zebrzydowice;6.567
 ;Zebrzydowice;Kończyce;2.692
@@ -609,7 +610,8 @@
 ;Kraków Batowice;Kraków Lubocza;6.378
 ;Kraków Lubocza;Kraków Nowa Huta;3.982
 ;Kraków Nowa Huta;Podłęże;12.133
-;Kraków Główny;Kraków Zabłocie;2.416
+;Kraków Główny;Kraków Grzegórzki;1.244
+;Kraków Grzegórzki;Kraków Zabłocie;1.175
 ;Kraków Zabłocie;Kraków Płaszów;1.98
 ;Kraków Płaszów;Kraków Prokocim;1.967
 ;Kraków Prokocim;Kraków Bieżanów;2.342
@@ -643,9 +645,11 @@
 ;Dąbie koło Dębicy;Tuszyma;1.868
 ;Tuszyma;Rzemień;3.454
 ;Rzemień;Rzochów;2.764
-;Rzochów;Wojsław;4.02
+;Rzochów;Mielec Południowy;2.15
+;Mielec Południowy;Wojsław;1.87
 ;Wojsław;Mielec;3.747
-;Mielec;Chorzelów;5.94
+;Mielec;Chorzelów Południowy;4.383
+;Chorzelów Południowy;Chorzelów;1.608
 ;Chorzelów;Tuszów Narodowy;3.445
 ;Tuszów Narodowy;Jaślany;3.041
 ;Jaślany;Padew;4.482
@@ -658,7 +662,9 @@
 ;Będziemyśl;Trzciana;5.359
 ;Trzciana;Świlcza;4.097
 ;Świlcza;Rudna Wielka;2.892
-;Rudna Wielka;Rzeszów Zachodni;5.512
+;Rudna Wielka;Rzeszów Dworzysko;1.943
+;Rzeszów Dworzysko;Rzeszów Baranówka;2.173
+;Rzeszów Baranówka;Rzeszów Zachodni;1.396
 ;Rzeszów Główny;Rzeszów Pobitno;2.191
 ;Rzeszów Pobitno;Rzeszów Załęże;2.888
 ;Rzeszów Załęże;Strażów;3.503
