@@ -1820,6 +1820,7 @@ id;station_a;station_b;distance
 ;Polanica-Zdrój;Szczytna;5.703
 ;Polichna Kraśnicka;Rzeczyca-Kolonia;3.018
 ;Policzna;Witowo;6.986
+;Polna;Wilczyska;4.913
 ;Polna;Szalowa;2.245
 ;Pomiechówek;Brody Warszawskie;4.64
 ;Poniec;Dzięczyn;3.227
@@ -1869,7 +1870,8 @@ id;station_a;station_b;distance
 ;Przeciszów;Włosienica;3.092
 ;Przecza;Lewin Brzeski;4.512
 ;Przedmoście Święte;Środa Śląska;4.165
-;Przemyśl Główny;Hurko;6.256
+;Przemyśl Główny;Przemyśl Wschodni;2.019
+;Przemyśl Wschodni;Hurko;4.238
 ;Przemyśl Zasanie;Przemyśl Główny;1.606
 ;Przeradz;Iwin;3.068
 ;Przetycz;Prabuty Góry;4.3
@@ -2107,7 +2109,8 @@ id;station_a;station_b;distance
 ;Sędzice;Sieradz;11.179
 ;Sędzisław;Marciszów;6.339
 ;Sędzisław;Kamienna Góra;5.946
-;Sędziszów Małopolski;Będziemyśl;6.102
+;Sędziszów Małopolski;Sędziszów Małopolski Wschodni;2.453
+;Sędziszów Małopolski;Będziemyśl;3.649
 ;Sędziszów;Klimontów;5.011
 ;Sidra;Różanystok;9.999
 ;Siechnice;Zakrzów Kotowice;4.756
@@ -2485,6 +2488,7 @@ id;station_a;station_b;distance
 ;Tomaszów Mazowiecki;Jeleń;5.698
 ;Tomaszówek;Szadkowice;4.712
 ;Topola-Osiedle;Ostrów Wielkopolski;5.282
+;Toporów;Łagów;9.435
 ;Toporów;Drzewce;6.691
 ;Topór;Sadowne Węgrowskie;3.806
 ;Toruń Czerniewice;Toruń Główny;5.809

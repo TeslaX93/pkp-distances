@@ -5,6 +5,15 @@
 -> renamed station 
 ? other
 
+2023-09-24
++ Przemyśl Wschodni 
++ Sędziszów Małopolski Wschodni
+
+2023-08-30
++ Łagów
++ Toporów <-> Łagów
++ Polna <-> Wilczyska
+
 2023-08-29
 + Mielec Południowy
 + Chorzelów Południowy

@@ -658,7 +658,8 @@ id;station_a;station_b;distance
 ;Lubzina;Ropczyce;3.883
 ;Ropczyce;Ropczyce Witkowice;3.267
 ;Ropczyce Witkowice;Sędziszów Małopolski;4.907
-;Sędziszów Małopolski;Będziemyśl;6.102
+;Sędziszów Małopolski;Sędziszów Małopolski Wschodni;2.453
+;Sędziszów Małopolski;Będziemyśl;3.649
 ;Będziemyśl;Trzciana;5.359
 ;Trzciana;Świlcza;4.097
 ;Świlcza;Rudna Wielka;2.892
@@ -688,7 +689,8 @@ id;station_a;station_b;distance
 ;Żurawica Rozrządowa;Żurawica Osobowa;1.742
 ;Żurawica Osobowa;Przemyśl Zasanie;5.095
 ;Przemyśl Zasanie;Przemyśl Główny;1.606
-;Przemyśl Główny;Hurko;6.256
+;Przemyśl Główny;Przemyśl Wschodni;2.019
+;Przemyśl Wschodni;Hurko;4.238
 ;Hurko;Medyka Towarowa;1.541
 ;Medyka Towarowa;Medyka Rozrządowa;2.176
 ;Medyka Rozrządowa;Medyka;2.789
@@ -778,6 +780,7 @@ id;station_a;station_b;distance
 ;Muszyna Zdrój;Powroźnik;3.798
 ;Powroźnik;Krynica-Zdrój;5.181
 ;Stróże;Polna;3.614
+;Polna;Wilczyska;4.913
 ;Polna;Szalowa;2.245
 ;Szalowa;Wola Łużańska;4.23
 ;Wola Łużańska;Moszczenica Małopolska;4.614
@@ -1325,6 +1328,7 @@ id;station_a;station_b;distance
 ;Świebodzin;Wilkowo Świebodzińskie;5.145
 ;Wilkowo Świebodzińskie;Mostki;5.333
 ;Mostki;Toporów;9.74
+;Toporów;Łagów;9.435
 ;Toporów;Drzewce;6.691
 ;Drzewce;Torzym;9.17
 ;Torzym;Boczów;7.712
