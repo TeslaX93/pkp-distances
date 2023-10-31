@@ -736,6 +736,8 @@ id;station_a;station_b;distance
 ;Głogów Małopolski;Głogów Małopolski Niwa;1.248
 ;Głogów Małopolski Niwa;Rogoźnica koło Rzeszowa;2.185
 ;Rogoźnica koło Rzeszowa;Zaczernie;2.525
+;Zaczernie;Głogów Małopolski Południowy;2.921
+;Głogów Małopolski Południowy;Jasionka Lotnisko;2.562
 ;Zaczernie;Rzeszów Miłocin;2.268
 ;Rzeszów Miłocin;Rzeszów Staromieście;1.475
 ;Rzeszów Staromieście;Rzeszów Zachodni;1.078
@@ -973,6 +975,10 @@ id;station_a;station_b;distance
 ;Wrocław Psie Pole;Długołęka;6.114
 ;Długołęka;Borowa Oleśnicka;5.911
 ;Borowa Oleśnicka;Oleśnica;8.027
+;Syców;Stradomia;5.713
+;Stradomia;Poniatowice;8.623
+;Poniatowice;Cieśle;4.524
+;Cieśle;Oleśnica;6.546
 ;Oleśnica;Oleśnica Rataje;2.73
 ;Oleśnica Rataje;Dąbrowa Oleśnicka;1.667
 ;Dąbrowa Oleśnicka;Dobroszyce;4.444
@@ -1476,6 +1482,7 @@ id;station_a;station_b;distance
 ;Garbce;Korzeńsko;3.634
 ;Korzeńsko;Rawicz;7.482
 ;Rawicz;Bojanowo;12.249
+;Bojanowo;Góra Śląska;14.864
 ;Bojanowo;Kaczkowo;6.541
 ;Kaczkowo;Rydzyna;3.788
 ;Rydzyna;Leszno;10.158

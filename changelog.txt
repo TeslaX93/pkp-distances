@@ -5,6 +5,18 @@
 -> renamed station 
 ? other
 
+2023-10-31
++ Zaczernie <-> Jasionka Lotnisko
++ Głogów Małopolski Południowy
++ Jasionka Lotnisko 
++ Bojanowo <-> Góra Śląska
++ Góra Śląska
++ Oleśnica <-> Syców
++ Cieśle
++ Poniatowice
++ Stradomia
++ Syców
+
 2023-09-24
 + Przemyśl Wschodni 
 + Sędziszów Małopolski Wschodni

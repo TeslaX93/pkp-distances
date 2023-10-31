@@ -149,6 +149,7 @@ id;station_a;station_b;distance
 ;Boguszów-Gorce Wschód;Boguszów-Gorce;1.643
 ;Boguszów-Gorce Zachód;Witków Śląski;4.665
 ;Boguszów-Gorce;Boguszów-Gorce Zachód;2.839
+;Bojanowo;Góra Śląska;14.864
 ;Bojanowo;Kaczkowo;6.541
 ;Bojary;Baciuty;3.134
 ;Boksycka;Ostrowiec Świętokrzyski;4.256
@@ -334,6 +335,7 @@ id;station_a;station_b;distance
 ;Cieszyn;Cieszyn (Gr);1.559
 ;Cieszyn;Cieszyn Uniwersytet;0.857
 ;Cieszyno Łobeskie;Chociwel;11.465
+;Cieśle;Oleśnica;6.546
 ;Cięcina Dolna;Cięcina;1.646
 ;Cięcina;Węgierska Górka;1.709
 ;Cikowice;Bochnia;3.794
@@ -595,6 +597,7 @@ id;station_a;station_b;distance
 ;Głębokie Międzyrzeckie;Popowo Skwierzyńskie;5.877
 ;Głogów Huta;Głogów Wróblin;2.815
 ;Głogów Małopolski Niwa;Rogoźnica koło Rzeszowa;2.185
+;Głogów Małopolski Południowy;Jasionka Lotnisko;2.562
 ;Głogów Małopolski;Głogów Małopolski Niwa;1.248
 ;Głogów Wróblin;Brzeg Głogowski;2.565
 ;Głogów;Głogówko;8.958
@@ -1823,6 +1826,7 @@ id;station_a;station_b;distance
 ;Polna;Wilczyska;4.913
 ;Polna;Szalowa;2.245
 ;Pomiechówek;Brody Warszawskie;4.64
+;Poniatowice;Cieśle;4.524
 ;Poniec;Dzięczyn;3.227
 ;Popielów;Chróścice;5.522
 ;Popowo Skwierzyńskie;Skwierzyna;6.485
@@ -2298,6 +2302,7 @@ id;station_a;station_b;distance
 ;Stogi Malborskie;Szymankowo;2.955
 ;Stok Lacki;Krzymosze;4.056
 ;Strabla;Zimnochy;6.546
+;Stradomia;Poniatowice;8.623
 ;Stramnica;Kołobrzeg;6.136
 ;Strażów;Krzemienica;5.3
 ;Strączno;Rutwica;5.907
@@ -2363,6 +2368,7 @@ id;station_a;station_b;distance
 ;Swarzędz;Poznań Antoninek;3.336
 ;Swędów;Stryków;4.005
 ;Sycewice;Wrześnica;4.686
+;Syców;Stradomia;5.713
 ;Sycze;Nurzec;7.304
 ;Szachy;Sokule;3.286
 ;Szadkowice;Słomianka;3.063
@@ -2859,6 +2865,7 @@ id;station_a;station_b;distance
 ;Zabrzeg Czarnolesie;Zabrzeg;2.35
 ;Zabrzeg Czarnolesie;Chybie;6.981
 ;Zabrzeg;Czechowice-Dziedzice;4.777
+;Zaczernie;Głogów Małopolski Południowy;2.921
 ;Zaczernie;Rzeszów Miłocin;2.268
 ;Zagajnik;Węgliniec;5.721
 ;Zagnańsk;Tumlin;4.901
