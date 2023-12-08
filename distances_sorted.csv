@@ -722,6 +722,7 @@ id;station_a;station_b;distance
 ;Grybów;Ptaszkowa;10.718
 ;Gryfice;Baszewice;5.985
 ;Gryfino;Czepino;3.711
+;Gryfów Śląski;Proszówka;3.132
 ;Gryfów Śląski;Ubocze;2.551
 ;Grylewo;Kobylec;4.874
 ;Gryźliny;Stawiguda;5.587
@@ -1476,6 +1477,7 @@ id;station_a;station_b;distance
 ;Mińsk Mazowiecki Anielina;Barcząca;3.066
 ;Mińsk Mazowiecki;Mińsk Mazowiecki Anielina;2.482
 ;Mirków;Długołęka;2.467
+;Mirsk;Mroczkowice;3.262
 ;Misie;Międzyrzec Podlaski;6.98
 ;Mleczewo;Dąbrówka Malborska;7.132
 ;Mława Miasto;Mława;2.63
@@ -1513,6 +1515,7 @@ id;station_a;station_b;distance
 ;Mościsko Dzierżoniowskie;Krzyżowa;4.4
 ;Motycz Leśny;Motycz;4.12
 ;Motycz;Stasin Polny;3.609
+;Mroczkowice;Orłowice;1.895
 ;Mrozów;Miękinia;3.699
 ;Mrozy;Grodziszcze Mazowieckie;5.12
 ;Mrzezino;Żelistrzewo;2.436
@@ -1684,6 +1687,7 @@ id;station_a;station_b;distance
 ;Opole Zachodnie;Chróścina Opolska;5.699
 ;Opole Zachodnie;Opole Chmielowice;2.961
 ;Orlanka;Mikłasze;2.212
+;Orłowice;Świeradów-Zdrój;2.51
 ;Orneta;Nowy Dwór koło Ornety;3.51
 ;Orzechowicze;Rajsk;2.157
 ;Orzechowo;Miłosław;9.108
@@ -1890,6 +1894,7 @@ id;station_a;station_b;distance
 ;Prostki;Lipińskie Małe;5.075
 ;Prostynia;Żółwino;6.042
 ;Prostyń;Małkinia;6.266
+;Proszówka;Mirsk;5.64
 ;Pruchna;Zebrzydowice;6.567
 ;Prudnik;Szybowice;7.202
 ;Pruszcz Gdański;Gdańsk Lipce;4.971
