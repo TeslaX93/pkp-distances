@@ -5,6 +5,52 @@
 -> renamed station 
 ? other
 
+2023-12-08
+- Będzin
++ Zawiercie <-> Tarnowskie Góry
++ Poręba 
++ Siewierz
++ Mierzęcice
++ Pyrzowice Lotnisko
++ Miasteczko Śląskie Centrum 
+<-> Siódmak - Chorzele
++ Szymany 
++ Jesionowiec
++ Wielbark
+<-> Olsztyn Gutkowo - Braniewo
++ Bukwałd
++ Cerkiewnik
++ Swobodna
++ Dobre Miasto
++ Bzowiec
++ Rogiedle
++ Lubomino
++ Orneta
++ Nowy Dwór koło Ornety
++ Henrykowo
++ Pieniężno
++ Żugienie
++ Wysoka Braniewska
++ Jastrzębiec
++ Grodzie
++ Braniewo
++ Pabianice Północne
++ Zgierz Rudunki
++ Warszawa Grochów
++ Nowy Sącz Gorzków
++ Nowy Sącz Dąbrówka 
++ Dąbrówka Jezioro Mucharskie
++ Szaflary Centrum 
++ Grudziądz Tuszewo
++ Grudziądz Owczarki
++ Rogóźno Pomorskie
++ Tuchola Rudzki Most
++ Mirków
++ Pawłowice Śląskie Centrum
++ Żurawnica
+* Klemensów <-> Niedzieliska-Kolonia
+* Kielce <-> Kielce Główne
+
 2023-10-31
 + Zaczernie <-> Jasionka Lotnisko
 + Głogów Małopolski Południowy
