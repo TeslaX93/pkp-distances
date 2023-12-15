@@ -5,6 +5,13 @@
 -> renamed station 
 ? other
 
+TODO:
+Kosów, Bańska Niżna, Poronin Misiagi, Chabówka Stadion, Grudziądz Centrum,
+Stawiany Pińczowskie, Otomino, Obłaczkowo
+
+2023-12-15
+* Szaflary Wieś <-> Szaflary Centrum
+
 2023-12-08
 - Będzin
 + Zawiercie <-> Tarnowskie Góry
