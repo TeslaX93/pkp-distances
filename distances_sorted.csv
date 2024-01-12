@@ -503,7 +503,6 @@ id;station_a;station_b;distance
 ;Dwory;Oświęcim;6.922
 ;Dygowo;Stramnica;5.253
 ;Dytmarów;Prudnik;7.06
-;Dziadówki;Miechów;5.149
 ;Działdowo;Burkat;4.899
 ;Działdowo;Zakrzów-Sarnowo;11.228
 ;Dziembówko;Piła Kalina;3.704
@@ -691,7 +690,7 @@ id;station_a;station_b;distance
 ;Gralewo;Żabiny;4.458
 ;Grambow;Loecknitz;9.890
 ;Granowiec;Garki;3.19
-;Granowo Nowotomyskie;Kotowo;3.201
+;Granowo;Kotowo;3.201
 ;Grąblewo;Grodzisk Wielkopolski;3.196
 ;Gregorowce;Podbiele;3.875
 ;Grębocice;Krzepów;6.773
@@ -834,9 +833,9 @@ id;station_a;station_b;distance
 ;Jedlicze koło Zgierza;Grotniki;2.129
 ;Jedlicze Męcinka;Jedlicze;2.339
 ;Jedlicze;Krosno Turaszówka;3.822
-;Jedlina Górna;Wałbrzych Główny;3.354
+;Jedlina-Zdrój Borowa;Wałbrzych Główny;3.354
 ;Jedlina-Zdrój Centrum;Jedlina-Zdrój;2.921
-;Jedlina-Zdrój;Jedlina Górna;2.6
+;Jedlina-Zdrój;Jedlina-Zdrój Borowa;2.6
 ;Jedlnia Kościelna;Jedlnia-Letnisko;6.293
 ;Jedlnia-Letnisko;Groszowice Wrzosów;1.801
 ;Jeglia;Hartowiec;2.602
@@ -1564,7 +1563,6 @@ id;station_a;station_b;distance
 ;Niedźwiada Łowicka;Jackowice;6.442
 ;Niedźwiedź Wielkopolski;Antonin;3.508
 ;Niedźwiedź;Goszcza;3.108
-;Niegocin;Giżycko;3.524
 ;Nielep;Świdwin;8.948
 ;Niemce;Bystrzyca koło Lublina;1.837
 ;Niemojki;Patków;3.389
@@ -1924,6 +1922,7 @@ id;station_a;station_b;distance
 ;Przytkowice;Kalwaria Zebrzydowska Lanckorona;3.361
 ;Przytocko;Ciecholub;6.2
 ;Przywory Opolskie;Opole Grotowice;3.425
+;Pstroszyce;Miechów;5.149
 ;Pszczółki;Skowarcz;1.618
 ;Pszczyna Czarków;Radostowice;2.596
 ;Pszczyna;Goczałkowice;3.613
@@ -2329,7 +2328,7 @@ id;station_a;station_b;distance
 ;Stefanowo;Zbąszyń Przedmieście;3.862
 ;Steknica;Łeba;5.254
 ;Sterkowiec;Biadoliny;4.095
-;Sterławki Małe;Niegocin;6.046
+;Sterławki Małe;Wilkasy-Niegocin;6.046
 ;Sterławki Wielkie;Sterławki Małe;4.848
 ;Stęszew;Strykowo Poznańskie;7.807
 ;Stobno;Piła Główna;8.87
@@ -2345,7 +2344,7 @@ id;station_a;station_b;distance
 ;Stróże;Grybów;3.657
 ;Stróże;Polna;3.614
 ;Strumień;Pawłowice Śląskie Centrum;6.138
-;Strykowo Poznańskie;Granowo Nowotomyskie;6.962
+;Strykowo Poznańskie;Granowo;6.962
 ;Stryków;Bratoszewice;5.423
 ;Stryszawa;Lachowice;2.079
 ;Stryszów;Dąbrówka Jezioro Mucharskie;2.497
@@ -2572,7 +2571,7 @@ id;station_a;station_b;distance
 ;Tuły;Bukowo;2.499
 ;Tumlin;Kostomłoty;5.862
 ;Tunel;Charsznica;7.793
-;Tunel;Dziadówki;4.416
+;Tunel;Pstroszyce;4.416
 ;Tuplice Dębinka;Tuplice;5.077
 ;Tuplice;Zasieki;13.75
 ;Turbia;Zbydniów;4.15
@@ -2756,6 +2755,7 @@ id;station_a;station_b;distance
 ;Więcławice;Wierzchosławice;4.691
 ;Wiktorowo;Czerniewice;5.265
 ;Wilczyska;Stróże;3.588
+;Wilkasy-Niegocin;Giżycko;3.524
 ;Wilkołaz Wieś;Wilkołaz;2.623
 ;Wilkołaz;Pułankowice;3.491
 ;Wilkoszewice;Gorzkowice;4.185

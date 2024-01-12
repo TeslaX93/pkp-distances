@@ -465,8 +465,8 @@ id;station_a;station_b;distance
 ;Sędziszów;Klimontów;5.011
 ;Klimontów;Kozłów;5.855
 ;Kozłów;Tunel;5.68
-;Tunel;Dziadówki;4.416
-;Dziadówki;Miechów;5.149
+;Tunel;Pstroszyce;4.416
+;Pstroszyce;Miechów;5.149
 ;Miechów;Kamieńczyce;3.381
 ;Kamieńczyce;Szczepanowice;3.21
 ;Szczepanowice;Smroków;3.388
@@ -1227,8 +1227,8 @@ id;station_a;station_b;distance
 ;Bartnica;Głuszyca Górna;4.812
 ;Głuszyca Górna;Głuszyca;2.241
 ;Głuszyca;Jedlina-Zdrój;2.773
-;Jedlina-Zdrój;Jedlina Górna;2.6
-;Jedlina Górna;Wałbrzych Główny;3.354
+;Jedlina-Zdrój;Jedlina-Zdrój Borowa;2.6
+;Jedlina-Zdrój Borowa;Wałbrzych Główny;3.354
 ;Brzeg;Olszanka;7.207
 ;Olszanka;Czeska Wieś;4.29
 ;Czeska Wieś;Lipowa Śląska;3.313
@@ -1522,8 +1522,8 @@ id;station_a;station_b;distance
 ;Szreniawa;Trzebaw Rosnówko;3.351
 ;Trzebaw Rosnówko;Stęszew;4.53
 ;Stęszew;Strykowo Poznańskie;7.807
-;Strykowo Poznańskie;Granowo Nowotomyskie;6.962
-;Granowo Nowotomyskie;Kotowo;3.201
+;Strykowo Poznańskie;Granowo;6.962
+;Granowo;Kotowo;3.201
 ;Kotowo;Ptaszkowo;2.874
 ;Ptaszkowo;Grąblewo;3.658
 ;Grąblewo;Grodzisk Wielkopolski;3.196
@@ -2430,8 +2430,8 @@ id;station_a;station_b;distance
 ;Kętrzyn;Martiany;10.875
 ;Martiany;Sterławki Wielkie;4.106
 ;Sterławki Wielkie;Sterławki Małe;4.848
-;Sterławki Małe;Niegocin;6.046
-;Niegocin;Giżycko;3.524
+;Sterławki Małe;Wilkasy-Niegocin;6.046
+;Wilkasy-Niegocin;Giżycko;3.524
 ;Giżycko;Siedliska;9.759
 ;Siedliska;Wydminy;8.399
 ;Wydminy;Stare Juchy;10.956
