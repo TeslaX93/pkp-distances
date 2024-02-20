@@ -24,6 +24,7 @@ id;station_a;station_b;distance
 ;Bajtkowo;Nowa Wieś Ełcka;7.691
 ;Balin;Trzebinia;5.625
 ;Balinka;Augustów;13.323
+;Bańska Niżna;Biały Dunajec;2.579
 ;Baranówka;Zastów;3.766
 ;Barchów;Łochów;3.272
 ;Barcice;Rytro;5.655
@@ -254,8 +255,9 @@ id;station_a;station_b;distance
 ;Cekcyn;Wierzchucin Stary;4.753
 ;Celestynów;Kołbiel;3.502
 ;Cerkiewnik;Swobodna;2.917
+;Chabówka Stadion;Rokiciny Podhalańskie;1.666
 ;Chabówka;Rabka-Zdrój;1.939
-;Chabówka;Rokiciny Podhalańskie;3.275
+;Chabówka;Chabówka Stadion;1.609
 ;Chałupki (Gr);Bohumin;3.136
 ;Chałupki;Chałupki (Gr);1.296
 ;Chałupki;Bohumin Vrbice;4.835
@@ -313,7 +315,7 @@ id;station_a;station_b;distance
 ;Chrząstowice Olkuskie;Jaroszowiec Olkuski;5.365
 ;Chrząstowice;Suchy Bór Opolski;2.722
 ;Chrzęsne;Mokra Wieś;2.066
-;Chwalibogowo;Września;5.487
+;Chwalibogowo;Obłaczkowo;1.342
 ;Chybie Mnich;Zabrzeg Czarnolesie;6.784
 ;Chybie;Drogomyśl;3.951
 ;Chybie;Strumień;5.727
@@ -483,7 +485,7 @@ id;station_a;station_b;distance
 ;Dopiewo;Otusz;5.907
 ;Dorohusk (Gr);Jagodin;5
 ;Dorohusk;Dorohusk (Gr);2.031
-;Dragacz;Grudziądz;3.521
+;Dragacz;Grudziądz Śródmieście;2.626
 ;Drawiny;Podlesiec;7.023
 ;Drawski Młyn;Krzyż;5.723
 ;Drawsko Pomorskie;Jankowo Pomorskie;3.434
@@ -697,6 +699,7 @@ id;station_a;station_b;distance
 ;Grębocin;Lubicz;4.277
 ;Gręboszów;Namysłów;5.996
 ;Grębów;Sobów;7.389
+;Grochowiska;Busko-Zdrój;5.408
 ;Grodków Śląski;Stary Grodków;5.239
 ;Grodzie;Braniewo;9.085
 ;Grodzisk Mazowiecki;Jaktorów;5.486
@@ -714,6 +717,7 @@ id;station_a;station_b;distance
 ;Grudziądz Mniszek;Grudziądz Przedmieście;5
 ;Grudziądz Owczarki;Rogóźno Pomorskie;6.575
 ;Grudziądz Przedmieście;Grudziądz;1.53
+;Grudziądz Śródmieście;Grudziądz;0.895
 ;Grudziądz Tuszewo;Grudziądz Owczarki;2.992
 ;Grudziądz;Grudziądz Tuszewo;3.488
 ;Grudziądz;Nicwałd;8.737
@@ -955,7 +959,7 @@ id;station_a;station_b;distance
 ;Kielce Ślichowice;Górki Szczukowskie;4.613
 ;Kiełpino Kartuskie;Babi Dół;4.243
 ;Kietlanka;Szulborze Wielkie;3.773
-;Kije;Busko-Zdrój;19.313
+;Kije;Grochowiska;13.905
 ;Kity;Dąbrowa-Łazy;2.723
 ;Klecza Dolna;Wadowice;3.121
 ;Klecza Górna;Klecza Dolna;3.144
@@ -1628,6 +1632,7 @@ id;station_a;station_b;distance
 ;Nysa Wschodnia;Nysa;2.353
 ;Nysa;Nowy Świętów;11.847
 ;Nysa;Goświnowice;8.858
+;Obłaczkowo;Września;4.145
 ;Oborniki Śląskie;Osola;4.827
 ;Oborniki Wielkopolskie Miasto;Oborniki Wielkopolskie;1.457
 ;Oborniki Wielkopolskie;Rożnowo;3.752
@@ -1859,7 +1864,8 @@ id;station_a;station_b;distance
 ;Poraj;Korwinów;7.792
 ;Porażyn;Sątopy;5.941
 ;Poręba;Siewierz;6.947
-;Poronin;Zakopane;5.868
+;Poronin Misiagi;Zakopane;4.076
+;Poronin;Poronin Misiagi;1.79
 ;Porosiuki;Biała Podlaska;4.793
 ;Port Lotniczy Szczecin Goleniów;Goleniów;10.215
 ;Potęgowo;Głuszyno Pomorskie;4.536
@@ -2406,7 +2412,7 @@ id;station_a;station_b;distance
 ;Sycze;Nurzec;7.304
 ;Szachy;Sokule;3.286
 ;Szadkowice;Słomianka;3.063
-;Szaflary Centrum;Biały Dunajec;5.505
+;Szaflary Centrum;Bańska Niżna;2.942
 ;Szaflary;Szaflary Centrum;1.821
 ;Szalowa;Wola Łużańska;4.23
 ;Szamotuły;Pęckowo;9.347

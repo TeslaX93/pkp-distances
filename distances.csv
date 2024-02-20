@@ -526,7 +526,8 @@ id;station_a;station_b;distance
 ;Brzeziny;Dębska Wola;9.211
 ;Dębska Wola;Włoszczowice;5.56
 ;Włoszczowice;Kije;5.198
-;Kije;Busko-Zdrój;19.313
+;Kije;Grochowiska;13.905
+;Grochowiska;Busko-Zdrój;5.408
 ;Tomaszów Mazowiecki;Spała;8.562
 ;Tomaszów Mazowiecki;Tomaszów Mazowiecki Białobrzegi;3.585
 ;Tomaszów Mazowiecki Białobrzegi;Brzustów;7.18
@@ -926,7 +927,8 @@ id;station_a;station_b;distance
 ;Skawa;Skawa Środkowa;2.655
 ;Skawa Środkowa;Chabówka;3.737
 ;Chabówka;Rabka-Zdrój;1.939
-;Chabówka;Rokiciny Podhalańskie;3.275
+;Chabówka;Chabówka Stadion;1.609
+;Chabówka Stadion;Rokiciny Podhalańskie;1.666
 ;Rokiciny Podhalańskie;Raba Wyżna;2.346
 ;Raba Wyżna;Sieniawa;5.367
 ;Sieniawa;Pyzówka;4.055
@@ -934,9 +936,11 @@ id;station_a;station_b;distance
 ;Lasek;Nowy Targ;4.497
 ;Nowy Targ;Szaflary;3.935
 ;Szaflary;Szaflary Centrum;1.821
-;Szaflary Centrum;Biały Dunajec;5.505
+;Szaflary Centrum;Bańska Niżna;2.942
+;Bańska Niżna;Biały Dunajec;2.579
 ;Biały Dunajec;Poronin;3.61
-;Poronin;Zakopane;5.868
+;Poronin;Poronin Misiagi;1.79
+;Poronin Misiagi;Zakopane;4.076
 ;Rabka-Zdrój;Rabka Zaryte;3.654
 ;Rabka Zaryte;Mszana Dolna;9.358
 ;Kraków Lotnisko;Kraków Olszanica;1.851
@@ -1449,7 +1453,8 @@ id;station_a;station_b;distance
 ;Orzechowo;Miłosław;9.108
 ;Miłosław;Książno;4.416
 ;Książno;Chwalibogowo;4.637
-;Chwalibogowo;Września;5.487
+;Chwalibogowo;Obłaczkowo;1.342
+;Obłaczkowo;Września;4.145
 ;Września;Marzenin;6.42
 ;Marzenin;Czerniejewo;4.251
 ;Czerniejewo;Żydowo;3.239
@@ -2248,7 +2253,8 @@ id;station_a;station_b;distance
 ;Dubielno;Grupa;4.897
 ;Grupa;Górna Grupa;3.218
 ;Górna Grupa;Dragacz;2.367
-;Dragacz;Grudziądz;3.521
+;Dragacz;Grudziądz Śródmieście;2.626
+;Grudziądz Śródmieście;Grudziądz;0.895
 ;Grudziądz;Nicwałd;8.737
 ;Nicwałd;Mełno;5.177
 ;Mełno;Boguszewo;3.941

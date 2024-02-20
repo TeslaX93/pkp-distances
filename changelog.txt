@@ -6,8 +6,15 @@
 ? other
 
 TODO:
-Kosów, Bańska Niżna, Poronin Misiagi, Chabówka Stadion, Grudziądz Centrum,
-Stawiany Pińczowskie, Otomino, Obłaczkowo
+Kosów, Stawiany Pińczowskie, Otomino
+
+2024-02-20
++ Chabówka Stadion
++ Bańska Niżna 
++ Poronin Misiagi 
++ Grudziądz Śródmieście
++ Grochowiska
++ Obłaczkowo
 
 2024-01-12
 * Dziadówki -> Pstroszyce
