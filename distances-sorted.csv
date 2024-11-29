@@ -68,6 +68,7 @@ id;station_a;station_b;distance
 ;Biała Pilska;Stobno;8.978
 ;Biała Piska;Drygały;9.127
 ;Biała Podlaska;Ogrodniki;7.943
+;Biała Szlachecka;Chorzew Siemkowice;8.868
 ;Białki Siedleckie;Kosiorki;2.998
 ;Białogard;Karlino;8.1
 ;Białogard;Czarnowęsy Pomorskie;7.888
@@ -141,7 +142,7 @@ id;station_a;station_b;distance
 ;Bogdanowo;Oborniki Wielkopolskie Miasto;1.734
 ;Bogoniowice Ciężkowice;Pławna;5.89
 ;Boguchwała Dolna;Boguchwała;1.364
-;Boguchwała;Wisłoczanka;4.03
+;Boguchwała;Lutoryż;2.35
 ;Bogumiłowice;Tarnów Mościce;3.966
 ;Boguszewo;Linowo;2.465
 ;Boguszów-Gorce Dzikowiec;Unisław Śląski;1.86
@@ -193,7 +194,7 @@ id;station_a;station_b;distance
 ;Brzeszcze;Brzeszcze Jawiszowice;3.448
 ;Brzezie;Lubanie;6.28
 ;Brzezinka Średzka;Czerna Mała;2.583
-;Brzeziny;Dębska Wola;9.211
+;Brzeziny;Nida;2.051
 ;Brzeźnica Bychawska;Berejów;2.208
 ;Brzeźnica;Półwieś;3.915
 ;Brzeźno Człuchowskie;Człuchów;7.621
@@ -244,10 +245,8 @@ id;station_a;station_b;distance
 ;Bystrzyca Kłodzka;Bystrzyca Kłodzka Przedmieście;1.452
 ;Bystrzyca koło Lublina;Ciecierzyn;3.893
 ;Bytnica;Budachów;5.123
-;Bytom Bobrek;Bytom;2.687
-;Bytom Karb;Bytom Północny;2.984
+;Bytom Karb;Radzionków Rojca;5.535
 ;Bytom Odrzański;Nowa Sól;11.967
-;Bytom Północny;Radzionków Rojca;2.551
 ;Bytom;Bytom Karb;2.691
 ;Bytonia;Kaliska;4.656
 ;Bzowiec;Rogiedle;3.1
@@ -278,6 +277,7 @@ id;station_a;station_b;distance
 ;Chocicza;Solec Wielkopolski;4.898
 ;Chociszew;Ozorków Nowe Miasto;3.897
 ;Chociszewo Rogoziniec;Lutol Suchy;4.263
+;Chociw Łaski;Siedlce Łaskie;6.509
 ;Chociwel;Lisowo;5.049
 ;Chocznia Górna;Inwałd;3.78
 ;Chocznia;Chocznia Górna;1.995
@@ -293,10 +293,12 @@ id;station_a;station_b;distance
 ;Chorzele;Wielbark;14.977
 ;Chorzelów Południowy;Chorzelów;1.608
 ;Chorzelów;Tuszów Narodowy;3.445
+;Chorzew Siemkowice;Huta;7.038
 ;Chorzów Batory;Katowice Załęże;3.638
-;Chorzów Batory;Chorzów Miasto;3.084
+;Chorzów Batory;Chorzów Uniwersytet;2.279
 ;Chorzów Miasto;Chorzów Stary;3.226
 ;Chorzów Stary;Bytom;5.155
+;Chorzów Uniwersytet;Chorzów Miasto;0.906
 ;Choszczno;Ziemomyśl;6.954
 ;Chotomów;Janówek;7.365
 ;Chotyłów;Dobrynka;5.818
@@ -349,6 +351,7 @@ id;station_a;station_b;distance
 ;Cmolas;Zarębki;2.505
 ;Cybowo;Prostynia;3.139
 ;Cygany;Jadachy;3.425
+;Cykarzew Północny;Stary Broniszew;2.13
 ;Czachówek Górny;Czachówek Południowy;1.091
 ;Czachówek Południowy;Sułkowice;3.811
 ;Czachówek Wschodni;Góra Kalwaria;7.038
@@ -396,6 +399,7 @@ id;station_a;station_b;distance
 ;Czeska Wieś;Lipowa Śląska;3.313
 ;Czesławice;Sadurki;12.845
 ;Częstochowa Aniołów;Częstochowa;3.929
+;Częstochowa Aniołów;Rząsawa;6.127
 ;Częstochowa Gnaszyn;Blachownia;4.814
 ;Częstochowa Raków;Częstochowa;3.655
 ;Częstochowa Raków;Częstochowa Stradom;5.09
@@ -410,7 +414,7 @@ id;station_a;station_b;distance
 ;Ćmielów;Jakubowice;13.63
 ;Dalanówek;Wkra;7.415
 ;Dalekie;Zygmuntowo Mazowieckie;5.434
-;Daleszewo;Szczecin Podjuchy;7.426
+;Daleszewo;Radziszewo;2.635
 ;Dalęcino;Przeradz;5.432
 ;Damnica;Jezierzyce Słupskie;9.6
 ;Daniszyn;Łąkociny;3.954
@@ -497,6 +501,8 @@ id;station_a;station_b;distance
 ;Drzewica;Bieliny Opoczyńskie;3.132
 ;Drzonowo;Biały Bór;9.218
 ;Drzymałowo;Rakoniewice;2.986
+;Dubidze;Dubidze-Kolonia;1.86
+;Dubidze-Kolonia;Biała Szlachecka;10.121
 ;Dubielno;Grupa;4.897
 ;Dulowa;Wola Filipowska;4.323
 ;Dunowo;Nosówko;4.199
@@ -597,7 +603,7 @@ id;station_a;station_b;distance
 ;Gliwice Łabędy;Rzeczyce Śląskie;4.415
 ;Gliwice;Zabrze;8.174
 ;Gliwice;Zabrze Makoszowy;8.442
-;Gliwice;Bytom Bobrek;15.546
+;Gliwice;Zabrze Maciejów;5.748
 ;Gliwice;Przyszowice;11.997
 ;Gliwice;Gliwice Łabędy;5.885
 ;Głębokie Międzyrzeckie;Popowo Skwierzyńskie;5.877
@@ -611,7 +617,8 @@ id;station_a;station_b;distance
 ;Głogówek;Racławice Śląskie;9.142
 ;Głogówko;Stare Drzewce;8.226
 ;Głowaczewo;Karcino;3.677
-;Głowno;Kamień Łowicki;4.9
+;Głowno Północne;Kamień Łowicki;2.375
+;Głowno;Głowno Północne;2.525
 ;Głuchołazy (Gr);Mikulovice;2.553
 ;Głuchołazy;Głuchołazy (Gr);5.650
 ;Głuchołazy;Pokrzywna (Gr);11.220
@@ -714,9 +721,10 @@ id;station_a;station_b;distance
 ;Grotniki;Chociszew;5.69
 ;Gródek;Zabiele;3.554
 ;Grudze;Łowicz Przedmieście;6.122
-;Grudziądz Mniszek;Grudziądz Przedmieście;5
+;Grudziądz Mniszek;Grudziądz Rządz;2.068
 ;Grudziądz Owczarki;Rogóźno Pomorskie;6.575
 ;Grudziądz Przedmieście;Grudziądz;1.53
+;Grudziądz Rządz;Grudziądz Przedmieście;2.932
 ;Grudziądz Śródmieście;Grudziądz;0.895
 ;Grudziądz Tuszewo;Grudziądz Owczarki;2.992
 ;Grudziądz;Grudziądz Tuszewo;3.488
@@ -759,6 +767,7 @@ id;station_a;station_b;distance
 ;Hucisko;Pewel Wielka;3.298
 ;Hurko;Medyka Towarowa;1.541
 ;Huta Komorowska;Majdan Królewski;1.797
+;Huta;Rusiec Łódzki;5.255
 ;Iława Główna;Iława Miasto;2.869
 ;Iława Główna;Rudzienice Suskie;9.056
 ;Iława Miasto;Ząbrowo;8.051
@@ -959,7 +968,7 @@ id;station_a;station_b;distance
 ;Kielce Ślichowice;Górki Szczukowskie;4.613
 ;Kiełpino Kartuskie;Babi Dół;4.243
 ;Kietlanka;Szulborze Wielkie;3.773
-;Kije;Grochowiska;13.905
+;Kije;Stawiany Pińczowskie;3.335
 ;Kity;Dąbrowa-Łazy;2.723
 ;Klecza Dolna;Wadowice;3.121
 ;Klecza Górna;Klecza Dolna;3.144
@@ -1012,6 +1021,7 @@ id;station_a;station_b;distance
 ;Koluszki;Żakowice;2.694
 ;Kołbiel;Chrosna;1.416
 ;Koło;Budki Nowe;6.093
+;Kołobrzeg Amfiteatr;Kołobrzeg;1.742
 ;Kołobrzeg Stadion;Stary Borek;6.664
 ;Kołobrzeg;Kołobrzeg Stadion;1.174
 ;Kołodziejewo;Janikowo;6.853
@@ -1051,6 +1061,8 @@ id;station_a;station_b;distance
 ;Kostrzyn;Kostrzyn (Gr);1.891
 ;Kostrzyn;Dąbroszyn;5.391
 ;Kostrzyn;Namyślin;11.245
+;Koszalin Politechnika;Koszalin;1.536
+;Koszalin Wschodni;Koszalin Politechnika;1.18
 ;Koszalin;Dunowo;9.509
 ;Koszalin;Mścice;8.41
 ;Koszewnica;Kotuń;5.813
@@ -1073,6 +1085,7 @@ id;station_a;station_b;distance
 ;Kozłów;Włoszczowa Północ;51.721
 ;Kozłów;Koniecpol;44.390
 ;Kozłów;Tunel;5.68
+;Kozuby;Zduńska Wola Południowa;10.279
 ;Kozy Zagroda;Kozy;2.09
 ;Kozy;Krzemionki;2.197
 ;Koźla Kożuchowska;Bogaczów;4.854
@@ -1089,6 +1102,7 @@ id;station_a;station_b;distance
 ;Kraków Bronowice;Kraków Łobzów;1.801
 ;Kraków Główny;Kraków Grzegórzki;1.244
 ;Kraków Grzegórzki;Kraków Zabłocie;1.175
+;Kraków Kościelniki;Kraków Przylasek;4.004
 ;Kraków Lotnisko;Kraków Olszanica;1.851
 ;Kraków Lubocza;Kraków Nowa Huta;3.982
 ;Kraków Łagiewniki;Kraków Sanktuarium;1.102
@@ -1096,14 +1110,16 @@ id;station_a;station_b;distance
 ;Kraków Młynówka;Kraków Bronowice;2.437
 ;Kraków Mydlniki Wapiennik;Kraków Mydlniki;1.35
 ;Kraków Mydlniki;Kraków Bronowice;2.425
-;Kraków Nowa Huta;Podłęże;12.133
+;Kraków Nowa Huta;Kraków Kościelniki;3.697
 ;Kraków Olszanica;Kraków Zakliki;1.816
 ;Kraków Opatkowice;Kraków Sidzina;1.831
+;Kraków Piastów;Kraków Batowice;1.331
 ;Kraków Płaszów;Kraków Prokocim;1.967
 ;Kraków Płaszów;Kraków Podgórze P2;1.431
 ;Kraków Podgórze P2;Kraków Bonarka;1.698
 ;Kraków Podgórze;Kraków Bonarka;1.728
 ;Kraków Prokocim;Kraków Bieżanów;2.342
+;Kraków Przylasek;Podłęże;4.432
 ;Kraków Sanktuarium;Kraków Swoszowice;1.746
 ;Kraków Sidzina;Skawina Jagielnia;2.48
 ;Kraków Sidzina;Skawina;3.982
@@ -1307,6 +1323,7 @@ id;station_a;station_b;distance
 ;Ludynia;Ludynia Dwór;3.868
 ;Lusławice;Turów;5.717
 ;Lutol Suchy;Panowice;2.286
+;Lutoryż;Wisłoczanka;1.68
 ;Luzino;Strzebielino Morskie;4.845
 ;Ładzin;Mokrzyca Wielka;4.153
 ;Łambinowice;Budziszowice;2.839
@@ -1368,9 +1385,10 @@ id;station_a;station_b;distance
 ;Łódź Retkinia;Łódź Lublinek;3.971
 ;Łódź Stoki;Łódź Marysin;3.35
 ;Łódź Warszawska;Łódź Arturówek;1.321
-;Łódź Widzew;Łódź Dąbrowa;4.944
+;Łódź Widzew;Łódź Zarzew;3.169
 ;Łódź Widzew;Łódź Niciarniana;2.515
 ;Łódź Widzew;Łódź Stoki;2.74
+;Łódź Zarzew;Łódź Dąbrowa;1.775
 ;Łódź Żabieniec;Łódź Radogoszcz Zachód;3.077
 ;Łubiana;Garczyn;3.077
 ;Łubowo;Czarne Małe;5.505
@@ -1532,12 +1550,13 @@ id;station_a;station_b;distance
 ;Muszyna Zdrój;Powroźnik;3.798
 ;Muszyna;Muszyna (Gr);7.536
 ;Muszyna;Muszyna Zdrój;1.558
+;Mykanów;Stary Cykarzew;3.08
 ;Mysłaków;Łowicz Główny;4.866
 ;Mysłowice Brzezinka;Mysłowice Brzęczkowice;1.791
 ;Mysłowice Brzęczkowice;Mysłowice;2.848
 ;Mysłowice Kosztowy;Mysłowice Brzezinka;2.824
 ;Mysłowice;Katowice Szopienice Południowe;4.557
-;Mysłowice;Jaworzno Szczakowa;12.413
+;Mysłowice;Sosnowiec Jęzor Południowy;2.199
 ;Myszków Mrzygłód;Myszków Światowit;2.928
 ;Myszków Nowa Wieś;Żarki-Letnisko;3.437
 ;Myszków Światowit;Myszków;2.426
@@ -1559,6 +1578,7 @@ id;station_a;station_b;distance
 ;Nędza Wieś;Nędza;1.714
 ;Nędza;Racibórz Markowice;5.106
 ;Nicwałd;Mełno;5.177
+;Nida;Dębska Wola;7.16
 ;Nidzica;Dobrzyń;9.212
 ;Niedoradz;Zielona Góra Nowy Kisielin;6.208
 ;Niedrzwica Kościelna;Leśniczówka;3.505
@@ -1581,6 +1601,7 @@ id;station_a;station_b;distance
 ;Nisko;Nisko Racławice;1.474
 ;Niziny;Walawa;1.954
 ;Nosówko;Kościernica;5.222
+;Nowa Brzeźnica;Dubidze;3.02
 ;Nowa Dęba;Huta Komorowska;4.109
 ;Nowa Grobla;Oleszyce;8.411
 ;Nowa Iwiczna;Piaseczno;3.18
@@ -1983,6 +2004,7 @@ id;station_a;station_b;distance
 ;Radziechowy Wieprz;Cięcina Dolna;3.075
 ;Radzionków Rojca;Radzionków;1.814
 ;Radzionków;Nakło Śląskie;2.738
+;Radziszewo;Szczecin Żydowce;4.836
 ;Radziszów Centrum;Radziszów;2.133
 ;Radziszów;Wola Radziszowska Lipki;1.878
 ;Radziwiłłów Mazowiecki;Skierniewice Rawka;5.376
@@ -2072,6 +2094,7 @@ id;station_a;station_b;distance
 ;Rumia;Reda;3.687
 ;Runowo Pomorskie;Cieszyno Łobeskie;5.703
 ;Rurka;Kliniska;3.724
+;Rusiec Łódzki;Chociw Łaski;9.944
 ;Rusinowice;Lubliniec;5.938
 ;Ruszów;Jagodzin;5.113
 ;Rutkowice;Kaliska Kujawskie;6.153
@@ -2101,6 +2124,7 @@ id;station_a;station_b;distance
 ;Rytel Wieś;Rytel;3.358
 ;Rytel;Krojanty;5.1
 ;Rytro;Młodów;2.505
+;Rząsawa;Mykanów;4.437
 ;Rzeczyca;Potok Kraśnicki;5.954
 ;Rzeczyca-Kolonia;Rzeczyca;4.975
 ;Rzeczyce Śląskie;Taciszów;4.248
@@ -2156,6 +2180,7 @@ id;station_a;station_b;distance
 ;Sędziszów;Klimontów;5.011
 ;Sidra;Różanystok;9.999
 ;Siechnice;Zakrzów Kotowice;4.756
+;Siedlce Łaskie;Kozuby;4.312
 ;Siedlce Wschodnie;Białki Siedleckie;1.921
 ;Siedlce Zachodnie;Siedlce;2.831
 ;Siedlce;Siedlce Wschodnie;2.72
@@ -2202,7 +2227,7 @@ id;station_a;station_b;distance
 ;Skawina;Skawina Zachodnia;1.647
 ;Skawina;Rzozów Centrum;2.7
 ;Skępe;Czermno;5.871
-;Skibno;Koszalin;11.694
+;Skibno;Koszalin Wschodni;8.978
 ;Skierniewice Rawka;Skierniewice;5.147
 ;Skierniewice;Dąbrowice Skierniewickie;5.429
 ;Sklęczki;Kutno;3.853
@@ -2229,6 +2254,7 @@ id;station_a;station_b;distance
 ;Słomianka;Opoczno;5.886
 ;Słomniki Miasto;Niedźwiedź;3.571
 ;Słomniki;Słomniki Miasto;1.67
+;Słone;Buchałów;2.24
 ;Słonice;Stary Klukom;6.319
 ;Słonowice;Widzino;5.562
 ;Słosinko;Miastko;7.182
@@ -2251,7 +2277,7 @@ id;station_a;station_b;distance
 ;Sobibór;Okuninka Białe;5.293
 ;Sobków;Miąsowa;7.613
 ;Sobolew;Grabniak;3.943
-;Sobótka Zachodnia;Szczepanów;5.931
+;Sobótka Zachodnia;Strzelce Świdnickie;2.986
 ;Sobótka;Sobótka Zachodnia;2.755
 ;Sobów;Tarnobrzeg;4.403
 ;Sochaczew;Kornelin;4.41
@@ -2273,6 +2299,7 @@ id;station_a;station_b;distance
 ;Sosnowiec Dańdówka;Sosnowiec Południowy;3.802
 ;Sosnowiec Główny;Sosnowiec Południowy;1.332
 ;Sosnowiec Główny;Będzin Miasto;5.159
+;Sosnowiec Jęzor Południowy;Jaworzno Szczakowa;10.214
 ;Sosnowiec Kazimierz;Sosnowiec Porąbka;2.077
 ;Sosnowiec Maczki;Dąbrowa Górnicza Południowa;5.739
 ;Sosnowiec Południowy;Katowice Szopienice Południowe;3.343
@@ -2319,6 +2346,8 @@ id;station_a;station_b;distance
 ;Starogard Gdański;Piesienice;8.729
 ;Staropole Częstochowskie;Julianka;3.953
 ;Stary Borek;Głowaczewo;2.973
+;Stary Broniszew;Ważne Młyny;6.28
+;Stary Cykarzew;Cykarzew Północny;1.5
 ;Stary Grodków;Chróścina Nyska;3.751
 ;Stary Jawor;Przybyłowice;5.691
 ;Stary Klukom;Choszczno;5.102
@@ -2328,6 +2357,7 @@ id;station_a;station_b;distance
 ;Starżawa;Chirow Osobowy;8.137
 ;Stasin Polny;Lublin Zachodni;2.558
 ;Staw Kunowski;Kunów;5.525
+;Stawiany Pińczowskie;Grochowiska;10.57
 ;Stawiguda;Gągławki;5.056
 ;Stawno;Wysoka Kamieńska;4.709
 ;Stąporków;Wólka Plebańska;4.437
@@ -2362,6 +2392,7 @@ id;station_a;station_b;distance
 ;Strzelce Krajeńskie Wschód;Stare Kurowo;6.69
 ;Strzelce Kujawskie;Sierakówek;6.635
 ;Strzelce Opolskie;Szymiszów;6.073
+;Strzelce Świdnickie;Szczepanów;2.945
 ;Strzelin;Biały Kościół;6.843
 ;Strzelinko;Gałęzinowo;1.898
 ;Strzyżów nad Wisłokiem;Dobrzechów;4.36
@@ -2429,11 +2460,13 @@ id;station_a;station_b;distance
 ;Szczecin Gumieńce Tan (Gr);Tantow;8.5
 ;Szczecin Gumieńce;Szczecin Gumieńce Tan (Gr);10.070
 ;Szczecin Gumieńce;Szczecin Gumieńce Gra (Gr);8.415
+;Szczecin Łasztownia;Szczecin Główny;0.862
 ;Szczecin Podjuchy;Szczecin Port Centralny;6.357
-;Szczecin Port Centralny;Szczecin Główny;1.368
+;Szczecin Port Centralny;Szczecin Łasztownia;0.743
 ;Szczecin Załom;Szczecin Dąbie;6.638
 ;Szczecin Zdroje;Szczecin Port Centralny;7.889
 ;Szczecin Zdunowo;Szczecin Dąbie;6.434
+;Szczecin Żydowce;Szczecin Podjuchy;1.212
 ;Szczecinek Chyże;Dalęcino;6.778
 ;Szczecinek;Szczecinek Chyże;3.77
 ;Szczecinek;Gwda Mała;9.429
@@ -2617,7 +2650,7 @@ id;station_a;station_b;distance
 ;Ustanówek;Czachówek Górny;3.448
 ;Ustianowa;Ustrzyki Dolne;7.976
 ;Ustka;Ustka Uroczysko;1.176
-;Ustronie Morskie;Kołobrzeg;12.264
+;Ustronie Morskie;Kołobrzeg Amfiteatr;10.522
 ;Ustroń Brzegi;Ustroń Polana;1.638
 ;Ustroń Zdrój;Ustroń Brzegi;1.241
 ;Ustroń Zdrój;Ustroń;1.272
@@ -2706,6 +2739,7 @@ id;station_a;station_b;distance
 ;Warszowice;Żory;6.966
 ;Warząchewka;Włocławek;7.752
 ;Wasilków;Czarny Blok;6.123
+;Ważne Młyny;Nowa Brzeźnica;4.03
 ;Wąbrzeźno;Książki;9.303
 ;Wąchock;Starachowice;4.437
 ;Wągrowiec;Przysieczyn;7.537
@@ -2874,7 +2908,8 @@ id;station_a;station_b;distance
 ;Wrocław Żerniki;Wrocław Leśnica;4.082
 ;Wrocławki;Firlus;3.41
 ;Wroniawy;Nowy Widzim;2.869
-;Wronki;Mokrz;8.355
+;Wronki Zamość;Mokrz;6.646
+;Wronki;Wronki Zamość;1.714
 ;Wróblik Szlachecki;Milcza;2.001
 ;Wrząca Pomorska;Słonowice;4.598
 ;Wrzeście;Steknica;7.475
@@ -2903,10 +2938,12 @@ id;station_a;station_b;distance
 ;Zabierzów;Zabierzów Rząska;2.245
 ;Zabieżki;Augustówka;4.096
 ;Zaborów Błonia;Zaborów;2.056
-;Zaborów;Strzyżów nad Wisłokiem;6.023
+;Zaborów;Żarnowa;3.543
 ;Zaborze;Chybie Mnich;2.059
+;Zabrze Maciejów;Zabrze Północne;3.543
 ;Zabrze Makoszowy;Katowice Ligota;16.677
 ;Zabrze Makoszowy;Katowice Załęże;16.857
+;Zabrze Północne;Bytom;9.561
 ;Zabrze;Ruda Śląska;4.858
 ;Zabrzeg Czarnolesie;Zabrzeg;2.35
 ;Zabrzeg Czarnolesie;Chybie;6.981
@@ -2946,7 +2983,7 @@ id;station_a;station_b;distance
 ;Zasieki (Gr);Forst Lausitz;1.72
 ;Zasieki;Zasieki (Gr);0.48
 ;Zastocze;Czechowizna;4.966
-;Zastów;Kraków Batowice;5.329
+;Zastów;Kraków Piastów;3.998
 ;Zator Park Rozrywki;Przeciszów;2.818
 ;Zator;Zator Park Rozrywki;1.59
 ;Zawada;Mokre;6.559
@@ -2972,6 +3009,9 @@ id;station_a;station_b;distance
 ;Zbydniów;Grębów;7.077
 ;Zdrody Nowe;Łapy Osse;4.468
 ;Zduny;Krotoszyn;7.353
+;Zduńska Wola Karsznice;Babiak;91.876
+;Zduńska Wola Południowa;Zduńska Wola Karsznice;1.294
+;Zduńska Wola;Zduńska Wola Karsznice;4.9
 ;Zduńska Wola;Męcka Wola;7.072
 ;Zdzieszowice;Jasiona;5.372
 ;Zebrzydowa;Zagajnik;6.707
@@ -2991,7 +3031,7 @@ id;station_a;station_b;distance
 ;Zgorzelec;Zgorzelec (Gr);1.019
 ;Zieleń;Wąbrzeźno;6.438
 ;Zielona Góra Główna;Zielona Góra Przylep;7.192
-;Zielona Góra Główna;Buchałów;11.137
+;Zielona Góra Główna;Słone;9.090
 ;Zielona Góra Nowy Kisielin;Zielona Góra Stary Kisielin;3.657
 ;Zielona Góra Przylep;Czerwieńsk;5.495
 ;Zielona Góra Stary Kisielin;Zielona Góra Główna;5.353
@@ -3029,6 +3069,7 @@ id;station_a;station_b;distance
 ;Żakowice;Gałkówek;4.306
 ;Żalno;Tuchola;7.347
 ;Żarki-Letnisko;Masłońskie Natalin;3.301
+;Żarnowa;Strzyżów nad Wisłokiem;2.39
 ;Żarów;Jaworzyna Śląska;5.523
 ;Żary Kunice;Jankowa Żagańska;3.678
 ;Żary;Sieniawa Żarska;5.28

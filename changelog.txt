@@ -6,7 +6,54 @@
 ? other
 
 TODO:
-Kosów, Stawiany Pińczowskie, Otomino
+Kosów, Otomino, Zaborowice
+
+2024-11-29
++ Koszalin Wschodni
++ Koszalin Politechnika
++ Nida
++ Stawiany Pińczowskie
++ Strzelce Świdnickie
++ Lutoryż
++ Żarnowa
++ Łódź Zarzew
++ Głowno Północne
++ Częstochowa Aniołów <-> Zduńska Wola Karsznice
++ Rząsawa
++ Mykanów
++ Stary Cykarzew
++ Cykarzew Północny
++ Stary Broniszew
++ Ważne Młyny
++ Nowa Brzeźnica
++ Dubidze 
++ Dubidze-Kolonia 
++ Biała Szlachecka
++ Chorzew Siemkowice
++ Huta
++ Rusiec Łódzki
++ Chociw Łaski 
++ Siedlce Łaskie
++ Kozuby
++ Zduńska Wola Południowa 
++ Zduńska Wola Karsznice
++ Zduńska Wola Karsznice <-> Babiak
++ Zduńska Wola Karsznice <-> Zduńska Wola
++ Wronki Zamość
++ Kraków Piastów
++ Kraków Kościelniki
++ Kraków Przylasek
+- Bytom Bobrek
++ Zabrze Północne
++ Zabrze Maciejów
++ Radziszewo
++ Szczecin Żydowce
++ Szczecin Łasztownia
++ Sosnowiec Jęzor Południowy
++ Słone
++ Chorzów Uniwersytet 
+- Bytom Północny
++ Kołobrzeg Amfiteatr
 
 2024-02-20
 + Chabówka Stadion
