@@ -6,7 +6,63 @@
 ? other
 
 TODO:
-Kosów, Otomino, Zaborowice
+Kosów, Zaborowice
+
+2024-11-30
++ Aleksandrów
++ Jaski
++ Ustrzesz
++ Bezwola
++ Milanów
++ Błonie Rokitno
++ Cierpice
++ Białystok Zielone Wzgórza
+- Białystok Wiadukt
++ Gdańsk Kiełpinek <-> Dzierżążno
++ Gdańsk Kokoszki
++ Leźno
++ Stara Piła
++ Otomino
++ Żukowo Zachodnie
++ Gdynia Orłowo
+* Goczałkowice Zdrój <-> Goczałkowice-Zdrój
++ Goleniów Park Przemysłowy
++ Gregorowce Południowe
+* Jastrzębiec <-> Jarzębiec
++ Jastrowie Miasto
++ Józefin
++ Kolno
++ Kołobrzeg Radzikowo
++ Ostrołęka <-> Łapy
++ Kurpie
++ Kulesze Kościelne
++ Sokoły
++ Legnica Strefa
+- Nowa Wieś Legnicka
++ Nikielkowo
++ Osowiec Śląski
++ Patrzyków
++ Piekoszów Łaziska
++ Górki Szczukowskie <-> Szczukowskie Górki
++ Piła Fabryczna
++ Podchojny
++ Repczyce
++ Rzepin Miasto
+* Grudze <-> Stare Grudze
++ Strzyżów Zachodni
++ Szczecin Dunikowo
++ Szczecin Trzebusz
++ Szczecinek Bugno
++ Wietrzychowo
+* Wilkasy-Niegocin <-> Wilkasy Niegocin
++ Wodzisław Śląski Centrum
++ Zegrze Południowe
++ Wieliszew Centrum
++ Zegrze Południowe
++ Strzelce Krajeńskie Wschód <-> Zwierzyn
++ Świdnica Zawiszów
++ Świdwin Zamek
++ Żary Muzyków
 
 2024-11-29
 + Koszalin Wschodni
