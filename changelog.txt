@@ -6,7 +6,23 @@
 ? other
 
 TODO:
-Kosów, Zaborowice
+Kosów, Zaborowice, Stobno Szczecińskie
+
+2024-12-02
++ Bodzechów
++ Brzustowa Opatowska
++ Drygulec
++ Jasice 
++ Metan
++ Pisary
++ Izabelów
++ Wistka
++ Wierzbno
++ Pszczew
++ Policko
++ Bobowicko
++ Wierzbno <-> Międzyrzecz
++ Łagiewniki
 
 2024-11-30
 + Aleksandrów

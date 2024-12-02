@@ -289,7 +289,8 @@ id;station_a;station_b;distance
 ;Ważne Młyny;Nowa Brzeźnica;4.03
 ;Nowa Brzeźnica;Dubidze;3.02
 ;Dubidze;Dubidze-Kolonia;1.86
-;Dubidze-Kolonia;Biała Szlachecka;10.121
+;Dubidze-Kolonia;Wistka;3.945
+;Wistka;Biała Szlachecka;6.176
 ;Biała Szlachecka;Chorzew Siemkowice;8.868
 ;Chorzew Siemkowice;Huta;7.038
 ;Huta;Rusiec Łódzki;5.255
@@ -431,7 +432,8 @@ id;station_a;station_b;distance
 ;Trzebinia;Dulowa;5.073
 ;Dulowa;Wola Filipowska;4.323
 ;Wola Filipowska;Krzeszowice;3.985
-;Krzeszowice;Rudawa;6.537
+;Krzeszowice;Pisary;3.253
+;Pisary;Rudawa;2.945
 ;Rudawa;Zabierzów;5.881
 ;Zabierzów;Zabierzów Rząska;2.245
 ;Zabierzów Rząska;Kraków Mydlniki Wapiennik;2.194
@@ -615,10 +617,15 @@ id;station_a;station_b;distance
 ;Staw Kunowski;Kunów;5.525
 ;Kunów;Boksycka;2.876
 ;Boksycka;Ostrowiec Świętokrzyski;4.256
-;Ostrowiec Świętokrzyski;Ćmielów;11.969
-;Ćmielów;Jakubowice;13.63
+;Ostrowiec Świętokrzyski;Bodzechów;4.438
+;Bodzechów;Brzustowa Opatowska;4.025
+;Brzustowa Opatowska;Ćmielów;3.506
+;Ćmielów;Drygulec;3.854
+;Drygulec;Jasice;4.37
+;Jasice;Jakubowice;5.404
 ;Jakubowice;Dwikozy;15.446
-;Dwikozy;Sandomierz;10.79
+;Dwikozy;Metan;4.633
+;Metan;Sandomierz;6.157
 ;Sandomierz;Wielowieś;3.719
 ;Wielowieś;Grębów;7.194
 ;Zbydniów;Tubia;4.15
@@ -1065,7 +1072,8 @@ id;station_a;station_b;distance
 ;Łask;Borszewice;5.332
 ;Borszewice;Zduńska Wola;6.179
 ;Zduńska Wola;Zduńska Wola Karsznice;4.9
-;Zduńska Wola;Męcka Wola;7.072
+;Zduńska Wola;Izabelów;2.24
+;Izabelów;Męcka Wola;4.729
 ;Męcka Wola;Sieradz Męka;4.967
 ;Sieradz Męka;Sieradz Warta;3.755
 ;Sieradz Warta;Sieradz;1.281
@@ -1587,6 +1595,10 @@ id;station_a;station_b;distance
 ;Lutol Suchy;Panowice;2.286
 ;Panowice;Bukowiec Międzyrzecki;3.453
 ;Bukowiec Międzyrzecki;Międzyrzecz;10.797
+;Wierzbno;Pszczew;8.793
+;Pszczew;Policko;6.848
+;Policko;Bobowicko;3.495
+;Bobowicko;Międzyrzecz;3.774
 ;Międzyrzecz;Głębokie Międzyrzeckie;6.139
 ;Głębokie Międzyrzeckie;Popowo Skwierzyńskie;5.877
 ;Popowo Skwierzyńskie;Skwierzyna;6.485
@@ -2785,7 +2797,8 @@ id;station_a;station_b;distance
 ;Wandzin;Niemce;4.118
 ;Niemce;Bystrzyca koło Lublina;1.837
 ;Bystrzyca koło Lublina;Ciecierzyn;3.893
-;Ciecierzyn;Rudnik;3.984
+;Ciecierzyn;Łagiewniki;1.777
+;Łagiewniki;Rudnik;2.232
 ;Rudnik;Lublin Ponikwoda;2.842
 ;Lublin Ponikwoda;Lublin Zadębie;0.946
 ;Lublin Zadębie;Lublin Północny;2.233

@@ -133,12 +133,14 @@ id;station_a;station_b;distance
 ;Błotnica;Perkowo;2.614
 ;Bobowa;Bobowa-Miasto;1.796
 ;Bobowa-Miasto;Jankowa;1.418
+;Bobowicko;Międzyrzecz;3.774
 ;Bobrowniki;Bełchów;3.954
 ;Bobrowo Pomorskie;Złocieniec;3.958
 ;Bobrówka;Zagrody;3.276
 ;Bobry;Widzów Teklinów;5.769
 ;Bochnia;Rzezawa;6.082
 ;Boczów;Rzepin;9.709
+;Bodzechów;Brzustowa Opatowska;4.025
 ;Bogaczewo;Pasłęk;4.256
 ;Bogaczów;Nowogród Bobrzański;3.944
 ;Bogdaniec;Łupowo;3.238
@@ -205,6 +207,7 @@ id;station_a;station_b;distance
 ;Brzoza Toruńska;Toruń Czerniewice;1.756
 ;Brzozowica;Misie;5.614
 ;Brzozowiec Gorzowski;Deszczno;4.787
+;Brzustowa Opatowska;Ćmielów;3.506
 ;Brzustów;Antoniów;5.129
 ;Buchałów;Letnica;5.36
 ;Budachów;Pliszka;7.255
@@ -331,7 +334,7 @@ id;station_a;station_b;distance
 ;Ciechanów Przemysłowy;Ciechanów;2.785
 ;Ciechanów;Czeruchy;8.262
 ;Ciecholub;Biesowice;2.41
-;Ciecierzyn;Rudnik;3.984
+;Ciecierzyn;Łagiewniki;1.777
 ;Cieksyn;Nasielsk;8.383
 ;Cienin Kościelny;Cienin;2.885
 ;Cienin;Słupca;8.303
@@ -415,7 +418,7 @@ id;station_a;station_b;distance
 ;Czuprynowo;Kuźnica Białostocka;4.489
 ;Czyżew;Kity;6.229
 ;Czyżowice;Bełsznica;4.334
-;Ćmielów;Jakubowice;13.63
+;Ćmielów;Drygulec;3.854
 ;Dalanówek;Wkra;7.415
 ;Dalekie;Zygmuntowo Mazowieckie;5.434
 ;Daleszewo;Radziszewo;2.635
@@ -500,18 +503,19 @@ id;station_a;station_b;distance
 ;Drogomyśl;Pruchna;5.084
 ;Drużyna Poznańska;Mosina;3.941
 ;Drygały;Pogorzel Wielka;4.594
+;Drygulec;Jasice;4.37
 ;Drzeńsko;Kowalów;3.174
 ;Drzewce;Torzym;9.17
 ;Drzewica;Bieliny Opoczyńskie;3.132
 ;Drzonowo;Biały Bór;9.218
 ;Drzymałowo;Rakoniewice;2.986
 ;Dubidze;Dubidze-Kolonia;1.86
-;Dubidze-Kolonia;Biała Szlachecka;10.121
+;Dubidze-Kolonia;Wistka;3.945
 ;Dubielno;Grupa;4.897
 ;Dulowa;Wola Filipowska;4.323
 ;Dunowo;Nosówko;4.199
 ;Duszniki-Zdrój;Kulin Kłodzki;5.308
-;Dwikozy;Sandomierz;10.79
+;Dwikozy;Metan;4.633
 ;Dwory;Oświęcim;6.922
 ;Dygowo;Stramnica;5.253
 ;Dytmarów;Prudnik;7.06
@@ -790,6 +794,7 @@ id;station_a;station_b;distance
 ;Inwałd;Andrychów;2.717
 ;Iwin;Grzmiąca;8.001
 ;Iwiny;Smardzów Wrocławski;2.766
+;Izabelów;Męcka Wola;4.729
 ;Izbica;Tarzymiechy;6.017
 ;Jabłonowo Pomorskie;Ostrowite koło Jabłonowa;8.629
 ;Jabłonowo Pomorskie;Konojady;7.471
@@ -823,6 +828,7 @@ id;station_a;station_b;distance
 ;Jarszewo;Górki Pomorskie;3.771
 ;Jarzębia Łąka;Grzegorzewo;3.3
 ;Jarzębiec;Grodzie;4.27
+;Jasice;Jakubowice;5.404
 ;Jasienica Dolna;Mańkowice;2.683
 ;Jasienica Mazowiecka;Tłuszcz;2.964
 ;Jasień Brzeski;Brzesko Okocim;4.037
@@ -1178,7 +1184,7 @@ id;station_a;station_b;distance
 ;Krzepice;Jaworzno koło Wielunia;5.957
 ;Krzepów;Głogów;4.792
 ;Krzeszna;Wieżyca;2.538
-;Krzeszowice;Rudawa;6.537
+;Krzeszowice;Pisary;3.253
 ;Krzewie;Turzynów;9.484
 ;Krzycko Wielkie;Włoszakowice;6.358
 ;Krzymosze;Mordy;4.434
@@ -1344,6 +1350,7 @@ id;station_a;station_b;distance
 ;Lutoryż;Wisłoczanka;1.68
 ;Luzino;Strzebielino Morskie;4.845
 ;Ładzin;Mokrzyca Wielka;4.153
+;Łagiewniki;Rudnik;2.232
 ;Łambinowice;Budziszowice;2.839
 ;Łankiejmy;Korsze;6.341
 ;Łańcut;Głuchów;3.744
@@ -1459,6 +1466,7 @@ id;station_a;station_b;distance
 ;Medyka;Medyka (Gr);1.160
 ;Medzilaborce Mesto;Medzilaborce;1.549
 ;Mełno;Boguszewo;3.941
+;Metan;Sandomierz;6.157
 ;Męcikał;Żabno koło Chojnic;3.497
 ;Męcka Wola;Sieradz Męka;4.967
 ;Miały;Drawski Młyn;7.887
@@ -1753,7 +1761,7 @@ id;station_a;station_b;distance
 ;Ostrołęka;Grabowo;6.246
 ;Ostromecko;Dąbrowa Chełmińska;5.703
 ;Ostrowie Biebrzańskie;Jastrzębna;4.411
-;Ostrowiec Świętokrzyski;Ćmielów;11.969
+;Ostrowiec Świętokrzyski;Bodzechów;4.438
 ;Ostrowite koło Jabłonowa;Lipinki;4.884
 ;Ostrowy;Rutkowice;7.476
 ;Ostróda;Lubajny;5.074
@@ -1858,6 +1866,7 @@ id;station_a;station_b;distance
 ;Pionki;Pionki Zachodnie;1.757
 ;Piotrków Kujawski;Inowrocław Rąbinek;33.084
 ;Piotrków Trybunalski;Milejów;6.147
+;Pisary;Rudawa;2.945
 ;Pisz Wschodni;Stare Guty;6.442
 ;Pisz;Pisz Wschodni;2.432
 ;Piwniczna;Łomnica-Zdrój;1.665
@@ -1900,6 +1909,7 @@ id;station_a;station_b;distance
 ;Polana Jakuszycka;Jakuszyce (Gr);6.02
 ;Polanica-Zdrój;Szczytna;5.703
 ;Polichna Kraśnicka;Rzeczyca-Kolonia;3.018
+;Policko;Bobowicko;3.495
 ;Policzna;Witowo;6.986
 ;Polna;Wilczyska;4.913
 ;Polna;Szalowa;2.245
@@ -1976,6 +1986,7 @@ id;station_a;station_b;distance
 ;Przytocko;Ciecholub;6.2
 ;Przywory Opolskie;Opole Grotowice;3.425
 ;Pstroszyce;Miechów;5.149
+;Pszczew;Policko;6.848
 ;Pszczółki;Skowarcz;1.618
 ;Pszczyna Czarków;Radostowice;2.596
 ;Pszczyna;Goczałkowice;3.613
@@ -2825,6 +2836,7 @@ id;station_a;station_b;distance
 ;Wierzawice;Grodzisko Dolne;8.509
 ;Wierzbica Górna;Domaszowice;7.063
 ;Wierzbice;Pustków Żurawski;3.204
+;Wierzbno;Pszczew;8.793
 ;Wierzbowa Śląska;Studzianka;5.615
 ;Wierzchosławice;Gniewkowo;3.658
 ;Wierzchowice;Milicz;5.079
@@ -2855,6 +2867,7 @@ id;station_a;station_b;distance
 ;Wisła Kopydło;Wisła Dziechcinka;1.719
 ;Wisła Uzdrowisko;Wisła Jawornik;1.499
 ;Wisłoczanka;Babica;2.12
+;Wistka;Biała Szlachecka;6.176
 ;Wiśniowa;Frysztak;5.524
 ;Witanów;Boża Wola;3.2
 ;Witaszyce;Jarocin;6.583
@@ -3057,7 +3070,7 @@ id;station_a;station_b;distance
 ;Zduńska Wola Karsznice;Babiak;91.876
 ;Zduńska Wola Południowa;Zduńska Wola Karsznice;1.294
 ;Zduńska Wola;Zduńska Wola Karsznice;4.9
-;Zduńska Wola;Męcka Wola;7.072
+;Zduńska Wola;Izabelów;2.24
 ;Zdzieszowice;Jasiona;5.372
 ;Zebrzydowa;Zagajnik;6.707
 ;Zebrzydowice;Kończyce;2.692
