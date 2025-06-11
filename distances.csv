@@ -61,6 +61,7 @@ id;station_a;station_b;distance
 ;Gliwice;Zabrze Maciejów;5.748
 ;Zabrze Maciejów;Zabrze Północne;3.543
 ;Zabrze Północne;Bytom;9.561
+;Zabrze Północne;Bytom Stroszek;11.579
 ;Zabrze;Ruda Śląska;4.858
 ;Ruda Śląska;Ruda Chebzie;2.328
 ;Ruda Chebzie;Świętochłowice;3.327
@@ -83,6 +84,8 @@ id;station_a;station_b;distance
 ;Wiesiółka;Łazy;3.686
 ;Łazy;Zawiercie;6.427
 ;Zawiercie;Poręba;7.977
+;Łazy;Zawiercie Kądzielów;6.434
+;Zawiercie Kądzielów;Poręba;5.6
 ;Poręba;Siewierz;6.947
 ;Siewierz;Mierzęcice;8.018
 ;Mierzęcice;Pyrzowice Lotnisko;3.714
@@ -147,7 +150,8 @@ id;station_a;station_b;distance
 ;Rajcza;Rajcza Centrum;1.765
 ;Rajcza Centrum;Rycerka;1.75
 ;Rycerka;Sól;3.063
-;Sól;Sól Kiczora;3.195
+;Sól;Sól Kiczora Szpaki;1.695
+;Sól Kiczora Szpaki;Sól Kiczora;1.5
 ;Sól Kiczora;Laliki;2.096
 ;Laliki;Zwardoń;3.25
 ;Wisła Głębce;Wisła Kopydło;1.75
@@ -229,7 +233,8 @@ id;station_a;station_b;distance
 ;Żory;Szczejkowice;4.193
 ;Szczejkowice;Rybnik Piaski;6.442
 ;Rybnik Piaski;Rybnik;3.194
-;Tychy;Łaziska Średnie;7.711
+;Tychy;Wyry;4.524
+;Wyry;Łaziska Średnie;3.187
 ;Łaziska Średnie;Orzesze Miasto;7.407
 ;Orzesze Miasto;Orzesze Jaśkowice;1.949
 ;Gliwice;Przyszowice;11.997
@@ -361,7 +366,8 @@ id;station_a;station_b;distance
 ;Łosiów;Brzeg;9.406
 ;Brzeg;Lipki;8.629
 ;Lipki;Oława;6.437
-;Oława;Lizawice;7.353
+;Oława;Oława Zachodnia;2.587
+;Oława Zachodnia;Lizawice;4.766
 ;Lizawice;Zębice Wrocławskie;5.339
 ;Zębice Wrocławskie;Święta Katarzyna;3.769
 ;Święta Katarzyna;Wrocław Brochów;4.752
@@ -692,7 +698,8 @@ id;station_a;station_b;distance
 ;Rzemień;Rzochów;2.764
 ;Rzochów;Mielec Południowy;2.15
 ;Mielec Południowy;Wojsław;1.87
-;Wojsław;Mielec;3.747
+;Wojsław;Mielec Wolności;2.83
+;Mielec Wolności;Mielec;0.917
 ;Mielec;Chorzelów Południowy;4.383
 ;Chorzelów Południowy;Chorzelów;1.608
 ;Chorzelów;Tuszów Narodowy;3.445
@@ -1530,6 +1537,7 @@ id;station_a;station_b;distance
 ;Nowy Solec;Wroniawy;3.837
 ;Wroniawy;Nowy Widzim;2.869
 ;Nowy Widzim;Wolsztyn;4.107
+;Wolsztyn;Powodowo;4.297
 ;Wolsztyn;Tuchorza;7.492
 ;Tuchorza;Belęcin Wielkopolski;4.814
 ;Belęcin Wielkopolski;Stefanowo;4.38
@@ -2462,6 +2470,7 @@ id;station_a;station_b;distance
 ;Stawiguda;Gągławki;5.056
 ;Gągławki;Bartąg;3.667
 ;Bartąg;Olsztyn Dajtki;6.246
+;Malbork;Królewo Malborskie;4.937
 ;Królewo Malborskie;Stare Pole;5.037
 ;Stare Pole;Fiszewo;5.947
 ;Fiszewo;Gronowo Elbląskie;3.3
