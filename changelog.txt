@@ -6,7 +6,13 @@
 ? other
 
 TODO:
-Kosów, Zaborowice, Stobno Szczecińskie
+Kosów, Zaborowice, Stobno Szczecińskie, Herby Nowe - Kłobuck, Aleksandrów Kujawski - Ciechocinek
+
+
+2025-12-04
++ Mnichów
+? Fixed typo
+
 
 2024-12-02
 + Bodzechów
