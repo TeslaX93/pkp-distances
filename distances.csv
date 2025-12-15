@@ -513,8 +513,8 @@ id;station_a;station_b;distance
 ;Zastów;Kraków Piastów;3.998
 ;Kraków Piastów;Kraków Batowice;1.331
 ;Kraków Batowice;Kraków Główny;6.165
-;Radom Główny;Radom Południowy;7.073
-;Radom Południowy;Rożki;3.239
+;Radom Główny;Trablice;7.073
+;Trablice;Rożki;3.239
 ;Rożki;Dąbrówka Zabłotnia;3.526
 ;Dąbrówka Zabłotnia;Ruda Wielka;0.763
 ;Ruda Wielka;Wola Lipieniecka;3.157
@@ -540,7 +540,8 @@ id;station_a;station_b;distance
 ;Radkowice;Wolica;5.607
 ;Wolica;Sobków;4.116
 ;Sobków;Miąsowa;7.613
-;Miąsowa;Podchojny;8.025
+;Miąsowa;Mnichów;2.948
+;Mnichów;Podchojny;5.078
 ;Podchojny;Jędrzejów;4.15
 ;Jędrzejów;Potok;6.598
 ;Potok;Krzcięcice;6.28
@@ -582,7 +583,8 @@ id;station_a;station_b;distance
 ;Podbór;Chronów;3.76
 ;Chronów;Wolanów;4.798
 ;Wolanów;Kończyce Radomskie;3.328
-;Kończyce Radomskie;Radom Potkanów;4.069
+;Kończyce Radomskie;Kosów;1.239
+;Kosów;Radom Potkanków;2.83
 ;Radom Potkanów;Radom Główny;6.376
 ;Tomaszów Mazowiecki;Opoczno Południe;45.051
 ;Koluszki;Słotwiny;3.213
@@ -1317,8 +1319,8 @@ id;station_a;station_b;distance
 ;Olszyna Lubańska;Lubań Śląski;8.07
 ;Lubań Śląski;Zaręba;6.247
 ;Zaręba;Batowice Lubańskie;4.493
-;Batowice Lubańskie;Mikułowa;3.32
-;Mikułowa;Jerzmanki;5.533
+;Batowice Lubańskie;Studniska;5.77
+;Studniska;Jerzmanki;3.083
 ;Jerzmanki;Zgorzelec;4.05
 ;Wrocław Główny;Wrocław Muchobór;4.956
 ;Wrocław Muchobór;Wrocław Nowy Dwór;1.856
