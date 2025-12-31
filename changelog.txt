@@ -8,6 +8,31 @@
 TODO:
 Stobno Szczecińskie, Herby Nowe - Kłobuck, Aleksandrów Kujawski - Ciechocinek, Rabka Zaryte
 
+2025-12-31
++ Biała Podlaska Wschodnia
+* Brzustowa Opatowska -> Brzóstowa
+* Górna Grupa -> Dolna Grupa
++ Grabik 
++ Karpacz
++ Kunice
++ Lisowice
+* Pludry <-> Fosowskie (fix)
++ Miłków
++ Mysłakowice
++ Mysłakowice Orzeł
++ Oderbruecke
++ Radom Wschodni 
++ Somonino Bernardyno
++ Somonino <-> Kartuzy
++ Stary Garbów
++ Trzeciewnica
++ Łomnica
++ Łomnica Dolna 
++ Łomnica Średnia 
++ Jelenia Góra <-> Karpacz
+* Frankfurt am Oder -> Frankfurt/Oder
+
+
 2025-12-16
 Radom Południowy -> Trablice
 + Kosów
